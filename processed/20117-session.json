@@ -1,0 +1,2878 @@
+{
+  "meta": {
+    "schemaVersion": "1.0",
+    "parliament": "DE-SH",
+    "electoralPeriod": {
+      "number": 20
+    },
+    "session": "20117",
+    "tagung": 42,
+    "dateStart": "2026-05-06T09:41:18",
+    "dateEnd": "2026-05-06T17:55:09",
+    "sourceURI": "https://m7k.ltsh.de/",
+    "processing": {
+      "parse_media": "2026-05-31T15:48:24",
+      "merge": "2026-05-31T15:48:24",
+      "nel": "2026-06-02T21:08:13"
+    },
+    "lastUpdate": "2026-05-31T15:48:24"
+  },
+  "data": [
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T09:41:18",
+        "dateEnd": "2026-05-06T09:50:38"
+      },
+      "dateStart": "2026-05-06T09:41:18",
+      "dateEnd": "2026-05-06T09:50:38",
+      "speechIndex": 1,
+      "originID": "34544",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Niclas Dürbrook",
+          "context": "main-speaker",
+          "firstname": "Niclas",
+          "lastname": "Dürbrook",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=776,1342",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34544",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34544",
+        "duration": 560,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=776,1342",
+          "clockBeginn": "09:41:18",
+          "clockEnde": "09:50:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Niclas Dürbrook",
+        "gruppeRaw": "SPD",
+        "beginnClock": "09:41:18",
+        "endeClock": "09:50:38",
+        "durationSeconds": 560
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T09:50:38",
+        "dateEnd": "2026-05-06T10:00:19"
+      },
+      "dateStart": "2026-05-06T09:50:38",
+      "dateEnd": "2026-05-06T10:00:19",
+      "speechIndex": 2,
+      "originID": "34545",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Tobias Koch",
+          "context": "main-speaker",
+          "firstname": "Tobias",
+          "lastname": "Koch",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q2437863",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=1336,1923",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34545",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34545",
+        "duration": 581,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=1336,1923",
+          "clockBeginn": "09:50:38",
+          "clockEnde": "10:00:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Tobias Koch",
+        "gruppeRaw": "CDU",
+        "beginnClock": "09:50:38",
+        "endeClock": "10:00:19",
+        "durationSeconds": 581
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:00:19",
+        "dateEnd": "2026-05-06T10:09:07"
+      },
+      "dateStart": "2026-05-06T10:00:19",
+      "dateEnd": "2026-05-06T10:09:07",
+      "speechIndex": 3,
+      "originID": "34546",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Lasse Petersdotter",
+          "context": "main-speaker",
+          "firstname": "Lasse",
+          "lastname": "Petersdotter",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          },
+          "wid": "Q29880048",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=1917,2451",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34546",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34546",
+        "duration": 528,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=1917,2451",
+          "clockBeginn": "10:00:19",
+          "clockEnde": "10:09:07"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Lasse Petersdotter",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "10:00:19",
+        "endeClock": "10:09:07",
+        "durationSeconds": 528
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:09:07",
+        "dateEnd": "2026-05-06T10:20:16"
+      },
+      "dateStart": "2026-05-06T10:09:07",
+      "dateEnd": "2026-05-06T10:20:16",
+      "speechIndex": 4,
+      "originID": "34547",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Bernd Buchholz",
+          "context": "main-speaker",
+          "firstname": "Bernd",
+          "lastname": "Buchholz",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q823715",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=2445,3120",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34547",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34547",
+        "duration": 669,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=2445,3120",
+          "clockBeginn": "10:09:07",
+          "clockEnde": "10:20:16"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Dr. Bernd Buchholz",
+        "gruppeRaw": "FDP",
+        "beginnClock": "10:09:07",
+        "endeClock": "10:20:16",
+        "durationSeconds": 669
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:20:16",
+        "dateEnd": "2026-05-06T10:34:25"
+      },
+      "dateStart": "2026-05-06T10:20:16",
+      "dateEnd": "2026-05-06T10:34:25",
+      "speechIndex": 5,
+      "originID": "34548",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Sybilla Nitsch",
+          "context": "main-speaker",
+          "firstname": "Sybilla",
+          "lastname": "Nitsch",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=3114,3969",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34548",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34548",
+        "duration": 849,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=3114,3969",
+          "clockBeginn": "10:20:16",
+          "clockEnde": "10:34:25"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Sybilla Nitsch",
+        "gruppeRaw": "SSW",
+        "beginnClock": "10:20:16",
+        "endeClock": "10:34:25",
+        "durationSeconds": 849
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:34:25",
+        "dateEnd": "2026-05-06T10:42:08"
+      },
+      "dateStart": "2026-05-06T10:34:25",
+      "dateEnd": "2026-05-06T10:42:08",
+      "speechIndex": 6,
+      "originID": "34549",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 1: Aktuelle Stunde",
+        "title": "Aktuelle Stunde",
+        "id": "TOP-1",
+        "nativeType": "DE-SH-current_affairs",
+        "type": "current_affairs"
+      },
+      "people": [
+        {
+          "label": "Claus Ruhe Madsen",
+          "context": "main-speaker",
+          "firstname": "Claus",
+          "lastname": "Ruhe Madsen",
+          "role": "Minister"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=3963,4432",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34549",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34549",
+        "duration": 463,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=3963,4432",
+          "clockBeginn": "10:34:25",
+          "clockEnde": "10:42:08"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "1",
+        "rednerRaw": "Minister Claus Ruhe Madsen",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "10:34:25",
+        "endeClock": "10:42:08",
+        "durationSeconds": 463
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:42:52",
+        "dateEnd": "2026-05-06T10:48:16"
+      },
+      "dateStart": "2026-05-06T10:42:52",
+      "dateEnd": "2026-05-06T10:48:16",
+      "speechIndex": 7,
+      "originID": "34551",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Magdalena Finke",
+          "context": "main-speaker",
+          "firstname": "Magdalena",
+          "lastname": "Finke",
+          "role": "Ministerin"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=4470,4800",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34551",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34551",
+        "duration": 324,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=4470,4800",
+          "clockBeginn": "10:42:52",
+          "clockEnde": "10:48:16"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Ministerin Magdalena Finke",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "10:42:52",
+        "endeClock": "10:48:16",
+        "durationSeconds": 324
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:48:16",
+        "dateEnd": "2026-05-06T10:53:59"
+      },
+      "dateStart": "2026-05-06T10:48:16",
+      "dateEnd": "2026-05-06T10:53:59",
+      "speechIndex": 8,
+      "originID": "34552",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Birte Glißmann",
+          "context": "main-speaker",
+          "firstname": "Birte",
+          "lastname": "Glißmann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=4794,5143",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34552",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34552",
+        "duration": 343,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=4794,5143",
+          "clockBeginn": "10:48:16",
+          "clockEnde": "10:53:59"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Birte Glißmann",
+        "gruppeRaw": "CDU",
+        "beginnClock": "10:48:16",
+        "endeClock": "10:53:59",
+        "durationSeconds": 343
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:53:59",
+        "dateEnd": "2026-05-06T10:59:45"
+      },
+      "dateStart": "2026-05-06T10:53:59",
+      "dateEnd": "2026-05-06T10:59:45",
+      "speechIndex": 9,
+      "originID": "34553",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jan Kürschner",
+          "context": "main-speaker",
+          "firstname": "Jan",
+          "lastname": "Kürschner",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=5137,5489",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34553",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34553",
+        "duration": 346,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=5137,5489",
+          "clockBeginn": "10:53:59",
+          "clockEnde": "10:59:45"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Jan Kürschner",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "10:53:59",
+        "endeClock": "10:59:45",
+        "durationSeconds": 346
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T10:59:45",
+        "dateEnd": "2026-05-06T11:04:51"
+      },
+      "dateStart": "2026-05-06T10:59:45",
+      "dateEnd": "2026-05-06T11:04:51",
+      "speechIndex": 10,
+      "originID": "34554",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Niclas Dürbrook",
+          "context": "main-speaker",
+          "firstname": "Niclas",
+          "lastname": "Dürbrook",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=5483,5795",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34554",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34554",
+        "duration": 306,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=5483,5795",
+          "clockBeginn": "10:59:45",
+          "clockEnde": "11:04:51"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Niclas Dürbrook",
+        "gruppeRaw": "SPD",
+        "beginnClock": "10:59:45",
+        "endeClock": "11:04:51",
+        "durationSeconds": 306
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:04:51",
+        "dateEnd": "2026-05-06T11:10:42"
+      },
+      "dateStart": "2026-05-06T11:04:51",
+      "dateEnd": "2026-05-06T11:10:42",
+      "speechIndex": 11,
+      "originID": "34555",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Bernd Buchholz",
+          "context": "main-speaker",
+          "firstname": "Bernd",
+          "lastname": "Buchholz",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q823715",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=5789,6146",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34555",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34555",
+        "duration": 351,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=5789,6146",
+          "clockBeginn": "11:04:51",
+          "clockEnde": "11:10:42"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Dr. Bernd Buchholz",
+        "gruppeRaw": "FDP",
+        "beginnClock": "11:04:51",
+        "endeClock": "11:10:42",
+        "durationSeconds": 351
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:10:42",
+        "dateEnd": "2026-05-06T11:16:52"
+      },
+      "dateStart": "2026-05-06T11:10:42",
+      "dateEnd": "2026-05-06T11:16:52",
+      "speechIndex": 12,
+      "originID": "34556",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 6: Fortentwicklung polizeirechtlicher Maßnahmen",
+        "title": "Fortentwicklung polizeirechtlicher Maßnahmen",
+        "id": "TOP-6",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sybilla Nitsch",
+          "context": "main-speaker",
+          "firstname": "Sybilla",
+          "lastname": "Nitsch",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=6140,6516",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34556",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34556",
+        "duration": 370,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=6140,6516",
+          "clockBeginn": "11:10:42",
+          "clockEnde": "11:16:52"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "6",
+        "rednerRaw": "Sybilla Nitsch",
+        "gruppeRaw": "SSW",
+        "beginnClock": "11:10:42",
+        "endeClock": "11:16:52",
+        "durationSeconds": 370
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:17:39",
+        "dateEnd": "2026-05-06T11:22:53"
+      },
+      "dateStart": "2026-05-06T11:17:39",
+      "dateEnd": "2026-05-06T11:22:53",
+      "speechIndex": 13,
+      "originID": "34559",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christopher Vogt",
+          "context": "main-speaker",
+          "firstname": "Christopher",
+          "lastname": "Vogt",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1087038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=6557,6877",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34559",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34559",
+        "duration": 314,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=6557,6877",
+          "clockBeginn": "11:17:39",
+          "clockEnde": "11:22:53"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Christopher Vogt",
+        "gruppeRaw": "FDP",
+        "beginnClock": "11:17:39",
+        "endeClock": "11:22:53",
+        "durationSeconds": 314
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:22:53",
+        "dateEnd": "2026-05-06T11:24:58"
+      },
+      "dateStart": "2026-05-06T11:22:53",
+      "dateEnd": "2026-05-06T11:24:58",
+      "speechIndex": 14,
+      "originID": "34560",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marion Schiefer",
+          "context": "main-speaker",
+          "firstname": "Marion",
+          "lastname": "Schiefer",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=6871,7002",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34560",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34560",
+        "duration": 125,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=6871,7002",
+          "clockBeginn": "11:22:53",
+          "clockEnde": "11:24:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Marion Schiefer",
+        "gruppeRaw": "CDU",
+        "beginnClock": "11:22:53",
+        "endeClock": "11:24:58",
+        "durationSeconds": 125
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:24:58",
+        "dateEnd": "2026-05-06T11:31:31"
+      },
+      "dateStart": "2026-05-06T11:24:58",
+      "dateEnd": "2026-05-06T11:31:31",
+      "speechIndex": 15,
+      "originID": "34561",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nelly Waldeck",
+          "context": "main-speaker",
+          "firstname": "Nelly",
+          "lastname": "Waldeck",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=6996,7395",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34561",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34561",
+        "duration": 393,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=6996,7395",
+          "clockBeginn": "11:24:58",
+          "clockEnde": "11:31:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Nelly Waldeck",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "11:24:58",
+        "endeClock": "11:31:31",
+        "durationSeconds": 393
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:31:31",
+        "dateEnd": "2026-05-06T11:37:15"
+      },
+      "dateStart": "2026-05-06T11:31:31",
+      "dateEnd": "2026-05-06T11:37:15",
+      "speechIndex": 16,
+      "originID": "34562",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Beate Raudies",
+          "context": "main-speaker",
+          "firstname": "Beate",
+          "lastname": "Raudies",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q813180",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=7389,7739",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34562",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34562",
+        "duration": 344,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=7389,7739",
+          "clockBeginn": "11:31:31",
+          "clockEnde": "11:37:15"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Beate Raudies",
+        "gruppeRaw": "SPD",
+        "beginnClock": "11:31:31",
+        "endeClock": "11:37:15",
+        "durationSeconds": 344
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:37:15",
+        "dateEnd": "2026-05-06T11:42:37"
+      },
+      "dateStart": "2026-05-06T11:37:15",
+      "dateEnd": "2026-05-06T11:42:37",
+      "speechIndex": 17,
+      "originID": "34563",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Dirschauer",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Dirschauer",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          },
+          "wid": "Q98040947",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=7733,8061",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34563",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34563",
+        "duration": 322,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=7733,8061",
+          "clockBeginn": "11:37:15",
+          "clockEnde": "11:42:37"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Christian Dirschauer",
+        "gruppeRaw": "SSW",
+        "beginnClock": "11:37:15",
+        "endeClock": "11:42:37",
+        "durationSeconds": 322
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T11:42:37",
+        "dateEnd": "2026-05-06T11:50:52"
+      },
+      "dateStart": "2026-05-06T11:42:37",
+      "dateEnd": "2026-05-06T11:50:52",
+      "speechIndex": 18,
+      "originID": "34564",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 48: Rückendeckung für den öffentlichen Dienst",
+        "title": "Rückendeckung für den öffentlichen Dienst",
+        "id": "TOP-48",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Aminata Touré",
+          "context": "main-speaker",
+          "firstname": "Aminata",
+          "lastname": "Touré",
+          "role": "Ministerin",
+          "wid": "Q32165079",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=8055,8556",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34564",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34564",
+        "duration": 495,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=8055,8556",
+          "clockBeginn": "11:42:37",
+          "clockEnde": "11:50:52"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "48",
+        "rednerRaw": "Ministerin Aminata Touré",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "11:42:37",
+        "endeClock": "11:50:52",
+        "durationSeconds": 495
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:01:16",
+        "dateEnd": "2026-05-06T12:05:58"
+      },
+      "dateStart": "2026-05-06T12:01:16",
+      "dateEnd": "2026-05-06T12:05:58",
+      "speechIndex": 19,
+      "originID": "34568",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christopher Vogt",
+          "context": "main-speaker",
+          "firstname": "Christopher",
+          "lastname": "Vogt",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1087038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=9174,9462",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34568",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34568",
+        "duration": 282,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=9174,9462",
+          "clockBeginn": "12:01:16",
+          "clockEnde": "12:05:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Christopher Vogt",
+        "gruppeRaw": "FDP",
+        "beginnClock": "12:01:16",
+        "endeClock": "12:05:58",
+        "durationSeconds": 282
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:05:58",
+        "dateEnd": "2026-05-06T12:11:24"
+      },
+      "dateStart": "2026-05-06T12:05:58",
+      "dateEnd": "2026-05-06T12:11:24",
+      "speechIndex": 20,
+      "originID": "34569",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Rasmus Vöge",
+          "context": "main-speaker",
+          "firstname": "Rasmus",
+          "lastname": "Vöge",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=9456,9788",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34569",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34569",
+        "duration": 326,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=9456,9788",
+          "clockBeginn": "12:05:58",
+          "clockEnde": "12:11:24"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Rasmus Vöge",
+        "gruppeRaw": "CDU",
+        "beginnClock": "12:05:58",
+        "endeClock": "12:11:24",
+        "durationSeconds": 326
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:11:24",
+        "dateEnd": "2026-05-06T12:15:50"
+      },
+      "dateStart": "2026-05-06T12:11:24",
+      "dateEnd": "2026-05-06T12:15:50",
+      "speechIndex": 21,
+      "originID": "34570",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sebastian Bonau",
+          "context": "main-speaker",
+          "firstname": "Sebastian",
+          "lastname": "Bonau",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=9782,10054",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34570",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34570",
+        "duration": 266,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=9782,10054",
+          "clockBeginn": "12:11:24",
+          "clockEnde": "12:15:50"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Sebastian Bonau",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "12:11:24",
+        "endeClock": "12:15:50",
+        "durationSeconds": 266
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:15:50",
+        "dateEnd": "2026-05-06T12:20:19"
+      },
+      "dateStart": "2026-05-06T12:15:50",
+      "dateEnd": "2026-05-06T12:20:19",
+      "speechIndex": 22,
+      "originID": "34571",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Kai Dolgner",
+          "context": "main-speaker",
+          "firstname": "Kai",
+          "lastname": "Dolgner",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1721287",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=10048,10323",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34571",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34571",
+        "duration": 269,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=10048,10323",
+          "clockBeginn": "12:15:50",
+          "clockEnde": "12:20:19"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Dr. Kai Dolgner",
+        "gruppeRaw": "SPD",
+        "beginnClock": "12:15:50",
+        "endeClock": "12:20:19",
+        "durationSeconds": 269
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:20:19",
+        "dateEnd": "2026-05-06T12:27:20"
+      },
+      "dateStart": "2026-05-06T12:20:19",
+      "dateEnd": "2026-05-06T12:27:20",
+      "speechIndex": 23,
+      "originID": "34572",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sybilla Nitsch",
+          "context": "main-speaker",
+          "firstname": "Sybilla",
+          "lastname": "Nitsch",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=10317,10744",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34572",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34572",
+        "duration": 421,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=10317,10744",
+          "clockBeginn": "12:20:19",
+          "clockEnde": "12:27:20"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Sybilla Nitsch",
+        "gruppeRaw": "SSW",
+        "beginnClock": "12:20:19",
+        "endeClock": "12:27:20",
+        "durationSeconds": 421
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:27:20",
+        "dateEnd": "2026-05-06T12:33:51"
+      },
+      "dateStart": "2026-05-06T12:27:20",
+      "dateEnd": "2026-05-06T12:33:51",
+      "speechIndex": 24,
+      "originID": "34573",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 29: Nationaler Veteranentag in Schleswig-Holstein",
+        "title": "Nationaler Veteranentag in Schleswig-Holstein",
+        "id": "TOP-29",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Günther",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Günther",
+          "role": "Ministerpräsident",
+          "wid": "Q969340",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=10738,11135",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34573",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34573",
+        "duration": 391,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=10738,11135",
+          "clockBeginn": "12:27:20",
+          "clockEnde": "12:33:51"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "29",
+        "rednerRaw": "Ministerpräsident Daniel Günther",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "12:27:20",
+        "endeClock": "12:33:51",
+        "durationSeconds": 391
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:35:01",
+        "dateEnd": "2026-05-06T12:40:33"
+      },
+      "dateStart": "2026-05-06T12:35:01",
+      "dateEnd": "2026-05-06T12:40:33",
+      "speechIndex": 25,
+      "originID": "34577",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Marc Timmer",
+          "context": "main-speaker",
+          "firstname": "Marc",
+          "lastname": "Timmer",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=11199,11537",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34577",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34577",
+        "duration": 332,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=11199,11537",
+          "clockBeginn": "12:35:01",
+          "clockEnde": "12:40:33"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Marc Timmer",
+        "gruppeRaw": "SPD",
+        "beginnClock": "12:35:01",
+        "endeClock": "12:40:33",
+        "durationSeconds": 332
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:40:33",
+        "dateEnd": "2026-05-06T12:47:05"
+      },
+      "dateStart": "2026-05-06T12:40:33",
+      "dateEnd": "2026-05-06T12:47:05",
+      "speechIndex": 26,
+      "originID": "34578",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Andreas Hein",
+          "context": "main-speaker",
+          "firstname": "Andreas",
+          "lastname": "Hein",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          },
+          "wid": "Q30150126",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=11531,11929",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34578",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34578",
+        "duration": 392,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=11531,11929",
+          "clockBeginn": "12:40:33",
+          "clockEnde": "12:47:05"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Andreas Hein",
+        "gruppeRaw": "CDU",
+        "beginnClock": "12:40:33",
+        "endeClock": "12:47:05",
+        "durationSeconds": 392
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:47:05",
+        "dateEnd": "2026-05-06T12:56:58"
+      },
+      "dateStart": "2026-05-06T12:47:05",
+      "dateEnd": "2026-05-06T12:56:58",
+      "speechIndex": 27,
+      "originID": "34579",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Ulrike Täck",
+          "context": "main-speaker",
+          "firstname": "Ulrike",
+          "lastname": "Täck",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=11923,12522",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34579",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34579",
+        "duration": 593,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=11923,12522",
+          "clockBeginn": "12:47:05",
+          "clockEnde": "12:56:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Dr. Ulrike Täck",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "12:47:05",
+        "endeClock": "12:56:58",
+        "durationSeconds": 593
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T12:56:58",
+        "dateEnd": "2026-05-06T13:05:40"
+      },
+      "dateStart": "2026-05-06T12:56:58",
+      "dateEnd": "2026-05-06T13:05:40",
+      "speechIndex": 28,
+      "originID": "34580",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christopher Vogt",
+          "context": "main-speaker",
+          "firstname": "Christopher",
+          "lastname": "Vogt",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q1087038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=12516,13044",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34580",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34580",
+        "duration": 522,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=12516,13044",
+          "clockBeginn": "12:56:58",
+          "clockEnde": "13:05:40"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Christopher Vogt",
+        "gruppeRaw": "FDP",
+        "beginnClock": "12:56:58",
+        "endeClock": "13:05:40",
+        "durationSeconds": 522
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T13:05:40",
+        "dateEnd": "2026-05-06T13:09:35"
+      },
+      "dateStart": "2026-05-06T13:05:40",
+      "dateEnd": "2026-05-06T13:09:35",
+      "speechIndex": 29,
+      "originID": "34581",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Michael Schunck",
+          "context": "main-speaker",
+          "firstname": "Michael",
+          "lastname": "Schunck",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=13038,13279",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34581",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34581",
+        "duration": 235,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=13038,13279",
+          "clockBeginn": "13:05:40",
+          "clockEnde": "13:09:35"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Dr. Michael Schunck",
+        "gruppeRaw": "SSW",
+        "beginnClock": "13:05:40",
+        "endeClock": "13:09:35",
+        "durationSeconds": 235
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T13:09:35",
+        "dateEnd": "2026-05-06T13:15:06"
+      },
+      "dateStart": "2026-05-06T13:09:35",
+      "dateEnd": "2026-05-06T13:15:06",
+      "speechIndex": 30,
+      "originID": "34582",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 36: Fortführung der Förderung von kleinen Solaranlagen",
+        "title": "Fortführung der Förderung von kleinen Solaranlagen",
+        "id": "TOP-36",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Tobias Goldschmidt",
+          "context": "main-speaker",
+          "firstname": "Tobias",
+          "lastname": "Goldschmidt",
+          "role": "Minister"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.mp4#t=13273,13610",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34582",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34582",
+        "duration": 331,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T09.28.18.548P02.00.webm#t=13273,13610",
+          "clockBeginn": "13:09:35",
+          "clockEnde": "13:15:06"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "36",
+        "rednerRaw": "Minister Tobias Goldschmidt",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "13:09:35",
+        "endeClock": "13:15:06",
+        "durationSeconds": 331
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T15:03:39",
+        "dateEnd": "2026-05-06T15:15:11"
+      },
+      "dateStart": "2026-05-06T15:03:39",
+      "dateEnd": "2026-05-06T15:15:11",
+      "speechIndex": 31,
+      "originID": "34587",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Dorit Stenke",
+          "context": "main-speaker",
+          "firstname": "Dorit",
+          "lastname": "Stenke",
+          "role": "Ministerin"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=298,996",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34587",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34587",
+        "duration": 692,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=298,996",
+          "clockBeginn": "15:03:39",
+          "clockEnde": "15:15:11"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Ministerin Dr. Dorit Stenke",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "15:03:39",
+        "endeClock": "15:15:11",
+        "durationSeconds": 692
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T15:15:11",
+        "dateEnd": "2026-05-06T15:34:38"
+      },
+      "dateStart": "2026-05-06T15:15:11",
+      "dateEnd": "2026-05-06T15:34:38",
+      "speechIndex": 32,
+      "originID": "34588",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Habersaat",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Habersaat",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          },
+          "wid": "Q1256784",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=990,2163",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34588",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34588",
+        "duration": 1167,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=990,2163",
+          "clockBeginn": "15:15:11",
+          "clockEnde": "15:34:38"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Martin Habersaat",
+        "gruppeRaw": "SPD",
+        "beginnClock": "15:15:11",
+        "endeClock": "15:34:38",
+        "durationSeconds": 1167
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T15:34:38",
+        "dateEnd": "2026-05-06T15:43:59"
+      },
+      "dateStart": "2026-05-06T15:34:38",
+      "dateEnd": "2026-05-06T15:43:59",
+      "speechIndex": 33,
+      "originID": "34589",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Martin Balasus",
+          "context": "main-speaker",
+          "firstname": "Martin",
+          "lastname": "Balasus",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=2157,2724",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34589",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34589",
+        "duration": 561,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=2157,2724",
+          "clockBeginn": "15:34:38",
+          "clockEnde": "15:43:59"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Martin Balasus",
+        "gruppeRaw": "CDU",
+        "beginnClock": "15:34:38",
+        "endeClock": "15:43:59",
+        "durationSeconds": 561
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T15:43:59",
+        "dateEnd": "2026-05-06T15:53:41"
+      },
+      "dateStart": "2026-05-06T15:43:59",
+      "dateEnd": "2026-05-06T15:53:41",
+      "speechIndex": 34,
+      "originID": "34590",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Malte-Jannik Krüger",
+          "context": "main-speaker",
+          "firstname": "Malte-Jannik",
+          "lastname": "Krüger",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=2718,3306",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34590",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34590",
+        "duration": 582,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=2718,3306",
+          "clockBeginn": "15:43:59",
+          "clockEnde": "15:53:41"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Malte-Jannik Krüger",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "15:43:59",
+        "endeClock": "15:53:41",
+        "durationSeconds": 582
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T15:53:41",
+        "dateEnd": "2026-05-06T16:01:43"
+      },
+      "dateStart": "2026-05-06T15:53:41",
+      "dateEnd": "2026-05-06T16:01:43",
+      "speechIndex": 35,
+      "originID": "34591",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Anne Riecke",
+          "context": "main-speaker",
+          "firstname": "Anne",
+          "lastname": "Riecke",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=3300,3788",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34591",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34591",
+        "duration": 482,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=3300,3788",
+          "clockBeginn": "15:53:41",
+          "clockEnde": "16:01:43"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Anne Riecke",
+        "gruppeRaw": "FDP",
+        "beginnClock": "15:53:41",
+        "endeClock": "16:01:43",
+        "durationSeconds": 482
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:01:43",
+        "dateEnd": "2026-05-06T16:11:09"
+      },
+      "dateStart": "2026-05-06T16:01:43",
+      "dateEnd": "2026-05-06T16:11:09",
+      "speechIndex": 36,
+      "originID": "34592",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 15: Gemeinschaftsschulen ohne Oberstufe",
+        "title": "Gemeinschaftsschulen ohne Oberstufe",
+        "id": "TOP-15",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jette Waldinger-Thiering",
+          "context": "main-speaker",
+          "firstname": "Jette",
+          "lastname": "Waldinger-Thiering",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          },
+          "wid": "Q104038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=3782,4354",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34592",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34592",
+        "duration": 566,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=3782,4354",
+          "clockBeginn": "16:01:43",
+          "clockEnde": "16:11:09"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "15",
+        "rednerRaw": "Jette Waldinger-Thiering",
+        "gruppeRaw": "SSW",
+        "beginnClock": "16:01:43",
+        "endeClock": "16:11:09",
+        "durationSeconds": 566
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:12:14",
+        "dateEnd": "2026-05-06T16:17:58"
+      },
+      "dateStart": "2026-05-06T16:12:14",
+      "dateEnd": "2026-05-06T16:17:58",
+      "speechIndex": 37,
+      "originID": "34595",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Sophia Schiebe",
+          "context": "main-speaker",
+          "firstname": "Sophia",
+          "lastname": "Schiebe",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=4413,4763",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34595",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34595",
+        "duration": 344,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=4413,4763",
+          "clockBeginn": "16:12:14",
+          "clockEnde": "16:17:58"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Sophia Schiebe",
+        "gruppeRaw": "SPD",
+        "beginnClock": "16:12:14",
+        "endeClock": "16:17:58",
+        "durationSeconds": 344
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:17:58",
+        "dateEnd": "2026-05-06T16:27:01"
+      },
+      "dateStart": "2026-05-06T16:17:58",
+      "dateEnd": "2026-05-06T16:27:01",
+      "speechIndex": 38,
+      "originID": "34596",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Birte Glißmann",
+          "context": "main-speaker",
+          "firstname": "Birte",
+          "lastname": "Glißmann",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=4757,5306",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34596",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34596",
+        "duration": 543,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=4757,5306",
+          "clockBeginn": "16:17:58",
+          "clockEnde": "16:27:01"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Birte Glißmann",
+        "gruppeRaw": "CDU",
+        "beginnClock": "16:17:58",
+        "endeClock": "16:27:01",
+        "durationSeconds": 543
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:27:01",
+        "dateEnd": "2026-05-06T16:37:54"
+      },
+      "dateStart": "2026-05-06T16:27:01",
+      "dateEnd": "2026-05-06T16:37:54",
+      "speechIndex": 39,
+      "originID": "34597",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Catharina Johanna Nies",
+          "context": "main-speaker",
+          "firstname": "Catharina",
+          "lastname": "Johanna Nies",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=5300,5959",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34597",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34597",
+        "duration": 653,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=5300,5959",
+          "clockBeginn": "16:27:01",
+          "clockEnde": "16:37:54"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Catharina Johanna Nies",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "16:27:01",
+        "endeClock": "16:37:54",
+        "durationSeconds": 653
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:37:54",
+        "dateEnd": "2026-05-06T16:39:09"
+      },
+      "dateStart": "2026-05-06T16:37:54",
+      "dateEnd": "2026-05-06T16:39:09",
+      "speechIndex": 40,
+      "originID": "34598",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Bernd Buchholz",
+          "context": "main-speaker",
+          "firstname": "Bernd",
+          "lastname": "Buchholz",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q823715",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=5953,6034",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34598",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34598",
+        "duration": 75,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=5953,6034",
+          "clockBeginn": "16:37:54",
+          "clockEnde": "16:39:09"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Dr. Bernd Buchholz",
+        "gruppeRaw": "FDP",
+        "beginnClock": "16:37:54",
+        "endeClock": "16:39:09",
+        "durationSeconds": 75
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:39:09",
+        "dateEnd": "2026-05-06T16:44:31"
+      },
+      "dateStart": "2026-05-06T16:39:09",
+      "dateEnd": "2026-05-06T16:44:31",
+      "speechIndex": 41,
+      "originID": "34599",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Jette Waldinger-Thiering",
+          "context": "main-speaker",
+          "firstname": "Jette",
+          "lastname": "Waldinger-Thiering",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          },
+          "wid": "Q104038",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=6028,6356",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34599",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34599",
+        "duration": 322,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=6028,6356",
+          "clockBeginn": "16:39:09",
+          "clockEnde": "16:44:31"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Jette Waldinger-Thiering",
+        "gruppeRaw": "SSW",
+        "beginnClock": "16:39:09",
+        "endeClock": "16:44:31",
+        "durationSeconds": 322
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:46:45",
+        "dateEnd": "2026-05-06T16:56:49"
+      },
+      "dateStart": "2026-05-06T16:46:45",
+      "dateEnd": "2026-05-06T16:56:49",
+      "speechIndex": 42,
+      "originID": "34601",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 25: Bundesratsinitiative - Schutz vor Deepfakes",
+        "title": "Bundesratsinitiative - Schutz vor Deepfakes",
+        "id": "TOP-25",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Aminata Touré",
+          "context": "main-speaker",
+          "firstname": "Aminata",
+          "lastname": "Touré",
+          "role": "Ministerin",
+          "wid": "Q32165079",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=6484,7094",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34601",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34601",
+        "duration": 604,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=6484,7094",
+          "clockBeginn": "16:46:45",
+          "clockEnde": "16:56:49"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "25",
+        "rednerRaw": "Ministerin Aminata Touré",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "16:46:45",
+        "endeClock": "16:56:49",
+        "durationSeconds": 604
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T16:58:59",
+        "dateEnd": "2026-05-06T17:06:10"
+      },
+      "dateStart": "2026-05-06T16:58:59",
+      "dateEnd": "2026-05-06T17:06:10",
+      "speechIndex": 43,
+      "originID": "34605",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Heiner Garg",
+          "context": "main-speaker",
+          "firstname": "Heiner",
+          "lastname": "Garg",
+          "faction": {
+            "label": "FDP",
+            "wid": "Q13124"
+          },
+          "wid": "Q101321",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=7218,7655",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34605",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34605",
+        "duration": 431,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=7218,7655",
+          "clockBeginn": "16:58:59",
+          "clockEnde": "17:06:10"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Dr. Heiner Garg",
+        "gruppeRaw": "FDP",
+        "beginnClock": "16:58:59",
+        "endeClock": "17:06:10",
+        "durationSeconds": 431
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T17:06:10",
+        "dateEnd": "2026-05-06T17:11:10"
+      },
+      "dateStart": "2026-05-06T17:06:10",
+      "dateEnd": "2026-05-06T17:11:10",
+      "speechIndex": 44,
+      "originID": "34606",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Beate Nielsen",
+          "context": "main-speaker",
+          "firstname": "Beate",
+          "lastname": "Nielsen",
+          "faction": {
+            "label": "CDU",
+            "wid": "Q49762"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=7649,7955",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34606",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34606",
+        "duration": 300,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=7649,7955",
+          "clockBeginn": "17:06:10",
+          "clockEnde": "17:11:10"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Beate Nielsen",
+        "gruppeRaw": "CDU",
+        "beginnClock": "17:06:10",
+        "endeClock": "17:11:10",
+        "durationSeconds": 300
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T17:11:10",
+        "dateEnd": "2026-05-06T17:17:24"
+      },
+      "dateStart": "2026-05-06T17:11:10",
+      "dateEnd": "2026-05-06T17:17:24",
+      "speechIndex": 45,
+      "originID": "34607",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Nelly Waldeck",
+          "context": "main-speaker",
+          "firstname": "Nelly",
+          "lastname": "Waldeck",
+          "faction": {
+            "label": "BÜNDNIS 90/DIE GRÜNEN",
+            "wid": "Q49766"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=7949,8329",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34607",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34607",
+        "duration": 374,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=7949,8329",
+          "clockBeginn": "17:11:10",
+          "clockEnde": "17:17:24"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Nelly Waldeck",
+        "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
+        "beginnClock": "17:11:10",
+        "endeClock": "17:17:24",
+        "durationSeconds": 374
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T17:17:24",
+        "dateEnd": "2026-05-06T17:22:35"
+      },
+      "dateStart": "2026-05-06T17:17:24",
+      "dateEnd": "2026-05-06T17:22:35",
+      "speechIndex": 46,
+      "originID": "34608",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Kianusch Stender",
+          "context": "main-speaker",
+          "firstname": "Kianusch",
+          "lastname": "Stender",
+          "faction": {
+            "label": "SPD",
+            "wid": "Q49768"
+          }
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=8323,8640",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34608",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34608",
+        "duration": 311,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=8323,8640",
+          "clockBeginn": "17:17:24",
+          "clockEnde": "17:22:35"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Kianusch Stender",
+        "gruppeRaw": "SPD",
+        "beginnClock": "17:17:24",
+        "endeClock": "17:22:35",
+        "durationSeconds": 311
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T17:22:35",
+        "dateEnd": "2026-05-06T17:28:16"
+      },
+      "dateStart": "2026-05-06T17:22:35",
+      "dateEnd": "2026-05-06T17:28:16",
+      "speechIndex": 47,
+      "originID": "34609",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Christian Dirschauer",
+          "context": "main-speaker",
+          "firstname": "Christian",
+          "lastname": "Dirschauer",
+          "faction": {
+            "label": "SSW",
+            "wid": "Q161545"
+          },
+          "wid": "Q98040947",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=8634,8981",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34609",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34609",
+        "duration": 341,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=8634,8981",
+          "clockBeginn": "17:22:35",
+          "clockEnde": "17:28:16"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Christian Dirschauer",
+        "gruppeRaw": "SSW",
+        "beginnClock": "17:22:35",
+        "endeClock": "17:28:16",
+        "durationSeconds": 341
+      }
+    },
+    {
+      "parliament": "DE-SH",
+      "electoralPeriod": {
+        "number": 20
+      },
+      "session": {
+        "number": 117,
+        "dateStart": "2026-05-06T17:46:27",
+        "dateEnd": "2026-05-06T17:55:09"
+      },
+      "dateStart": "2026-05-06T17:46:27",
+      "dateEnd": "2026-05-06T17:55:09",
+      "speechIndex": 48,
+      "originID": "34611",
+      "originalLanguage": "de",
+      "agendaItem": {
+        "officialTitle": "TOP 43: Umgang mit sozialen Medien",
+        "title": "Umgang mit sozialen Medien",
+        "id": "TOP-43",
+        "type": "regular"
+      },
+      "people": [
+        {
+          "label": "Daniel Günther",
+          "context": "main-speaker",
+          "firstname": "Daniel",
+          "lastname": "Günther",
+          "role": "Ministerpräsident",
+          "wid": "Q969340",
+          "wtype": "PERSON"
+        }
+      ],
+      "media": {
+        "videoFileURI": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.mp4#t=10066,10594",
+        "sourcePage": "https://m7k.ltsh.de/iframe.php?b=34611",
+        "creator": "Schleswig-Holsteinischer Landtag",
+        "license": "Landtag Schleswig-Holstein – political reporting and private use permitted; commercial / advertising use requires written consent. Attribution: Schleswig-Holsteinischer Landtag.",
+        "originMediaID": "34611",
+        "duration": 522,
+        "additionalInformation": {
+          "videoFileURI_webm": "https://m7k.ltsh.de/486x374/2026-05-06T14.58.38.041P02.00.webm#t=10066,10594",
+          "clockBeginn": "17:46:27",
+          "clockEnde": "17:55:09"
+        }
+      },
+      "textContents": [],
+      "documents": [],
+      "debug": {
+        "source": "m7k",
+        "tagung": 42,
+        "topNo": "43",
+        "rednerRaw": "Ministerpräsident Daniel Günther",
+        "gruppeRaw": "Regierung",
+        "beginnClock": "17:46:27",
+        "endeClock": "17:55:09",
+        "durationSeconds": 522
+      }
+    }
+  ]
+}

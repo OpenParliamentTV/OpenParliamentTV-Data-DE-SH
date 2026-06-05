@@ -1,0 +1,4204 @@
+{
+  "data": [
+    {
+      "id": "Q1344316",
+      "label": "Karl Panitzki",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1348643",
+      "label": "Wilhelm Mohr",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q865888",
+      "label": "Birte Pauls",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q879742",
+      "label": "Björn Thoroe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q918020",
+      "label": "Brita Schmitz-Hübsch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1338982",
+      "label": "Emmy Lüthje",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1339169",
+      "label": "Rainer Ute Harms",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1341872",
+      "label": "Peter Matthiesen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q74147",
+      "label": "Christian von Boetticher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q72841",
+      "label": "Helmut Lemke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q74239",
+      "label": "Theodor Steltzer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q74264",
+      "label": "Henning Schwarz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q69036",
+      "label": "Torsten Albig",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q70056",
+      "label": "Waldemar Kraft",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q70064",
+      "label": "Hermann Lüdemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1349997",
+      "label": "Uwe Gunnesson",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1351902",
+      "label": "Erich Arp",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1352138",
+      "label": "Erich Eltermann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q77525",
+      "label": "Angelika Beer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q77989",
+      "label": "Karl-Heinz Narjes",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q971470",
+      "label": "Max Emcke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q969340",
+      "label": "Daniel Günther",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1619509",
+      "label": "Hinrich Schröder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1620732",
+      "label": "Max Meinicke-Pusch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1624464",
+      "label": "Holger Astrup",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1629429",
+      "label": "Horst Hager",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1634846",
+      "label": "Hugo Bischof",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1635817",
+      "label": "Hugo Voß",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Hugo Voss"
+      ]
+    },
+    {
+      "id": "Q99185",
+      "label": "Alfred Gille",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q100294",
+      "label": "Reinhold Rehs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1360028",
+      "label": "Ernst Schaefer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1359603",
+      "label": "Ernst Nagel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1359679",
+      "label": "Ernst Otto Haas",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q89886",
+      "label": "Roger Asmussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1640967",
+      "label": "Kläre Vorreiter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1357855",
+      "label": "Ernst Dieter Rossmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1357968",
+      "label": "Ernst Engelbrecht-Greve",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1612131",
+      "label": "Hermann Meyn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q89578",
+      "label": "Ralf Stegner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560141",
+      "label": "Wilhelm Hollmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560463",
+      "label": "Günter Fleskes",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560465",
+      "label": "Günter Flessner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560476",
+      "label": "Günter Friedrich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560847",
+      "label": "Roswitha Müllerwiebus",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1611800",
+      "label": "Hermann Klingenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1612299",
+      "label": "Hermann Olson",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q86893",
+      "label": "Anke Spoorendonk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1357242",
+      "label": "Ernst-Willi Saffran",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1357584",
+      "label": "Paul Groß",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Paul Gross"
+      ]
+    },
+    {
+      "id": "Q1367103",
+      "label": "Rudolf Johna",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1368115",
+      "label": "Hans Herwarth von Bittenfeld",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q993878",
+      "label": "Bruno Timm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q993895",
+      "label": "Bruno Verdieck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1078271",
+      "label": "Christel Aschmoneit-Lücke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1078287",
+      "label": "Christel Happach-Kasan",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q997436",
+      "label": "Wolfgang Ehlers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q997327",
+      "label": "Patrick Breyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q97850",
+      "label": "Rainer Wiegard",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q98423",
+      "label": "Victor Graf von Reventlow-Criminil",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q98470",
+      "label": "Karl Eduard Claussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1642099",
+      "label": "Oliver Kumbartzky",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1371764",
+      "label": "Martin Schumacher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1370498",
+      "label": "Peter Georg Cohrs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1370946",
+      "label": "Paul Rohloff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1080985",
+      "label": "Christian Mahler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1083229",
+      "label": "Christina Musculus-Stahnke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1087038",
+      "label": "Christopher Vogt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q101321",
+      "label": "Heiner Garg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q102080",
+      "label": "Carl-Anton Schaefer",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Carl Anton Schäfer"
+      ]
+    },
+    {
+      "id": "Q102218",
+      "label": "Ekkehard Klug",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q100379",
+      "label": "Paul Bromme",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1390712",
+      "label": "Gerrit Koch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1405332",
+      "label": "Ferdinand Graf Hahn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1379416",
+      "label": "Eva Peters",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1651338",
+      "label": "Karin Voß",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Karin Voss"
+      ]
+    },
+    {
+      "id": "Q1655968",
+      "label": "Ursula Sassen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1657709",
+      "label": "Peter Ludwig Petersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1097690",
+      "label": "Claudia Preuß-Boehart",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098389",
+      "label": "Claus-Joachim von Heydebreck",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Claus Joachim von Heydebreck"
+      ]
+    },
+    {
+      "id": "Q96303",
+      "label": "Jost de Jager",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q90826",
+      "label": "Friedrich Wilhelm Lübke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1359137",
+      "label": "Ernst Kühl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1358085",
+      "label": "Ernst Fleischner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1358953",
+      "label": "Ernst Kintzinger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1408116",
+      "label": "Max Stich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1408599",
+      "label": "Wilhelm Kuklinski",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1409771",
+      "label": "Hans Schröder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1659092",
+      "label": "Ilse Brandes",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1663197",
+      "label": "Ingo Schachtschneider",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1663208",
+      "label": "Ingo Stawitz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q104023",
+      "label": "Berthold Bahnsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q104038",
+      "label": "Jette Waldinger-Thiering",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q104047",
+      "label": "Lars Harms",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1415961",
+      "label": "Friedrich-Carl Wodarz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1410144",
+      "label": "Hermann Struck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098497",
+      "label": "Claus Ehlers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098561",
+      "label": "Claus Henning Boyens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098574",
+      "label": "Claus Hopp",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1664170",
+      "label": "Sabine Schröder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1663297",
+      "label": "Ingrid Brand-Hückstädt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1663311",
+      "label": "Ingrid Franzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1666351",
+      "label": "Michael von Abercron",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1668999",
+      "label": "Neithart Neitzel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098742",
+      "label": "Claus Peter Boyens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1098823",
+      "label": "Claus Sieh",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1110605",
+      "label": "Ute Bress",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q104970",
+      "label": "Gitta Trauernicht",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q105355",
+      "label": "Ingbert Liebing",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1417041",
+      "label": "Harry Starck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1417191",
+      "label": "Otto Flöl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1421404",
+      "label": "Frank Sauter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1422982",
+      "label": "Peter Jensen-Nissen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1424249",
+      "label": "Ines Strehlau",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1425692",
+      "label": "Hinrich Möller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1352353",
+      "label": "Erich Hagenah",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1353302",
+      "label": "Erich Stehn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1356075",
+      "label": "Erna Kilkowski",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q975171",
+      "label": "Rasmus Andresen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q992641",
+      "label": "Brunhild Wendel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q992972",
+      "label": "Paul Dölz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q106422",
+      "label": "Johannes Oldsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q107268",
+      "label": "Monika Heinold",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1526583",
+      "label": "Hans Wilhelm Sievers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1526803",
+      "label": "Kai Vogel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1527289",
+      "label": "Gisela Böhrk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q78326",
+      "label": "Rudolf Katz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q85828",
+      "label": "Bruno Diekmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1528777",
+      "label": "Peter Lehnert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1533316",
+      "label": "Sandra Redmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1539299",
+      "label": "Gottfried Kuhnt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1611084",
+      "label": "Hermann Franck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1611005",
+      "label": "Hermann Engels",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1610898",
+      "label": "Hermann Dieckmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1360616",
+      "label": "Walter Damm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1360139",
+      "label": "Ernst Schoof",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1039008",
+      "label": "Carl Jensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1040220",
+      "label": "Carl Richardsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1044561",
+      "label": "Caroline Schwarz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1432484",
+      "label": "Maren Kruse",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1436047",
+      "label": "Karl Steensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1436121",
+      "label": "Hans-Joachim Herbst",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1441085",
+      "label": "Irmlind Heiser",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1045474",
+      "label": "Carsten-Peter Brodersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1045630",
+      "label": "Carsten Paulsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1612506",
+      "label": "Wolfgang Herrmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1539528",
+      "label": "Gottfried Wolff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1539639",
+      "label": "Walther Brühl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1067368",
+      "label": "Charlotte Werner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1564290",
+      "label": "Willy Rickers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1569553",
+      "label": "Thomas Andresen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1431520",
+      "label": "Ingeborg Sommer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1612401",
+      "label": "Hermann Raabe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1612709",
+      "label": "Hermann Schwieger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1036423",
+      "label": "Carl-Christian Arfsten",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1036472",
+      "label": "Carl-Friedrich Schoof",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1577602",
+      "label": "Hans-Jörn Arp",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1363087",
+      "label": "Erwin Jürgens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1363198",
+      "label": "Erwin Lingk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1363376",
+      "label": "Erwin Riegel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1553099",
+      "label": "Gudrun Hunecke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1477495",
+      "label": "Herbert Möller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1482087",
+      "label": "Manfred Hansen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1483420",
+      "label": "Hans-Klaus Solterbeck",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Hans Klaus Solterbeck"
+      ]
+    },
+    {
+      "id": "Q1441503",
+      "label": "Peter Wellmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1443789",
+      "label": "Frank Millack",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1448747",
+      "label": "Franz Rohwer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1576706",
+      "label": "Hans-Adolf Asbach",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1451947",
+      "label": "Frauke Tengler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1451955",
+      "label": "Frauke Walhorn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1456334",
+      "label": "Frieda Hackhe-Döbel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1579792",
+      "label": "Hans Gerhard Ramler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1580265",
+      "label": "Hans Hinrich Neve",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1580311",
+      "label": "Hans Holtorff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1674198",
+      "label": "Leopold Spaeth",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1675721",
+      "label": "Iver Callø",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1678259",
+      "label": "Julius Bredenbeck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1577732",
+      "label": "Hans-Jürgen Klinker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1576726",
+      "label": "Hans Alwin Ketels",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1016488",
+      "label": "Burkhard Peters",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1465810",
+      "label": "Fritz Bremer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1448812",
+      "label": "Franz Ryba",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1451553",
+      "label": "Heinrich Sellmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1457772",
+      "label": "Hans Bundtzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1458941",
+      "label": "Friedrich Eickhorst",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1459503",
+      "label": "Friedrich Hardt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1465490",
+      "label": "Hubert Hundt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q109943",
+      "label": "Robert Habeck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1575902",
+      "label": "Hannelore Sievers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1576229",
+      "label": "Hanno Schmidt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1576565",
+      "label": "Hanns Ulrich Pusch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q997946",
+      "label": "Friedrich Doepner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1000282",
+      "label": "Wilhelm Rohwedder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1113464",
+      "label": "Willi Johannsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1467273",
+      "label": "Fritz Latendorf",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1471123",
+      "label": "Jürgen Oldenburg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1476936",
+      "label": "Joachim Behm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1577858",
+      "label": "Hans-Jürgen Wolter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1578486",
+      "label": "Hans Ambs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1111836",
+      "label": "Wolf-Dieter Zumpfort",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1578963",
+      "label": "Hans Carstens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1579139",
+      "label": "Hans Detlef Stäcker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q123545",
+      "label": "Flemming Meyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q111443",
+      "label": "Angelika Volquartz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q123084",
+      "label": "Ute Erdsiek-Rave",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q111664",
+      "label": "Otto Bernhardt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q123556",
+      "label": "Silke Hinrichsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1577524",
+      "label": "Hans-Joachim Zimmermann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1691371",
+      "label": "Klaus Haller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1696235",
+      "label": "Johann Sierks",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1576791",
+      "label": "Hans-Christian Siebke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1504489",
+      "label": "Otto Eisenmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1497698",
+      "label": "Hermann Andersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1497397",
+      "label": "Karl-Rudolf Fischer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1578743",
+      "label": "Hans Blöcker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1578774",
+      "label": "Hans Bols",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1578888",
+      "label": "Hans Buhmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1690552",
+      "label": "Joachim Wagner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1690282",
+      "label": "Joachim Lohmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1484482",
+      "label": "Ursula Röper",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1485255",
+      "label": "Waldemar Dudda",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1461308",
+      "label": "Friedrich Noll",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1461331",
+      "label": "Friedrich Odening",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1460408",
+      "label": "Friedrich Klaus",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1687286",
+      "label": "Jens Magnussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q124965",
+      "label": "Ulrike Rodust",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q111118",
+      "label": "Lothar Hay",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q123668",
+      "label": "Karl Otto Meyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q110903",
+      "label": "Carl Schröter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1492686",
+      "label": "Ludwig Claussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1492722",
+      "label": "Jutta Scheicht",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1224096",
+      "label": "Dietrich Wiebe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1224825",
+      "label": "Gustav Drevs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1167541",
+      "label": "Jürgen Thee",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1201224",
+      "label": "Detlef Buder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1201239",
+      "label": "Detlef Frahm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1690140",
+      "label": "Joachim Harms",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1687349",
+      "label": "Jens Ruge",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1687383",
+      "label": "Jens Vollert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1514515",
+      "label": "Gero Storjohann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1515164",
+      "label": "Gert Börnsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1553104",
+      "label": "Gudrun Kockmann-Schadendorf",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1553269",
+      "label": "Klaus Klingner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1555133",
+      "label": "Hartmut Hamerich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1364636",
+      "label": "Kurt Böge",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1364938",
+      "label": "Herbert Nonnsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1366661",
+      "label": "Peter Dohrn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1507900",
+      "label": "Alfred Franzke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1511709",
+      "label": "Gerhard Hart",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1506470",
+      "label": "Georg Witt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1696494",
+      "label": "Johann Vorbrook",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1487921",
+      "label": "Wilhelm Gülich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1490487",
+      "label": "Gabriele Kötschau",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1492555",
+      "label": "Heinz Adler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1581451",
+      "label": "Hans Müller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1505158",
+      "label": "Veronika Kolb",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1505994",
+      "label": "Georg Seeler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1506372",
+      "label": "Georg Wiborg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1512609",
+      "label": "Gerhard Strack",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1512633",
+      "label": "Gerhard Tackmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1506252",
+      "label": "Georg Urban",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1582405",
+      "label": "Hans Schult",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1579408",
+      "label": "Hans Ewers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1579579",
+      "label": "Hans Friede",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1581552",
+      "label": "Hans Oldorf",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1582433",
+      "label": "Hans Schwalbach",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1582459",
+      "label": "Hans Schwichtenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q120691",
+      "label": "Heinz-Werner Arens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q121315",
+      "label": "Klaus Schlie",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1613266",
+      "label": "Hermann von Mangoldt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1616420",
+      "label": "Edo Osterloh",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1505806",
+      "label": "Georg Rösler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1682853",
+      "label": "Jann Eduard Pauls",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1687102",
+      "label": "Jens-Uwe Dankert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1690664",
+      "label": "Joachim von der Lieth",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1691156",
+      "label": "Jochen Roggenbock",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1691196",
+      "label": "Jochen Steffen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q500944",
+      "label": "Andreas Tietze",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q529527",
+      "label": "Anette Langner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q534213",
+      "label": "Angelika Birk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q125013",
+      "label": "Rudolf Titzck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1270319",
+      "label": "Rudolf Donath",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q354732",
+      "label": "Adelheid Winking-Nikolay",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q364186",
+      "label": "Adolf Schrörs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q364848",
+      "label": "Adolf von Oldenburg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1258538",
+      "label": "Samuel Münchow",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1266298",
+      "label": "Rudolf Thietz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1267333",
+      "label": "Heinz Maurus",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1273178",
+      "label": "Ernst-Wilhelm Stojan",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q496082",
+      "label": "Andreas Beran",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q497390",
+      "label": "Andreas Gayk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q499454",
+      "label": "Andreas Matthias Hofer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1580419",
+      "label": "Hans Ingwersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1580449",
+      "label": "Hans Jakob Franzenburg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1580722",
+      "label": "Hans Kersig",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q499780",
+      "label": "Andreas Nielsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q139945",
+      "label": "Oskar-Hubert Dennhardt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q394603",
+      "label": "Agnes Nielsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q364291",
+      "label": "Adolf Steiger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1817323",
+      "label": "Lena Ohnesorge",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1819242",
+      "label": "Leonhard Langmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1806360",
+      "label": "Lars Winter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1775809",
+      "label": "Volker Lemke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1230089",
+      "label": "Gerd Lausen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1232086",
+      "label": "Walther Böttcher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1241209",
+      "label": "Gerhard Gerlich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1232399",
+      "label": "Werner Liebrecht",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1765005",
+      "label": "Uwe Amthor",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1145154",
+      "label": "Curt Hoffmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1782238",
+      "label": "Konrad Nabel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1782722",
+      "label": "Martin Redeker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1786898",
+      "label": "Manfred Frank",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1792195",
+      "label": "Kunigunde Bachl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1793608",
+      "label": "Kurt Hamer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1793931",
+      "label": "Kurt Ohff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1793968",
+      "label": "Kurt Pohle",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1794103",
+      "label": "Kurt Semprich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1799429",
+      "label": "Uwe Rheingans",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1241042",
+      "label": "Hans Wiesen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1243616",
+      "label": "Dora Heyenn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1243639",
+      "label": "Dora Möller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1133296",
+      "label": "Cornelia Conrad",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1256784",
+      "label": "Martin Habersaat",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1523381",
+      "label": "Jürgen Westphal",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1515325",
+      "label": "Gert Roßberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1516204",
+      "label": "Karsten Jasper",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1777587",
+      "label": "Knud Knudsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1782225",
+      "label": "Konrad Meyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1560851",
+      "label": "Günter Neugebauer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1561516",
+      "label": "Günther Heyenn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1561520",
+      "label": "Günther Hildebrand",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1582596",
+      "label": "Hans Stade",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1583499",
+      "label": "Willi Steinhörster",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1672511",
+      "label": "Irene Fröhlich",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1672743",
+      "label": "Johannes Hagge",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1201257",
+      "label": "Detlef Haase",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1201269",
+      "label": "Detlef Hartz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1201307",
+      "label": "Detlef Matthiessen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1697353",
+      "label": "Johannes Callsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1697765",
+      "label": "Johannes Iversen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1698344",
+      "label": "Johannes Schlotfeldt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1698496",
+      "label": "Johannes Thole",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1700301",
+      "label": "Ranka Prante",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1704446",
+      "label": "Josef Cierocki",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1713553",
+      "label": "Ludwig Preller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1713736",
+      "label": "Volker Dornquast",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1714645",
+      "label": "Jutta Schümann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1221632",
+      "label": "Dieter Bechthold",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1221816",
+      "label": "Dieter Claußen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1274848",
+      "label": "Karl Otto Conrady",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1278934",
+      "label": "Eberhard Dall’Asta",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Eberhard Dall'Asta"
+      ]
+    },
+    {
+      "id": "Q1281343",
+      "label": "Eckart Kuhlwein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1236738",
+      "label": "Rudolf Brinckmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Rudolf Franz Karl Jacob Brinckmann"
+      ]
+    },
+    {
+      "id": "Q1240109",
+      "label": "Otto Preßler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1235364",
+      "label": "Friedrich Schönemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1585222",
+      "label": "Klaus Klinckhamer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1585540",
+      "label": "Harm Dallmeyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1587765",
+      "label": "Hartwig Schlegelberger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1556249",
+      "label": "Gustav Paulsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1557708",
+      "label": "Peter Christel Asmussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1557983",
+      "label": "Gyde Köster",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1589290",
+      "label": "Hauke Göttsch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1593913",
+      "label": "Heide Moser",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q549853",
+      "label": "Anita Klahn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q551121",
+      "label": "Anja Hille",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1594668",
+      "label": "Heiko Hoffmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1594510",
+      "label": "Heike Franzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1596177",
+      "label": "Heiner Rickers",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q559861",
+      "label": "Anna Brodersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q556687",
+      "label": "Anke Erdmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q556753",
+      "label": "Anke Gravert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1597231",
+      "label": "Heinrich Fischer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1596556",
+      "label": "Heinrich Ambrosius",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1597481",
+      "label": "Heinrich Hagemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1598032",
+      "label": "Heinrich Kock",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1598278",
+      "label": "Heinrich Matzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1598979",
+      "label": "Heinrich Stock",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1596303",
+      "label": "Heino Bues",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1596319",
+      "label": "Rainder Steenblock",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1820724",
+      "label": "Lesko von Langendorff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1874942",
+      "label": "Ludwig Salomon",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q563176",
+      "label": "Anna Schlosser-Keichel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q566306",
+      "label": "Annemarie Lütkes",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q566341",
+      "label": "Annemarie Schuster",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1715464",
+      "label": "Jörg Nickel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1715594",
+      "label": "Jörgen Andersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1716968",
+      "label": "Jürgen Baasch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717057",
+      "label": "Jürgen Busack",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717148",
+      "label": "Jürgen Feddersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717806",
+      "label": "Jürgen Weber",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717282",
+      "label": "Jürgen Hinz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717162",
+      "label": "Jürgen Frenzel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1717919",
+      "label": "Max Frauböse",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1721287",
+      "label": "Kai Dolgner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q566793",
+      "label": "Anni Krahnstöver",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q566818",
+      "label": "Anni Trapp",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1876595",
+      "label": "Luise Amtsberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1876630",
+      "label": "Luise Klinsmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1599363",
+      "label": "Heinrich Wolff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1599246",
+      "label": "Heinrich Wilckens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q682813",
+      "label": "Heinz Reinefarth",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q584754",
+      "label": "Antje Jansen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1889847",
+      "label": "Manfred Ritzek",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1895043",
+      "label": "Margarete Weiß",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1889285",
+      "label": "Manfred Clasen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q694332",
+      "label": "Arno Jahner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q696556",
+      "label": "Arnold Wilken",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q710848",
+      "label": "Arthur Oberberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1599370",
+      "label": "Heinrich Wolgast",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1599965",
+      "label": "Heinz-Werner Jezewski",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1599973",
+      "label": "Heinz-Wilhelm Fölster",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600014",
+      "label": "Heinz Bartheidel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600458",
+      "label": "Heinz Kiekebusch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600091",
+      "label": "Heinz Burmeister",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q711478",
+      "label": "Arthur Schwinkowski",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q750543",
+      "label": "Astrid Damerow",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q750603",
+      "label": "Astrid Höfs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1896169",
+      "label": "Maria Merta",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1896089",
+      "label": "Maria Lindenmeier",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1897484",
+      "label": "Marie Schmelzkopf",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1725494",
+      "label": "Walter Zappe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1728975",
+      "label": "Wilhelm Schmehl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1729743",
+      "label": "Karl-Ernst Lober",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1730246",
+      "label": "Karl Albrecht",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1730449",
+      "label": "Karl Becker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1730092",
+      "label": "Karl-Martin Hentschel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q792007",
+      "label": "Axel Bernstein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q761656",
+      "label": "August Haut",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q807578",
+      "label": "Barbara Ostmeier",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q813180",
+      "label": "Beate Raudies",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q818382",
+      "label": "Benvenuto-Paul Friese",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1902065",
+      "label": "Marlies Fritzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1902086",
+      "label": "Marliese Alfken",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1902484",
+      "label": "Marret Bohn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q823568",
+      "label": "Bernd Heinemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q819000",
+      "label": "Berend Harms",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q823542",
+      "label": "Bernd Hadewig",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600476",
+      "label": "Heinz Klinke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600491",
+      "label": "Heinz Kock",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600593",
+      "label": "Heinz Lund",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600868",
+      "label": "Heinz Salomon",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1600772",
+      "label": "Heinz Probandt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1282415",
+      "label": "Julius Jürgensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1287732",
+      "label": "Grit Beer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1899255",
+      "label": "Marion Sellier",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1899832",
+      "label": "Mark-Oliver Potzahr",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1901675",
+      "label": "Markus Matthießen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1288145",
+      "label": "Eduard Clasen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1288312",
+      "label": "Lianne Paulina-Mürl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1288579",
+      "label": "Serpil Midyatli",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1289895",
+      "label": "Renate Köhler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1298004",
+      "label": "Eginhard Schlachta",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1732437",
+      "label": "Karl Müller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1731554",
+      "label": "Karl Heinz Luckhardt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1730945",
+      "label": "Karl Feldmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1732662",
+      "label": "Karl Ratz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1733842",
+      "label": "Karlheinz Stegemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1735953",
+      "label": "Katharina Loedige",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1743630",
+      "label": "Kirsten Eickhoff-Weber",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1741057",
+      "label": "Alfred Schulz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1736653",
+      "label": "Katja Rathje-Hoffmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1732502",
+      "label": "Karl Oesterle",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1732536",
+      "label": "Riewert Clausen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q823715",
+      "label": "Bernd Klaus Buchholz",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Bernd Buchholz"
+      ]
+    },
+    {
+      "id": "Q824125",
+      "label": "Bernd Saxe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q824198",
+      "label": "Bernd Schröder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1743656",
+      "label": "Kirstin Funke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1744746",
+      "label": "Klaus-Dieter Müller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1744821",
+      "label": "Klaus-Peter Puls",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1744947",
+      "label": "Klaus Buß",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745349",
+      "label": "Klaus Konrad",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1744382",
+      "label": "Uwe Jensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745286",
+      "label": "Klaus Jensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q824360",
+      "label": "Bernd Voß",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Bernd Voss"
+      ]
+    },
+    {
+      "id": "Q824690",
+      "label": "Bernhard Ahrens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q824512",
+      "label": "Berndt Steincke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q825695",
+      "label": "Bernhard Obersteller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q827570",
+      "label": "Berta Wirthel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q827741",
+      "label": "Bertha Schulze",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745361",
+      "label": "Klaus Kribben",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745372",
+      "label": "Klaus Köberle",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745425",
+      "label": "Klaus Matthiesen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1904285",
+      "label": "Martin Kohz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1904758",
+      "label": "Martin Pörksen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1905013",
+      "label": "Martin Schwarz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1317985",
+      "label": "Meinhard Füllner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1318460",
+      "label": "Eugen Lechner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1319460",
+      "label": "Gerhard Poppendiecker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1298907",
+      "label": "Egon Schübeler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1300051",
+      "label": "Ehrenfried Weidemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1307325",
+      "label": "Marion Herdan",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q865238",
+      "label": "Birgit Herdejürgen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q825393",
+      "label": "Bernhard Kalk",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q825542",
+      "label": "Bernhard Leverenz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q827868",
+      "label": "Berthold Ditz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q828345",
+      "label": "Bertold Sprenger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1309436",
+      "label": "Walter Stams",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1310135",
+      "label": "Uwe Eichelberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1745492",
+      "label": "Klaus Müller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1749938",
+      "label": "Kurt Schulz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1912595",
+      "label": "Max Grothe",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1912884",
+      "label": "Max Kukil",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1913609",
+      "label": "Max Werner Detlefsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1909675",
+      "label": "Matthias Andresen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1909781",
+      "label": "Matthias Böttcher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1603704",
+      "label": "Helmut Jacobs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1602202",
+      "label": "Helga Kleiner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1603931",
+      "label": "Helmut Mikelskis",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1324144",
+      "label": "Hermann Benker",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1608302",
+      "label": "Herbert Fuchs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2018093",
+      "label": "Olaf Schulze",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2037716",
+      "label": "Ottfried Hennig",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1322173",
+      "label": "Eka von Kalben",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1604004",
+      "label": "Helmut Plüschau",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1604261",
+      "label": "Helmut Thienemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1604471",
+      "label": "Helmuth Zander",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1605498",
+      "label": "Henning Höppner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1608044",
+      "label": "Herbert Beer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1329170",
+      "label": "Rudolf Basedau",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1321336",
+      "label": "Ulrich Schippels",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1322144",
+      "label": "Ingrid Olef",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1763740",
+      "label": "Max Sommerfeld",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1608886",
+      "label": "Herbert Paschen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2038659",
+      "label": "Otto F. Karde",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2038949",
+      "label": "Otto Gramcko",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2039844",
+      "label": "Otto Lüth",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1764028",
+      "label": "Peter Jensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1608321",
+      "label": "Herbert Gerisch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1609272",
+      "label": "Herbert Weidling",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1610135",
+      "label": "Herlich Marie Todsen-Reese",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1330023",
+      "label": "Elisabeth Jensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1331775",
+      "label": "Ellen-Heidi Hebestreit",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1331880",
+      "label": "Ellen Streitbörger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1331988",
+      "label": "Manfred Sickmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1332617",
+      "label": "Elly Linden",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1333751",
+      "label": "Torsten Geerdts",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1944758",
+      "label": "Monika Schwalm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1985836",
+      "label": "Niclas Herbst",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1335303",
+      "label": "Martin Kayenburg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1336175",
+      "label": "Emil Hartmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2040036",
+      "label": "Otto Müller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2040114",
+      "label": "Otto Passarge",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2040628",
+      "label": "Otto Siewert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q865266",
+      "label": "Birgit Küstner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1336297",
+      "label": "Emil Jahn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1336511",
+      "label": "Emil Matthews",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1336930",
+      "label": "Emil Timm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1610814",
+      "label": "Hermann Böhrnsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1610841",
+      "label": "Hermann Clausen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2041067",
+      "label": "Otto Wulff",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2061025",
+      "label": "Paul Lohmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2060315",
+      "label": "Paul Husfeldt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2061723",
+      "label": "Paul Preuss",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2061399",
+      "label": "Paul Möller",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2061595",
+      "label": "Paul Pagel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2073891",
+      "label": "Peter Bendixen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2073686",
+      "label": "Peter Aniol",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2079143",
+      "label": "Peter Zahn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2077520",
+      "label": "Peter Petersen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2078601",
+      "label": "Peter Sönnichsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2074662",
+      "label": "Peter Eichstädt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2074705",
+      "label": "Peter Empen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2075130",
+      "label": "Peter Gerckens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2080285",
+      "label": "Petra Nicolaisen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2137913",
+      "label": "Regina Poersch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2140980",
+      "label": "Reinhard Sager",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2141562",
+      "label": "Reinhold Stühlmeyer",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Reinhold David Stühlmeyer"
+      ]
+    },
+    {
+      "id": "Q2143393",
+      "label": "Renate Gröpel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2149178",
+      "label": "Richard Bünemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2150507",
+      "label": "Richard Schenck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2163694",
+      "label": "Rolf Olderog",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2163760",
+      "label": "Rolf Rüdiger Reichardt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2163788",
+      "label": "Rolf Schroedter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2163811",
+      "label": "Rolf Selzer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2166868",
+      "label": "Rosemarie Fleck",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Rosemarie Sachse"
+      ]
+    },
+    {
+      "id": "Q2172810",
+      "label": "Rudolf Günther",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2167959",
+      "label": "Roswitha Strauß",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2172492",
+      "label": "Rudolf Burmester",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2203684",
+      "label": "Rüdiger Möbusz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2173477",
+      "label": "Rudolf Muuß",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2177774",
+      "label": "Ruth Springer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2209725",
+      "label": "Sabine Hamer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2283571",
+      "label": "Siegfried Loose",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2288115",
+      "label": "Simone Lange",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2303065",
+      "label": "Sophus Pohl-Laukamp",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2369260",
+      "label": "Susanne Herold",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2284129",
+      "label": "Siegrid Tenor-Alschausky",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2285336",
+      "label": "Sigrid Warnicke",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2286175",
+      "label": "Silke Hars",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2424882",
+      "label": "Thomas Hölck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2425854",
+      "label": "Thomas Lorenzen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2418465",
+      "label": "Theodor Werner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2371216",
+      "label": "Sven Krumbeck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2374176",
+      "label": "Sylvia Eisenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2417329",
+      "label": "Theodor Bannier",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2427505",
+      "label": "Thomas Stritzl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2426929",
+      "label": "Thomas Rother",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q62196",
+      "label": "Peter Harry Carstensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q62214",
+      "label": "Gerhard Stoltenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2429111",
+      "label": "Thorsten Fürter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2429114",
+      "label": "Thorsten Geißler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q62279",
+      "label": "Björn Engholm",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2443997",
+      "label": "Torge Schmidt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2438101",
+      "label": "Tobias von Pein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2456715",
+      "label": "Trutz Graf Kerssenbrock",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Trutz Kerssenbrock"
+      ]
+    },
+    {
+      "id": "Q2473283",
+      "label": "Udo Lumma",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2473446",
+      "label": "Udo Wnuck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2474892",
+      "label": "Ulf von Hielmcrone",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2474976",
+      "label": "Uli König",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2476338",
+      "label": "Ulrich Meyenborg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2476609",
+      "label": "Ulrich Schley",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2504363",
+      "label": "Uwe John",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2501732",
+      "label": "Ursula Kähler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2504215",
+      "label": "Uwe Greve",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2504690",
+      "label": "Uwe Ronneburger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2531177",
+      "label": "Volker Nielsen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2543714",
+      "label": "Walter Braun",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2531424",
+      "label": "Volkert Martens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2541364",
+      "label": "Waldemar Reeder",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q65526",
+      "label": "Kai-Uwe von Hassel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q65515",
+      "label": "Heide Simonis",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2545512",
+      "label": "Walter Mentzel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2544637",
+      "label": "Walter Harckensee",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2545425",
+      "label": "Walter Lurgenstein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2574063",
+      "label": "Wilhelm Malerius",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2574099",
+      "label": "Wilhelm Marschner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2575114",
+      "label": "Wilhelm Siegel",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2577217",
+      "label": "Willi Koch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2577322",
+      "label": "Willi Milkereit",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2562630",
+      "label": "Werner Simmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2571411",
+      "label": "Wilfried Wengler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2571395",
+      "label": "Wilfried Voigt",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2437863",
+      "label": "Tobias Koch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2588446",
+      "label": "Wolf-Dietrich Drevs",
+      "subType": "memberOfParliament",
+      "labelAlternative": [
+        "Wolf-Dieter Drevs"
+      ]
+    },
+    {
+      "id": "Q2589121",
+      "label": "Wolfgang Baasch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2589469",
+      "label": "Wolfgang Dudda",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2546531",
+      "label": "Walter Tiemann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2561663",
+      "label": "Werner Kalinka",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2589656",
+      "label": "Wolfgang Fuß",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2590313",
+      "label": "Wolfgang Kubicki",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2591711",
+      "label": "Wolfgang Weimar",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2642860",
+      "label": "Alexander Pracher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2644631",
+      "label": "Alfred Ahrens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2573516",
+      "label": "Wilhelm Jürgensen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2573824",
+      "label": "Wilhelm Käber",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2572569",
+      "label": "Wilhelm Esser",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29861224",
+      "label": "Jörg Nobis",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29863045",
+      "label": "Kerstin Metzner",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29880048",
+      "label": "Lasse Petersdotter",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29913754",
+      "label": "Volker Schnurrbusch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29946415",
+      "label": "Claus Schaffer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29948821",
+      "label": "Frank Brodehl",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30015105",
+      "label": "Özlem Ünsal",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q32165079",
+      "label": "Aminata Touré",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30153157",
+      "label": "Stefan Weber",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150131",
+      "label": "Dennys Bornhöft",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150133",
+      "label": "Lukas Kilian",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150174",
+      "label": "Tim Brockmann",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150637",
+      "label": "Kay Richert",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30153147",
+      "label": "Kathrin Wagner-Bockey",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150126",
+      "label": "Andreas Hein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30086805",
+      "label": "Claus Christian Claussen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30092245",
+      "label": "Ole-Christopher Plambeck",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30149917",
+      "label": "Peer Knöfler",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150116",
+      "label": "Annabell Krämer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150123",
+      "label": "Wolf Rüdiger Fehrs",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q30150130",
+      "label": "Stephan Holowaty",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q23875300",
+      "label": "Katrin Fedrowitz",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q29861223",
+      "label": "Doris von Sayn-Wittgenstein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q13424103",
+      "label": "Werner Hahn",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q28811336",
+      "label": "Stefan Bolln",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q28811792",
+      "label": "Johanna Skalski",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2646257",
+      "label": "Alfred von Rosenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2645100",
+      "label": "Alfred Hagelstein",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q2645677",
+      "label": "Alfred Prezewowsky",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q113152590",
+      "label": "Cornelia Schmachtenberg",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q48428655",
+      "label": "Jan-Marcus Rossa",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q45775356",
+      "label": "Jörg Hansen",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q98040947",
+      "label": "Christian Dirschauer",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q65937304",
+      "label": "Joschka Knuth",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q111925762",
+      "label": "Anna Langsch",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q111967007",
+      "label": "Patrick Pender",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q112066670",
+      "label": "Otto Carstens",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q38678341",
+      "label": "Anette Röttger",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q32979633",
+      "label": "Tobias Loose",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q44273036",
+      "label": "Andrea Tschacher",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q123162",
+      "label": "Q123162",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q1696501",
+      "label": "Johann Wadephul",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q62858",
+      "label": "Q62858",
+      "subType": "memberOfParliament",
+      "labelAlternative": []
+    },
+    {
+      "id": "Q49762",
+      "label": "CDU",
+      "subType": "faction",
+      "labelAlternative": [
+        "Christlich Demokratische Union Deutschlands"
+      ]
+    },
+    {
+      "id": "Q49768",
+      "label": "SPD",
+      "subType": "faction",
+      "labelAlternative": [
+        "Sozialdemokratische Partei Deutschlands"
+      ]
+    },
+    {
+      "id": "Q13124",
+      "label": "FDP",
+      "subType": "faction",
+      "labelAlternative": [
+        "Freie Demokratische Partei"
+      ]
+    },
+    {
+      "id": "Q49766",
+      "label": "BÜNDNIS 90/DIE GRÜNEN",
+      "subType": "faction",
+      "labelAlternative": [
+        "Bündnis 90/Die Grünen",
+        "GRÜNE",
+        "Grüne",
+        "B90/Grüne"
+      ]
+    },
+    {
+      "id": "Q161545",
+      "label": "SSW",
+      "subType": "faction",
+      "labelAlternative": [
+        "Südschleswigscher Wählerverband",
+        "Sydslesvigsk Vælgerforening"
+      ]
+    }
+  ]
+}
