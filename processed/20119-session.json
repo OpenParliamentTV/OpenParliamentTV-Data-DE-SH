@@ -1,22 +1,18 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-SH",
-    "electoralPeriod": {
-      "number": 20
-    },
     "session": "20119",
-    "tagung": 42,
     "dateStart": "2026-05-08T09:41:19",
     "dateEnd": "2026-05-08T15:59:50",
-    "sourceURI": "https://m7k.ltsh.de/",
+    "lastProcessing": "align",
+    "lastUpdate": "2026-06-14T07:57:05",
     "processing": {
       "parse_media": "2026-06-14T09:56:19",
       "merge": "2026-06-14T09:56:23",
       "align": "2026-06-14T07:57:05"
     },
-    "lastUpdate": "2026-06-14T07:57:05",
-    "lastProcessing": "align"
+    "tagung": 42,
+    "sourceURI": "https://m7k.ltsh.de/"
   },
   "data": [
     {
@@ -414,7 +410,7 @@
         "proceedingIndex": 2,
         "proceedingTextID": "u20119_5",
         "confidence": 1.0,
-        "align-duration": 1.1218960285186768
+        "alignDuration": 1.1218960285186768
       }
     },
     {
@@ -716,7 +712,7 @@
         "proceedingIndex": 3,
         "proceedingTextID": "u20119_7",
         "confidence": 1.0,
-        "align-duration": 0.9000329971313477
+        "alignDuration": 0.9000329971313477
       }
     },
     {
@@ -975,7 +971,7 @@
         "proceedingIndex": 4,
         "proceedingTextID": "u20119_9",
         "confidence": 1.0,
-        "align-duration": 0.9641611576080322
+        "alignDuration": 0.9641611576080322
       }
     },
     {
@@ -1371,7 +1367,7 @@
         "proceedingIndex": 5,
         "proceedingTextID": "u20119_11",
         "confidence": 1.0,
-        "align-duration": 0.9784049987792969
+        "alignDuration": 0.9784049987792969
       }
     },
     {
@@ -1743,7 +1739,7 @@
         "proceedingIndex": 6,
         "proceedingTextID": "u20119_13",
         "confidence": 1.0,
-        "align-duration": 0.9592001438140869
+        "alignDuration": 0.9592001438140869
       }
     },
     {
@@ -2064,7 +2060,7 @@
         "proceedingIndex": 7,
         "proceedingTextID": "u20119_15",
         "confidence": 1.0,
-        "align-duration": 0.9300730228424072
+        "alignDuration": 0.9300730228424072
       }
     },
     {
@@ -2150,7 +2146,7 @@
         "proceedingIndex": 9,
         "proceedingTextID": "u20119_19",
         "confidence": 1.0,
-        "align-duration": 0.56573486328125
+        "alignDuration": 0.56573486328125
       }
     },
     {
@@ -2259,7 +2255,7 @@
         "proceedingIndex": 14,
         "proceedingTextID": "u20119_27",
         "confidence": 1.0,
-        "align-duration": 0.5525617599487305
+        "alignDuration": 0.5525617599487305
       }
     },
     {
@@ -2345,7 +2341,7 @@
         "proceedingIndex": 15,
         "proceedingTextID": "u20119_29",
         "confidence": 1.0,
-        "align-duration": 0.5683858394622803
+        "alignDuration": 0.5683858394622803
       }
     },
     {
@@ -2683,7 +2679,7 @@
         "proceedingIndex": 17,
         "proceedingTextID": "u20119_32",
         "confidence": 1.0,
-        "align-duration": 0.8449399471282959
+        "alignDuration": 0.8449399471282959
       }
     },
     {
@@ -2798,7 +2794,7 @@
         "proceedingIndex": 20,
         "proceedingTextID": "u20119_38",
         "confidence": 1.0,
-        "align-duration": 0.46717214584350586
+        "alignDuration": 0.46717214584350586
       }
     },
     {
@@ -3354,7 +3350,7 @@
         "proceedingIndex": 21,
         "proceedingTextID": "u20119_40",
         "confidence": 1.0,
-        "align-duration": 1.2904720306396484
+        "alignDuration": 1.2904720306396484
       }
     },
     {
@@ -3618,7 +3614,7 @@
         "proceedingIndex": 22,
         "proceedingTextID": "u20119_43",
         "confidence": 1.0,
-        "align-duration": 0.9147458076477051
+        "alignDuration": 0.9147458076477051
       }
     },
     {
@@ -3999,7 +3995,7 @@
         "proceedingIndex": 23,
         "proceedingTextID": "u20119_45",
         "confidence": 1.0,
-        "align-duration": 0.9221880435943604
+        "alignDuration": 0.9221880435943604
       }
     },
     {
@@ -4082,7 +4078,7 @@
         "proceedingIndex": 25,
         "proceedingTextID": "u20119_49",
         "confidence": 1.0,
-        "align-duration": 0.5359869003295898
+        "alignDuration": 0.5359869003295898
       }
     },
     {
@@ -4168,7 +4164,7 @@
         "proceedingIndex": 30,
         "proceedingTextID": "u20119_57",
         "confidence": 1.0,
-        "align-duration": 0.5631580352783203
+        "alignDuration": 0.5631580352783203
       }
     },
     {
@@ -4590,7 +4586,7 @@
         "proceedingIndex": 32,
         "proceedingTextID": "u20119_60",
         "confidence": 1.0,
-        "align-duration": 0.8833169937133789
+        "alignDuration": 0.8833169937133789
       }
     },
     {
@@ -5053,7 +5049,7 @@
         "proceedingIndex": 42,
         "proceedingTextID": "u20119_76",
         "confidence": 1.0,
-        "align-duration": 1.767474889755249
+        "alignDuration": 1.767474889755249
       }
     },
     {
@@ -5211,7 +5207,7 @@
         "proceedingIndex": 49,
         "proceedingTextID": "u20119_88",
         "confidence": 1.0,
-        "align-duration": 0.8434057235717773
+        "alignDuration": 0.8434057235717773
       }
     },
     {
@@ -5531,7 +5527,7 @@
         "proceedingIndex": 50,
         "proceedingTextID": "u20119_90",
         "confidence": 1.0,
-        "align-duration": 0.6672170162200928
+        "alignDuration": 0.6672170162200928
       }
     },
     {
@@ -5924,7 +5920,7 @@
         "proceedingIndex": 51,
         "proceedingTextID": "u20119_92",
         "confidence": 1.0,
-        "align-duration": 0.7376279830932617
+        "alignDuration": 0.7376279830932617
       }
     },
     {
@@ -6366,7 +6362,7 @@
         "proceedingIndex": 53,
         "proceedingTextID": "u20119_96",
         "confidence": 1.0,
-        "align-duration": 0.9244699478149414
+        "alignDuration": 0.9244699478149414
       }
     },
     {
@@ -6452,7 +6448,7 @@
         "proceedingIndex": 55,
         "proceedingTextID": "u20119_100",
         "confidence": 1.0,
-        "align-duration": 0.5458011627197266
+        "alignDuration": 0.5458011627197266
       }
     },
     {
@@ -6847,7 +6843,7 @@
         "proceedingIndex": 57,
         "proceedingTextID": "u20119_103",
         "confidence": 1.0,
-        "align-duration": 0.8982319831848145
+        "alignDuration": 0.8982319831848145
       }
     },
     {
@@ -6957,7 +6953,7 @@
         "proceedingIndex": 59,
         "proceedingTextID": "u20119_107",
         "confidence": 1.0,
-        "align-duration": 0.543907880783081
+        "alignDuration": 0.543907880783081
       }
     },
     {
@@ -7335,7 +7331,7 @@
         "proceedingIndex": 60,
         "proceedingTextID": "u20119_109",
         "confidence": 1.0,
-        "align-duration": 0.9159679412841797
+        "alignDuration": 0.9159679412841797
       }
     },
     {
@@ -7421,7 +7417,7 @@
         "proceedingIndex": 62,
         "proceedingTextID": "u20119_113",
         "confidence": 1.0,
-        "align-duration": 0.45900917053222656
+        "alignDuration": 0.45900917053222656
       }
     },
     {
@@ -7507,7 +7503,7 @@
         "proceedingIndex": 65,
         "proceedingTextID": "u20119_118",
         "confidence": 1.0,
-        "align-duration": 0.45084095001220703
+        "alignDuration": 0.45084095001220703
       }
     },
     {
@@ -7820,7 +7816,7 @@
         "proceedingIndex": 67,
         "proceedingTextID": "u20119_121",
         "confidence": 1.0,
-        "align-duration": 0.6812491416931152
+        "alignDuration": 0.6812491416931152
       }
     },
     {
@@ -8032,7 +8028,7 @@
         "proceedingIndex": 68,
         "proceedingTextID": "u20119_123",
         "confidence": 1.0,
-        "align-duration": 0.6364939212799072
+        "alignDuration": 0.6364939212799072
       }
     },
     {
@@ -8399,7 +8395,7 @@
         "proceedingIndex": 69,
         "proceedingTextID": "u20119_125",
         "confidence": 1.0,
-        "align-duration": 1.0431077480316162
+        "alignDuration": 1.0431077480316162
       }
     },
     {
@@ -8819,7 +8815,7 @@
         "proceedingIndex": 70,
         "proceedingTextID": "u20119_127",
         "confidence": 1.0,
-        "align-duration": 0.8978638648986816
+        "alignDuration": 0.8978638648986816
       }
     },
     {
@@ -9229,7 +9225,7 @@
         "proceedingIndex": 71,
         "proceedingTextID": "u20119_130",
         "confidence": 1.0,
-        "align-duration": 0.9346449375152588
+        "alignDuration": 0.9346449375152588
       }
     },
     {
@@ -9526,7 +9522,7 @@
         "proceedingIndex": 72,
         "proceedingTextID": "u20119_132",
         "confidence": 1.0,
-        "align-duration": 0.9461548328399658
+        "alignDuration": 0.9461548328399658
       }
     },
     {
@@ -9731,7 +9727,7 @@
         "proceedingIndex": 77,
         "proceedingTextID": "u20119_140",
         "confidence": 1.0,
-        "align-duration": 0.7977430820465088
+        "alignDuration": 0.7977430820465088
       }
     },
     {
@@ -10201,7 +10197,7 @@
         "proceedingIndex": 78,
         "proceedingTextID": "u20119_142",
         "confidence": 1.0,
-        "align-duration": 0.9851210117340088
+        "alignDuration": 0.9851210117340088
       }
     },
     {
@@ -10565,7 +10561,7 @@
         "proceedingIndex": 79,
         "proceedingTextID": "u20119_144",
         "confidence": 1.0,
-        "align-duration": 0.9109909534454346
+        "alignDuration": 0.9109909534454346
       }
     },
     {
@@ -11202,7 +11198,7 @@
         "proceedingIndex": 80,
         "proceedingTextID": "u20119_146",
         "confidence": 1.0,
-        "align-duration": 1.2174079418182373
+        "alignDuration": 1.2174079418182373
       }
     },
     {
@@ -11589,7 +11585,7 @@
         "proceedingIndex": 81,
         "proceedingTextID": "u20119_148",
         "confidence": 1.0,
-        "align-duration": 1.0058317184448242
+        "alignDuration": 1.0058317184448242
       }
     },
     {
@@ -11943,7 +11939,7 @@
         "proceedingIndex": 82,
         "proceedingTextID": "u20119_150",
         "confidence": 1.0,
-        "align-duration": 0.9697129726409912
+        "alignDuration": 0.9697129726409912
       }
     },
     {
@@ -12026,7 +12022,7 @@
         "proceedingIndex": 84,
         "proceedingTextID": "u20119_154",
         "confidence": 1.0,
-        "align-duration": 0.5236060619354248
+        "alignDuration": 0.5236060619354248
       }
     },
     {
@@ -12405,7 +12401,7 @@
         "proceedingIndex": 86,
         "proceedingTextID": "u20119_157",
         "confidence": 1.0,
-        "align-duration": 0.8332180976867676
+        "alignDuration": 0.8332180976867676
       }
     },
     {
@@ -12513,7 +12509,7 @@
         "proceedingIndex": 88,
         "proceedingTextID": "u20119_161",
         "confidence": 1.0,
-        "align-duration": 0.5180771350860596
+        "alignDuration": 0.5180771350860596
       }
     },
     {
@@ -13074,7 +13070,7 @@
         "proceedingIndex": 89,
         "proceedingTextID": "u20119_163",
         "confidence": 1.0,
-        "align-duration": 1.1801021099090576
+        "alignDuration": 1.1801021099090576
       }
     },
     {
@@ -13224,7 +13220,7 @@
         "proceedingIndex": 98,
         "proceedingTextID": "u20119_178",
         "confidence": 1.0,
-        "align-duration": 0.7775440216064453
+        "alignDuration": 0.7775440216064453
       }
     },
     {
@@ -13310,7 +13306,7 @@
         "proceedingIndex": 99,
         "proceedingTextID": "u20119_180",
         "confidence": 1.0,
-        "align-duration": 0.5843746662139893
+        "alignDuration": 0.5843746662139893
       }
     },
     {
@@ -13393,7 +13389,7 @@
         "proceedingIndex": 104,
         "proceedingTextID": "u20119_188",
         "confidence": 1.0,
-        "align-duration": 0.531710147857666
+        "alignDuration": 0.531710147857666
       }
     },
     {
@@ -13506,7 +13502,7 @@
         "proceedingIndex": 108,
         "proceedingTextID": "u20119_195",
         "confidence": 1.0,
-        "align-duration": 0.5005078315734863
+        "alignDuration": 0.5005078315734863
       }
     },
     {
@@ -13589,7 +13585,7 @@
         "proceedingIndex": 112,
         "proceedingTextID": "u20119_202",
         "confidence": 1.0,
-        "align-duration": 0.5816769599914551
+        "alignDuration": 0.5816769599914551
       }
     },
     {
@@ -13714,7 +13710,7 @@
         "proceedingIndex": 114,
         "proceedingTextID": "u20119_205",
         "confidence": 1.0,
-        "align-duration": 0.43270230293273926
+        "alignDuration": 0.43270230293273926
       }
     },
     {
@@ -13795,7 +13791,7 @@
         "proceedingIndex": 118,
         "proceedingTextID": "u20119_212",
         "confidence": 1.0,
-        "align-duration": 0.6349091529846191
+        "alignDuration": 0.6349091529846191
       }
     }
   ]
