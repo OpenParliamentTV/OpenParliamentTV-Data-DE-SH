@@ -2,16 +2,16 @@
   "meta": {
     "schemaVersion": "1.0",
     "session": "20119",
-    "dateStart": "2026-05-08T09:41:19",
-    "dateEnd": "2026-05-08T15:59:50",
+    "dateStart": "2026-05-08T09:41:19+02:00",
+    "dateEnd": "2026-05-08T15:59:50+02:00",
     "lastProcessing": "align",
-    "lastUpdate": "2026-11-16T17:54:11",
+    "lastUpdate": "2026-11-16T19:47:56",
     "processing": {
-      "parse_media": "2026-11-16T18:44:27",
-      "merge": "2026-11-16T17:44:32+00:00",
-      "nel": "2026-11-16T18:44:32",
-      "align": "2026-11-16T17:54:11",
-      "ner": "2026-11-16T18:55:23"
+      "parse_media": "2026-11-16T20:42:39",
+      "merge": "2026-11-16T19:42:44+00:00",
+      "nel": "2026-11-16T20:42:44",
+      "align": "2026-11-16T19:47:56",
+      "ner": "2026-11-16T20:49:05"
     },
     "tagung": 42,
     "sourceURI": "https://m7k.ltsh.de/"
@@ -24,11 +24,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T09:41:19",
-        "dateEnd": "2026-05-08T09:47:15"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T09:41:19",
-      "dateEnd": "2026-05-08T09:47:15",
+      "dateStart": "2026-05-08T09:41:19+02:00",
+      "dateEnd": "2026-05-08T09:47:15+02:00",
       "speechIndex": 1,
       "originID": "34707",
       "originalLanguage": "de",
@@ -66,12 +66,15 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Ministerin Dr. Silke Schneider",
         "gruppeRaw": "Regierung",
         "beginnClock": "09:41:19",
         "endeClock": "09:47:15",
         "durationSeconds": 356,
-        "nerDuration": 0.0
+        "timesAreVideoRelative": false,
+        "agendaSource": "m7k",
+        "nerDuration": 9.5367431640625e-07
       }
     },
     {
@@ -81,11 +84,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T09:47:15",
-        "dateEnd": "2026-05-08T09:53:30"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T09:47:15",
-      "dateEnd": "2026-05-08T09:53:30",
+      "dateStart": "2026-05-08T09:47:15+02:00",
+      "dateEnd": "2026-05-08T09:53:30+02:00",
       "speechIndex": 2,
       "originID": "34708",
       "originalLanguage": "de",
@@ -650,16 +653,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "09:47:15",
         "endeClock": "09:53:30",
         "durationSeconds": 375,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 2,
         "proceedingTextID": "u20119_5",
         "confidence": 1.0,
-        "alignDuration": 1.2415242195129395,
-        "nerDuration": 0.8246719837188721
+        "agendaSource": "m7k",
+        "alignDuration": 1.2666549682617188,
+        "nerDuration": 0.6099128723144531
       }
     },
     {
@@ -669,11 +675,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T09:53:30",
-        "dateEnd": "2026-05-08T09:58:12"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T09:53:30",
-      "dateEnd": "2026-05-08T09:58:12",
+      "dateStart": "2026-05-08T09:53:30+02:00",
+      "dateEnd": "2026-05-08T09:58:12+02:00",
       "speechIndex": 3,
       "originID": "34709",
       "originalLanguage": "de",
@@ -1154,16 +1160,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Uta Wentzel",
         "gruppeRaw": "CDU",
         "beginnClock": "09:53:30",
         "endeClock": "09:58:12",
         "durationSeconds": 282,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 3,
         "proceedingTextID": "u20119_7",
         "confidence": 1.0,
-        "alignDuration": 1.0150370597839355,
-        "nerDuration": 0.5983579158782959
+        "agendaSource": "m7k",
+        "alignDuration": 1.015949010848999,
+        "nerDuration": 0.46920204162597656
       }
     },
     {
@@ -1173,11 +1182,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T09:58:12",
-        "dateEnd": "2026-05-08T10:03:47"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T09:58:12",
-      "dateEnd": "2026-05-08T10:03:47",
+      "dateStart": "2026-05-08T09:58:12+02:00",
+      "dateEnd": "2026-05-08T10:03:47+02:00",
       "speechIndex": 4,
       "originID": "34710",
       "originalLanguage": "de",
@@ -1657,16 +1666,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Oliver Brandt",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "09:58:12",
         "endeClock": "10:03:47",
         "durationSeconds": 335,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 4,
         "proceedingTextID": "u20119_9",
         "confidence": 1.0,
-        "alignDuration": 1.0658929347991943,
-        "nerDuration": 0.5224502086639404
+        "agendaSource": "m7k",
+        "alignDuration": 1.0869462490081787,
+        "nerDuration": 0.43642234802246094
       }
     },
     {
@@ -1676,11 +1688,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:03:47",
-        "dateEnd": "2026-05-08T10:09:28"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:03:47",
-      "dateEnd": "2026-05-08T10:09:28",
+      "dateStart": "2026-05-08T10:03:47+02:00",
+      "dateEnd": "2026-05-08T10:09:28+02:00",
       "speechIndex": 5,
       "originID": "34711",
       "originalLanguage": "de",
@@ -2262,16 +2274,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Beate Raudies",
         "gruppeRaw": "SPD",
         "beginnClock": "10:03:47",
         "endeClock": "10:09:28",
         "durationSeconds": 341,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 5,
         "proceedingTextID": "u20119_11",
         "confidence": 1.0,
-        "alignDuration": 1.0361573696136475,
-        "nerDuration": 0.5402629375457764
+        "agendaSource": "m7k",
+        "alignDuration": 1.0652689933776855,
+        "nerDuration": 0.5397078990936279
       }
     },
     {
@@ -2281,11 +2296,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:09:28",
-        "dateEnd": "2026-05-08T10:14:49"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:09:28",
-      "dateEnd": "2026-05-08T10:14:49",
+      "dateStart": "2026-05-08T10:09:28+02:00",
+      "dateEnd": "2026-05-08T10:14:49+02:00",
       "speechIndex": 6,
       "originID": "34712",
       "originalLanguage": "de",
@@ -2876,16 +2891,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "19+63",
+        "themaRaw": "Bericht Finanzbehörden im Nationalsozialismus",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "10:09:28",
         "endeClock": "10:14:49",
         "durationSeconds": 321,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 6,
         "proceedingTextID": "u20119_13",
         "confidence": 1.0,
-        "alignDuration": 1.029670000076294,
-        "nerDuration": 0.6223790645599365
+        "agendaSource": "m7k",
+        "alignDuration": 1.0575039386749268,
+        "nerDuration": 0.5546228885650635
       }
     },
     {
@@ -2895,11 +2913,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:15:59",
-        "dateEnd": "2026-05-08T10:21:52"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:15:59",
-      "dateEnd": "2026-05-08T10:21:52",
+      "dateStart": "2026-05-08T10:15:59+02:00",
+      "dateEnd": "2026-05-08T10:21:52+02:00",
       "speechIndex": 7,
       "originID": "34714",
       "originalLanguage": "de",
@@ -3435,16 +3453,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "10:15:59",
         "endeClock": "10:21:52",
         "durationSeconds": 353,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 7,
         "proceedingTextID": "u20119_15",
         "confidence": 1.0,
-        "alignDuration": 0.967149019241333,
-        "nerDuration": 0.6185469627380371
+        "agendaSource": "m7k",
+        "alignDuration": 1.0275421142578125,
+        "nerDuration": 0.4547159671783447
       }
     },
     {
@@ -3454,11 +3475,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:21:52",
-        "dateEnd": "2026-05-08T10:29:04"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:21:52",
-      "dateEnd": "2026-05-08T10:29:04",
+      "dateStart": "2026-05-08T10:21:52+02:00",
+      "dateEnd": "2026-05-08T10:29:04+02:00",
       "speechIndex": 8,
       "originID": "34715",
       "originalLanguage": "de",
@@ -3524,16 +3545,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Anette Röttger",
         "gruppeRaw": "CDU",
         "beginnClock": "10:21:52",
         "endeClock": "10:29:04",
         "durationSeconds": 432,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 9,
         "proceedingTextID": "u20119_19",
         "confidence": 1.0,
-        "alignDuration": 0.5721521377563477,
-        "nerDuration": 0.006763935089111328
+        "agendaSource": "m7k",
+        "alignDuration": 0.6047470569610596,
+        "nerDuration": 0.006871938705444336
       }
     },
     {
@@ -3543,11 +3567,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:29:04",
-        "dateEnd": "2026-05-08T10:34:35"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:29:04",
-      "dateEnd": "2026-05-08T10:34:35",
+      "dateStart": "2026-05-08T10:29:04+02:00",
+      "dateEnd": "2026-05-08T10:34:35+02:00",
       "speechIndex": 9,
       "originID": "34716",
       "originalLanguage": "de",
@@ -3648,16 +3672,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Uta Röpcke",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "10:29:04",
         "endeClock": "10:34:35",
         "durationSeconds": 331,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 14,
         "proceedingTextID": "u20119_27",
         "confidence": 1.0,
-        "alignDuration": 0.5744798183441162,
-        "nerDuration": 0.0467987060546875
+        "agendaSource": "m7k",
+        "alignDuration": 0.6208319664001465,
+        "nerDuration": 0.04671216011047363
       }
     },
     {
@@ -3667,11 +3694,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:34:35",
-        "dateEnd": "2026-05-08T10:42:31"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:34:35",
-      "dateEnd": "2026-05-08T10:42:31",
+      "dateStart": "2026-05-08T10:34:35+02:00",
+      "dateEnd": "2026-05-08T10:42:31+02:00",
       "speechIndex": 10,
       "originID": "34717",
       "originalLanguage": "de",
@@ -3737,16 +3764,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Beate Raudies",
         "gruppeRaw": "SPD",
         "beginnClock": "10:34:35",
         "endeClock": "10:42:31",
         "durationSeconds": 476,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 15,
         "proceedingTextID": "u20119_29",
         "confidence": 1.0,
-        "alignDuration": 0.6227293014526367,
-        "nerDuration": 0.006695985794067383
+        "agendaSource": "m7k",
+        "alignDuration": 0.6839148998260498,
+        "nerDuration": 0.006703853607177734
       }
     },
     {
@@ -3756,11 +3786,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:42:31",
-        "dateEnd": "2026-05-08T10:47:20"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:42:31",
-      "dateEnd": "2026-05-08T10:47:20",
+      "dateStart": "2026-05-08T10:42:31+02:00",
+      "dateEnd": "2026-05-08T10:47:20+02:00",
       "speechIndex": 11,
       "originID": "34718",
       "originalLanguage": "de",
@@ -4214,16 +4244,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "10:42:31",
         "endeClock": "10:47:20",
         "durationSeconds": 289,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 17,
         "proceedingTextID": "u20119_32",
         "confidence": 1.0,
-        "alignDuration": 0.8745338916778564,
-        "nerDuration": 0.42485713958740234
+        "agendaSource": "m7k",
+        "alignDuration": 0.9220662117004395,
+        "nerDuration": 0.3957250118255615
       }
     },
     {
@@ -4233,11 +4266,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:47:20",
-        "dateEnd": "2026-05-08T10:50:55"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:47:20",
-      "dateEnd": "2026-05-08T10:50:55",
+      "dateStart": "2026-05-08T10:47:20+02:00",
+      "dateEnd": "2026-05-08T10:50:55+02:00",
       "speechIndex": 12,
       "originID": "34719",
       "originalLanguage": "de",
@@ -4365,16 +4398,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "10:47:20",
         "endeClock": "10:50:55",
         "durationSeconds": 215,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 20,
         "proceedingTextID": "u20119_38",
         "confidence": 1.0,
-        "alignDuration": 0.4745049476623535,
-        "nerDuration": 0.05312681198120117
+        "agendaSource": "m7k",
+        "alignDuration": 0.5074470043182373,
+        "nerDuration": 0.05278277397155762
       }
     },
     {
@@ -4384,11 +4420,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T10:50:55",
-        "dateEnd": "2026-05-08T10:58:17"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T10:50:55",
-      "dateEnd": "2026-05-08T10:58:17",
+      "dateStart": "2026-05-08T10:50:55+02:00",
+      "dateEnd": "2026-05-08T10:58:17+02:00",
       "speechIndex": 13,
       "originID": "34720",
       "originalLanguage": "de",
@@ -5404,16 +5440,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "24",
+        "themaRaw": "Theaterland Schleswig-Holstein",
         "rednerRaw": "Ministerin Dr. Dorit Stenke",
         "gruppeRaw": "Regierung",
         "beginnClock": "10:50:55",
         "endeClock": "10:58:17",
         "durationSeconds": 442,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 21,
         "proceedingTextID": "u20119_40",
         "confidence": 1.0,
-        "alignDuration": 1.3710501194000244,
-        "nerDuration": 0.9277081489562988
+        "agendaSource": "m7k",
+        "alignDuration": 1.4390840530395508,
+        "nerDuration": 0.9023151397705078
       }
     },
     {
@@ -5423,11 +5462,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:00:14",
-        "dateEnd": "2026-05-08T11:05:21"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:00:14",
-      "dateEnd": "2026-05-08T11:05:21",
+      "dateStart": "2026-05-08T11:00:14+02:00",
+      "dateEnd": "2026-05-08T11:05:21+02:00",
       "speechIndex": 14,
       "originID": "34723",
       "originalLanguage": "de",
@@ -5824,16 +5863,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "11:00:14",
         "endeClock": "11:05:21",
         "durationSeconds": 307,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 22,
         "proceedingTextID": "u20119_43",
         "confidence": 1.0,
-        "alignDuration": 0.933690071105957,
-        "nerDuration": 0.34345102310180664
+        "agendaSource": "m7k",
+        "alignDuration": 0.9620170593261719,
+        "nerDuration": 0.3212249279022217
       }
     },
     {
@@ -5843,11 +5885,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:05:21",
-        "dateEnd": "2026-05-08T11:10:58"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:05:21",
-      "dateEnd": "2026-05-08T11:10:58",
+      "dateStart": "2026-05-08T11:05:21+02:00",
+      "dateEnd": "2026-05-08T11:10:58+02:00",
       "speechIndex": 15,
       "originID": "34724",
       "originalLanguage": "de",
@@ -6366,16 +6408,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Martin Balasus",
         "gruppeRaw": "CDU",
         "beginnClock": "11:05:21",
         "endeClock": "11:10:58",
         "durationSeconds": 337,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 23,
         "proceedingTextID": "u20119_45",
         "confidence": 1.0,
-        "alignDuration": 0.935856819152832,
-        "nerDuration": 0.5031270980834961
+        "agendaSource": "m7k",
+        "alignDuration": 0.9655320644378662,
+        "nerDuration": 0.4976940155029297
       }
     },
     {
@@ -6385,11 +6430,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:10:58",
-        "dateEnd": "2026-05-08T11:17:46"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:10:58",
-      "dateEnd": "2026-05-08T11:17:46",
+      "dateStart": "2026-05-08T11:10:58+02:00",
+      "dateEnd": "2026-05-08T11:17:46+02:00",
       "speechIndex": 16,
       "originID": "34725",
       "originalLanguage": "de",
@@ -6453,16 +6498,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Malte-Jannik Krüger",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "11:10:58",
         "endeClock": "11:17:46",
         "durationSeconds": 408,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 25,
         "proceedingTextID": "u20119_49",
         "confidence": 1.0,
-        "alignDuration": 0.5629119873046875,
-        "nerDuration": 0.006913661956787109
+        "agendaSource": "m7k",
+        "alignDuration": 0.5815088748931885,
+        "nerDuration": 0.007115840911865234
       }
     },
     {
@@ -6472,11 +6520,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:17:46",
-        "dateEnd": "2026-05-08T11:25:35"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:17:46",
-      "dateEnd": "2026-05-08T11:25:35",
+      "dateStart": "2026-05-08T11:17:46+02:00",
+      "dateEnd": "2026-05-08T11:25:35+02:00",
       "speechIndex": 17,
       "originID": "34726",
       "originalLanguage": "de",
@@ -6542,16 +6590,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "11:17:46",
         "endeClock": "11:25:35",
         "durationSeconds": 469,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 30,
         "proceedingTextID": "u20119_57",
         "confidence": 1.0,
-        "alignDuration": 0.6068439483642578,
-        "nerDuration": 0.006780147552490234
+        "agendaSource": "m7k",
+        "alignDuration": 0.6236610412597656,
+        "nerDuration": 0.006727933883666992
       }
     },
     {
@@ -6561,11 +6612,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:25:35",
-        "dateEnd": "2026-05-08T11:30:49"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:25:35",
-      "dateEnd": "2026-05-08T11:30:49",
+      "dateStart": "2026-05-08T11:25:35+02:00",
+      "dateEnd": "2026-05-08T11:30:49+02:00",
       "speechIndex": 18,
       "originID": "34727",
       "originalLanguage": "de",
@@ -7113,16 +7164,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "11:25:35",
         "endeClock": "11:30:49",
         "durationSeconds": 314,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 32,
         "proceedingTextID": "u20119_60",
         "confidence": 1.0,
-        "alignDuration": 0.9908778667449951,
-        "nerDuration": 0.4820518493652344
+        "agendaSource": "m7k",
+        "alignDuration": 1.0532701015472412,
+        "nerDuration": 0.4745981693267822
       }
     },
     {
@@ -7132,11 +7186,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:30:49",
-        "dateEnd": "2026-05-08T11:46:38"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:30:49",
-      "dateEnd": "2026-05-08T11:46:38",
+      "dateStart": "2026-05-08T11:30:49+02:00",
+      "dateEnd": "2026-05-08T11:46:38+02:00",
       "speechIndex": 19,
       "originID": "34728",
       "originalLanguage": "de",
@@ -7761,16 +7815,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Ministerin Dr. Dorit Stenke",
         "gruppeRaw": "Regierung",
         "beginnClock": "11:30:49",
         "endeClock": "11:46:38",
         "durationSeconds": 949,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 42,
         "proceedingTextID": "u20119_76",
         "confidence": 1.0,
-        "alignDuration": 1.8628931045532227,
-        "nerDuration": 0.6891481876373291
+        "agendaSource": "m7k",
+        "alignDuration": 1.946141004562378,
+        "nerDuration": 0.651749849319458
       }
     },
     {
@@ -7780,11 +7837,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:46:38",
-        "dateEnd": "2026-05-08T11:54:58"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:46:38",
-      "dateEnd": "2026-05-08T11:54:58",
+      "dateStart": "2026-05-08T11:46:38+02:00",
+      "dateEnd": "2026-05-08T11:54:58+02:00",
       "speechIndex": 20,
       "originID": "34729",
       "originalLanguage": "de",
@@ -7991,16 +8048,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "11:46:38",
         "endeClock": "11:54:58",
         "durationSeconds": 500,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 49,
         "proceedingTextID": "u20119_88",
         "confidence": 1.0,
-        "alignDuration": 0.8947200775146484,
-        "nerDuration": 0.14269185066223145
+        "agendaSource": "m7k",
+        "alignDuration": 0.922584056854248,
+        "nerDuration": 0.13922119140625
       }
     },
     {
@@ -8010,11 +8070,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:54:58",
-        "dateEnd": "2026-05-08T11:58:00"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:54:58",
-      "dateEnd": "2026-05-08T11:58:00",
+      "dateStart": "2026-05-08T11:54:58+02:00",
+      "dateEnd": "2026-05-08T11:58:00+02:00",
       "speechIndex": 21,
       "originID": "34730",
       "originalLanguage": "de",
@@ -8525,16 +8585,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "11:54:58",
         "endeClock": "11:58:00",
         "durationSeconds": 182,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 50,
         "proceedingTextID": "u20119_90",
         "confidence": 1.0,
-        "alignDuration": 0.7296550273895264,
-        "nerDuration": 0.3791530132293701
+        "agendaSource": "m7k",
+        "alignDuration": 0.7411160469055176,
+        "nerDuration": 0.3915901184082031
       }
     },
     {
@@ -8544,11 +8607,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T11:58:00",
-        "dateEnd": "2026-05-08T12:00:49"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T11:58:00",
-      "dateEnd": "2026-05-08T12:00:49",
+      "dateStart": "2026-05-08T11:58:00+02:00",
+      "dateEnd": "2026-05-08T12:00:49+02:00",
       "speechIndex": 22,
       "originID": "34731",
       "originalLanguage": "de",
@@ -9167,16 +9230,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "7",
+        "themaRaw": "Änderung des Schulgesetzes",
         "rednerRaw": "Nelly Waldeck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "11:58:00",
         "endeClock": "12:00:49",
         "durationSeconds": 169,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 51,
         "proceedingTextID": "u20119_92",
         "confidence": 1.0,
-        "alignDuration": 0.8297219276428223,
-        "nerDuration": 0.48775219917297363
+        "agendaSource": "m7k",
+        "alignDuration": 0.7689847946166992,
+        "nerDuration": 0.5050380229949951
       }
     },
     {
@@ -9186,11 +9252,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:04:23",
-        "dateEnd": "2026-05-08T12:10:20"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:04:23",
-      "dateEnd": "2026-05-08T12:10:20",
+      "dateStart": "2026-05-08T12:04:23+02:00",
+      "dateEnd": "2026-05-08T12:10:20+02:00",
       "speechIndex": 23,
       "originID": "34733",
       "originalLanguage": "de",
@@ -9909,16 +9975,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Dr. Heiner Garg",
         "gruppeRaw": "FDP",
         "beginnClock": "12:04:23",
         "endeClock": "12:10:20",
         "durationSeconds": 357,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 53,
         "proceedingTextID": "u20119_96",
         "confidence": 1.0,
-        "alignDuration": 1.097123146057129,
-        "nerDuration": 0.5149219036102295
+        "agendaSource": "m7k",
+        "alignDuration": 1.107806921005249,
+        "nerDuration": 0.4905359745025635
       }
     },
     {
@@ -9928,11 +9997,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:10:20",
-        "dateEnd": "2026-05-08T12:17:55"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:10:20",
-      "dateEnd": "2026-05-08T12:17:55",
+      "dateStart": "2026-05-08T12:10:20+02:00",
+      "dateEnd": "2026-05-08T12:17:55+02:00",
       "speechIndex": 24,
       "originID": "34734",
       "originalLanguage": "de",
@@ -9998,16 +10067,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Birte Pauls",
         "gruppeRaw": "SPD",
         "beginnClock": "12:10:20",
         "endeClock": "12:17:55",
         "durationSeconds": 455,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 55,
         "proceedingTextID": "u20119_100",
         "confidence": 1.0,
-        "alignDuration": 0.6043760776519775,
-        "nerDuration": 0.006296873092651367
+        "agendaSource": "m7k",
+        "alignDuration": 0.605025053024292,
+        "nerDuration": 0.0066258907318115234
       }
     },
     {
@@ -10017,11 +10089,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:17:56",
-        "dateEnd": "2026-05-08T12:23:05"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:17:56",
-      "dateEnd": "2026-05-08T12:23:05",
+      "dateStart": "2026-05-08T12:17:56+02:00",
+      "dateEnd": "2026-05-08T12:23:05+02:00",
       "speechIndex": 25,
       "originID": "34735",
       "originalLanguage": "de",
@@ -10681,16 +10753,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Ole-Christopher Plambeck",
         "gruppeRaw": "CDU",
         "beginnClock": "12:17:56",
         "endeClock": "12:23:05",
         "durationSeconds": 309,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 57,
         "proceedingTextID": "u20119_103",
         "confidence": 1.0,
-        "alignDuration": 0.9333009719848633,
-        "nerDuration": 0.4981980323791504
+        "agendaSource": "m7k",
+        "alignDuration": 0.9342873096466064,
+        "nerDuration": 0.49827003479003906
       }
     },
     {
@@ -10700,11 +10775,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:23:05",
-        "dateEnd": "2026-05-08T12:29:23"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:23:05",
-      "dateEnd": "2026-05-08T12:29:23",
+      "dateStart": "2026-05-08T12:23:05+02:00",
+      "dateEnd": "2026-05-08T12:29:23+02:00",
       "speechIndex": 26,
       "originID": "34736",
       "originalLanguage": "de",
@@ -10845,16 +10920,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Jasper Balke",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:23:05",
         "endeClock": "12:29:23",
         "durationSeconds": 378,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 59,
         "proceedingTextID": "u20119_107",
         "confidence": 1.0,
-        "alignDuration": 0.5831851959228516,
-        "nerDuration": 0.039175987243652344
+        "agendaSource": "m7k",
+        "alignDuration": 0.5960111618041992,
+        "nerDuration": 0.03845405578613281
       }
     },
     {
@@ -10864,11 +10942,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:29:23",
-        "dateEnd": "2026-05-08T12:34:15"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:29:23",
-      "dateEnd": "2026-05-08T12:34:15",
+      "dateStart": "2026-05-08T12:29:23+02:00",
+      "dateEnd": "2026-05-08T12:34:15+02:00",
       "speechIndex": 27,
       "originID": "34737",
       "originalLanguage": "de",
@@ -11377,16 +11455,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Dr. Michael Schunck",
         "gruppeRaw": "SSW",
         "beginnClock": "12:29:23",
         "endeClock": "12:34:15",
         "durationSeconds": 292,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 60,
         "proceedingTextID": "u20119_109",
         "confidence": 1.0,
-        "alignDuration": 0.9143033027648926,
-        "nerDuration": 0.5091152191162109
+        "agendaSource": "m7k",
+        "alignDuration": 0.9982419013977051,
+        "nerDuration": 0.4888310432434082
       }
     },
     {
@@ -11396,11 +11477,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:34:15",
-        "dateEnd": "2026-05-08T12:38:33"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:34:15",
-      "dateEnd": "2026-05-08T12:38:33",
+      "dateStart": "2026-05-08T12:34:15+02:00",
+      "dateEnd": "2026-05-08T12:38:33+02:00",
       "speechIndex": 28,
       "originID": "34738",
       "originalLanguage": "de",
@@ -11466,16 +11547,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Lukas Kilian",
         "gruppeRaw": "CDU",
         "beginnClock": "12:34:15",
         "endeClock": "12:38:33",
         "durationSeconds": 258,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 62,
         "proceedingTextID": "u20119_113",
         "confidence": 1.0,
-        "alignDuration": 0.45618605613708496,
-        "nerDuration": 0.011961936950683594
+        "agendaSource": "m7k",
+        "alignDuration": 0.48100805282592773,
+        "nerDuration": 0.006567955017089844
       }
     },
     {
@@ -11485,11 +11569,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:38:33",
-        "dateEnd": "2026-05-08T12:43:03"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:38:33",
-      "dateEnd": "2026-05-08T12:43:03",
+      "dateStart": "2026-05-08T12:38:33+02:00",
+      "dateEnd": "2026-05-08T12:43:03+02:00",
       "speechIndex": 29,
       "originID": "34739",
       "originalLanguage": "de",
@@ -11555,16 +11639,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Serpil Midyatli",
         "gruppeRaw": "SPD",
         "beginnClock": "12:38:33",
         "endeClock": "12:43:03",
         "durationSeconds": 270,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 65,
         "proceedingTextID": "u20119_118",
         "confidence": 1.0,
-        "alignDuration": 0.47075605392456055,
-        "nerDuration": 0.007176876068115234
+        "agendaSource": "m7k",
+        "alignDuration": 0.49517297744750977,
+        "nerDuration": 0.006473064422607422
       }
     },
     {
@@ -11574,11 +11661,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:43:03",
-        "dateEnd": "2026-05-08T12:46:19"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:43:03",
-      "dateEnd": "2026-05-08T12:46:19",
+      "dateStart": "2026-05-08T12:43:03+02:00",
+      "dateEnd": "2026-05-08T12:46:19+02:00",
       "speechIndex": 30,
       "originID": "34740",
       "originalLanguage": "de",
@@ -12052,16 +12139,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Dr. Heiner Garg",
         "gruppeRaw": "FDP",
         "beginnClock": "12:43:03",
         "endeClock": "12:46:19",
         "durationSeconds": 196,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 67,
         "proceedingTextID": "u20119_121",
         "confidence": 1.0,
-        "alignDuration": 0.7308480739593506,
-        "nerDuration": 0.35553693771362305
+        "agendaSource": "m7k",
+        "alignDuration": 0.7255489826202393,
+        "nerDuration": 0.34484410285949707
       }
     },
     {
@@ -12071,11 +12161,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:46:19",
-        "dateEnd": "2026-05-08T12:48:57"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:46:19",
-      "dateEnd": "2026-05-08T12:48:57",
+      "dateStart": "2026-05-08T12:46:19+02:00",
+      "dateEnd": "2026-05-08T12:48:57+02:00",
       "speechIndex": 31,
       "originID": "34741",
       "originalLanguage": "de",
@@ -12341,16 +12431,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Jasper Balke",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:46:19",
         "endeClock": "12:48:57",
         "durationSeconds": 158,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 68,
         "proceedingTextID": "u20119_123",
         "confidence": 1.0,
-        "alignDuration": 0.645704984664917,
-        "nerDuration": 0.2217729091644287
+        "agendaSource": "m7k",
+        "alignDuration": 0.6750259399414062,
+        "nerDuration": 0.2190380096435547
       }
     },
     {
@@ -12360,11 +12453,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:48:57",
-        "dateEnd": "2026-05-08T12:54:46"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:48:57",
-      "dateEnd": "2026-05-08T12:54:46",
+      "dateStart": "2026-05-08T12:48:57+02:00",
+      "dateEnd": "2026-05-08T12:54:46+02:00",
       "speechIndex": 32,
       "originID": "34742",
       "originalLanguage": "de",
@@ -12904,16 +12997,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "31+34",
+        "themaRaw": "Steuerfinanzierung Krankenversicherungsbeiträge",
         "rednerRaw": "Ministerin Prof. Dr. Kerstin von der Decken",
         "gruppeRaw": "Regierung",
         "beginnClock": "12:48:57",
         "endeClock": "12:54:46",
         "durationSeconds": 349,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 69,
         "proceedingTextID": "u20119_125",
         "confidence": 1.0,
-        "alignDuration": 1.074202060699463,
-        "nerDuration": 0.563744068145752
+        "agendaSource": "m7k",
+        "alignDuration": 1.135448694229126,
+        "nerDuration": 0.5298922061920166
       }
     },
     {
@@ -12923,11 +13019,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T12:55:50",
-        "dateEnd": "2026-05-08T13:00:44"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T12:55:50",
-      "dateEnd": "2026-05-08T13:00:44",
+      "dateStart": "2026-05-08T12:55:50+02:00",
+      "dateEnd": "2026-05-08T13:00:44+02:00",
       "speechIndex": 33,
       "originID": "34744",
       "originalLanguage": "de",
@@ -13486,16 +13582,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "56",
+        "themaRaw": "Tätigkeit des Petitionsausschusses",
         "rednerRaw": "Hauke Göttsch",
         "gruppeRaw": "CDU",
         "beginnClock": "12:55:50",
         "endeClock": "13:00:44",
         "durationSeconds": 294,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 70,
         "proceedingTextID": "u20119_127",
         "confidence": 1.0,
-        "alignDuration": 0.9059722423553467,
-        "nerDuration": 0.5713260173797607
+        "agendaSource": "m7k",
+        "alignDuration": 0.9975051879882812,
+        "nerDuration": 0.4777538776397705
       }
     },
     {
@@ -13505,11 +13604,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:01:57",
-        "dateEnd": "2026-05-08T14:07:34"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:01:57",
-      "dateEnd": "2026-05-08T14:07:34",
+      "dateStart": "2026-05-08T14:01:57+02:00",
+      "dateEnd": "2026-05-08T14:07:34+02:00",
       "speechIndex": 34,
       "originID": "34749",
       "originalLanguage": "de",
@@ -14104,16 +14203,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Manfred Uekermann",
         "gruppeRaw": "CDU",
         "beginnClock": "14:01:57",
         "endeClock": "14:07:34",
         "durationSeconds": 337,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 71,
         "proceedingTextID": "u20119_130",
         "confidence": 1.0,
-        "alignDuration": 0.9661681652069092,
-        "nerDuration": 0.5929841995239258
+        "agendaSource": "m7k",
+        "alignDuration": 1.0007951259613037,
+        "nerDuration": 0.5264830589294434
       }
     },
     {
@@ -14123,11 +14225,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:07:34",
-        "dateEnd": "2026-05-08T14:12:46"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:07:34",
-      "dateEnd": "2026-05-08T14:12:46",
+      "dateStart": "2026-05-08T14:07:34+02:00",
+      "dateEnd": "2026-05-08T14:12:46+02:00",
       "speechIndex": 35,
       "originID": "34750",
       "originalLanguage": "de",
@@ -14546,16 +14648,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Silke Backsen",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "14:07:34",
         "endeClock": "14:12:46",
         "durationSeconds": 312,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 72,
         "proceedingTextID": "u20119_132",
         "confidence": 1.0,
-        "alignDuration": 0.9451079368591309,
-        "nerDuration": 0.4585089683532715
+        "agendaSource": "m7k",
+        "alignDuration": 0.9529561996459961,
+        "nerDuration": 0.45412492752075195
       }
     },
     {
@@ -14565,11 +14670,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:12:46",
-        "dateEnd": "2026-05-08T14:18:38"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:12:46",
-      "dateEnd": "2026-05-08T14:18:38",
+      "dateStart": "2026-05-08T14:12:46+02:00",
+      "dateEnd": "2026-05-08T14:18:38+02:00",
       "speechIndex": 36,
       "originID": "34751",
       "originalLanguage": "de",
@@ -14819,16 +14924,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Sandra Redmann",
         "gruppeRaw": "SPD",
         "beginnClock": "14:12:46",
         "endeClock": "14:18:38",
         "durationSeconds": 352,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 77,
         "proceedingTextID": "u20119_140",
         "confidence": 1.0,
-        "alignDuration": 0.7975361347198486,
-        "nerDuration": 0.17522382736206055
+        "agendaSource": "m7k",
+        "alignDuration": 0.8229448795318604,
+        "nerDuration": 0.19278788566589355
       }
     },
     {
@@ -14838,11 +14946,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:18:38",
-        "dateEnd": "2026-05-08T14:24:27"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:18:38",
-      "dateEnd": "2026-05-08T14:24:27",
+      "dateStart": "2026-05-08T14:18:38+02:00",
+      "dateEnd": "2026-05-08T14:24:27+02:00",
       "speechIndex": 37,
       "originID": "34752",
       "originalLanguage": "de",
@@ -15505,16 +15613,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "14:18:38",
         "endeClock": "14:24:27",
         "durationSeconds": 349,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 78,
         "proceedingTextID": "u20119_142",
         "confidence": 1.0,
-        "alignDuration": 1.0253612995147705,
-        "nerDuration": 0.6163179874420166
+        "agendaSource": "m7k",
+        "alignDuration": 1.1014442443847656,
+        "nerDuration": 0.6065211296081543
       }
     },
     {
@@ -15524,11 +15635,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:24:27",
-        "dateEnd": "2026-05-08T14:28:50"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:24:27",
-      "dateEnd": "2026-05-08T14:28:50",
+      "dateStart": "2026-05-08T14:24:27+02:00",
+      "dateEnd": "2026-05-08T14:28:50+02:00",
       "speechIndex": 38,
       "originID": "34753",
       "originalLanguage": "de",
@@ -16005,16 +16116,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Dr. Michael Schunck",
         "gruppeRaw": "SSW",
         "beginnClock": "14:24:27",
         "endeClock": "14:28:50",
         "durationSeconds": 263,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 79,
         "proceedingTextID": "u20119_144",
         "confidence": 1.0,
-        "alignDuration": 0.8744711875915527,
-        "nerDuration": 0.4540519714355469
+        "agendaSource": "m7k",
+        "alignDuration": 0.9418401718139648,
+        "nerDuration": 0.43607282638549805
       }
     },
     {
@@ -16024,11 +16138,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:28:50",
-        "dateEnd": "2026-05-08T14:35:06"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:28:50",
-      "dateEnd": "2026-05-08T14:35:06",
+      "dateStart": "2026-05-08T14:28:50+02:00",
+      "dateEnd": "2026-05-08T14:35:06+02:00",
       "speechIndex": 39,
       "originID": "34754",
       "originalLanguage": "de",
@@ -16991,16 +17105,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "53",
+        "themaRaw": "Regulierung invasiver Arten stärken",
         "rednerRaw": "Ministerin Cornelia Schmachtenberg",
         "gruppeRaw": "Regierung",
         "beginnClock": "14:28:50",
         "endeClock": "14:35:06",
         "durationSeconds": 376,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 80,
         "proceedingTextID": "u20119_146",
         "confidence": 1.0,
-        "alignDuration": 1.252328872680664,
-        "nerDuration": 0.8609929084777832
+        "agendaSource": "m7k",
+        "alignDuration": 1.2418973445892334,
+        "nerDuration": 0.8946418762207031
       }
     },
     {
@@ -17010,11 +17127,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:36:38",
-        "dateEnd": "2026-05-08T14:42:00"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:36:38",
-      "dateEnd": "2026-05-08T14:42:00",
+      "dateStart": "2026-05-08T14:36:38+02:00",
+      "dateEnd": "2026-05-08T14:42:00+02:00",
       "speechIndex": 40,
       "originID": "34756",
       "originalLanguage": "de",
@@ -17576,16 +17693,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "14:36:38",
         "endeClock": "14:42:00",
         "durationSeconds": 322,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 81,
         "proceedingTextID": "u20119_148",
         "confidence": 1.0,
-        "alignDuration": 0.9932849407196045,
-        "nerDuration": 0.5332608222961426
+        "agendaSource": "m7k",
+        "alignDuration": 1.005162000656128,
+        "nerDuration": 0.4949970245361328
       }
     },
     {
@@ -17595,11 +17715,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:42:00",
-        "dateEnd": "2026-05-08T14:47:03"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:42:00",
-      "dateEnd": "2026-05-08T14:47:03",
+      "dateStart": "2026-05-08T14:42:00+02:00",
+      "dateEnd": "2026-05-08T14:47:03+02:00",
       "speechIndex": 41,
       "originID": "34757",
       "originalLanguage": "de",
@@ -18194,16 +18314,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Martin Balasus",
         "gruppeRaw": "CDU",
         "beginnClock": "14:42:00",
         "endeClock": "14:47:03",
         "durationSeconds": 303,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 82,
         "proceedingTextID": "u20119_150",
         "confidence": 1.0,
-        "alignDuration": 0.9404041767120361,
-        "nerDuration": 0.5029568672180176
+        "agendaSource": "m7k",
+        "alignDuration": 0.9875409603118896,
+        "nerDuration": 0.4687349796295166
       }
     },
     {
@@ -18213,11 +18336,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:47:03",
-        "dateEnd": "2026-05-08T14:53:14"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:47:03",
-      "dateEnd": "2026-05-08T14:53:14",
+      "dateStart": "2026-05-08T14:47:03+02:00",
+      "dateEnd": "2026-05-08T14:53:14+02:00",
       "speechIndex": 42,
       "originID": "34758",
       "originalLanguage": "de",
@@ -18281,16 +18404,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Malte-Jannik Krüger",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "14:47:03",
         "endeClock": "14:53:14",
         "durationSeconds": 371,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 84,
         "proceedingTextID": "u20119_154",
         "confidence": 1.0,
-        "alignDuration": 0.5288288593292236,
-        "nerDuration": 0.006612062454223633
+        "agendaSource": "m7k",
+        "alignDuration": 0.5676581859588623,
+        "nerDuration": 0.006555080413818359
       }
     },
     {
@@ -18300,11 +18426,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:53:14",
-        "dateEnd": "2026-05-08T14:58:06"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:53:14",
-      "dateEnd": "2026-05-08T14:58:06",
+      "dateStart": "2026-05-08T14:53:14+02:00",
+      "dateEnd": "2026-05-08T14:58:06+02:00",
       "speechIndex": 43,
       "originID": "34759",
       "originalLanguage": "de",
@@ -18878,16 +19004,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "14:53:14",
         "endeClock": "14:58:06",
         "durationSeconds": 292,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 86,
         "proceedingTextID": "u20119_157",
         "confidence": 1.0,
-        "alignDuration": 0.8721787929534912,
-        "nerDuration": 0.41289401054382324
+        "agendaSource": "m7k",
+        "alignDuration": 0.9096589088439941,
+        "nerDuration": 0.41447019577026367
       }
     },
     {
@@ -18897,11 +19026,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T14:58:06",
-        "dateEnd": "2026-05-08T15:03:57"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T14:58:06",
-      "dateEnd": "2026-05-08T15:03:57",
+      "dateStart": "2026-05-08T14:58:06+02:00",
+      "dateEnd": "2026-05-08T15:03:57+02:00",
       "speechIndex": 44,
       "originID": "34760",
       "originalLanguage": "de",
@@ -19032,16 +19161,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "14:58:06",
         "endeClock": "15:03:57",
         "durationSeconds": 351,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 88,
         "proceedingTextID": "u20119_161",
         "confidence": 1.0,
-        "alignDuration": 0.5464088916778564,
-        "nerDuration": 0.03128504753112793
+        "agendaSource": "m7k",
+        "alignDuration": 0.5789580345153809,
+        "nerDuration": 0.030451059341430664
       }
     },
     {
@@ -19051,11 +19183,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:03:57",
-        "dateEnd": "2026-05-08T15:10:14"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:03:57",
-      "dateEnd": "2026-05-08T15:10:14",
+      "dateStart": "2026-05-08T15:03:57+02:00",
+      "dateEnd": "2026-05-08T15:10:14+02:00",
       "speechIndex": 45,
       "originID": "34761",
       "originalLanguage": "de",
@@ -19988,16 +20120,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "38",
+        "themaRaw": "Verlässliche Finanzierung der Ersatzschulen",
         "rednerRaw": "Ministerin Dr. Dorit Stenke",
         "gruppeRaw": "Regierung",
         "beginnClock": "15:03:57",
         "endeClock": "15:10:14",
         "durationSeconds": 377,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 89,
         "proceedingTextID": "u20119_163",
         "confidence": 1.0,
-        "alignDuration": 1.2105751037597656,
-        "nerDuration": 0.8326129913330078
+        "agendaSource": "m7k",
+        "alignDuration": 1.2896900177001953,
+        "nerDuration": 0.7741241455078125
       }
     },
     {
@@ -20007,11 +20142,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:11:41",
-        "dateEnd": "2026-05-08T15:18:57"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:11:41",
-      "dateEnd": "2026-05-08T15:18:57",
+      "dateStart": "2026-05-08T15:11:41+02:00",
+      "dateEnd": "2026-05-08T15:18:57+02:00",
       "speechIndex": 46,
       "originID": "34763",
       "originalLanguage": "de",
@@ -20207,16 +20342,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "15:11:41",
         "endeClock": "15:18:57",
         "durationSeconds": 436,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 98,
         "proceedingTextID": "u20119_178",
         "confidence": 1.0,
-        "alignDuration": 0.7791099548339844,
-        "nerDuration": 0.13753104209899902
+        "agendaSource": "m7k",
+        "alignDuration": 0.788977861404419,
+        "nerDuration": 0.0972900390625
       }
     },
     {
@@ -20226,11 +20364,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:18:57",
-        "dateEnd": "2026-05-08T15:27:31"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:18:57",
-      "dateEnd": "2026-05-08T15:27:31",
+      "dateStart": "2026-05-08T15:18:57+02:00",
+      "dateEnd": "2026-05-08T15:27:31+02:00",
       "speechIndex": 47,
       "originID": "34764",
       "originalLanguage": "de",
@@ -20296,16 +20434,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Andreas Hein",
         "gruppeRaw": "CDU",
         "beginnClock": "15:18:57",
         "endeClock": "15:27:31",
         "durationSeconds": 514,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 99,
         "proceedingTextID": "u20119_180",
         "confidence": 1.0,
-        "alignDuration": 0.6289098262786865,
-        "nerDuration": 0.006658792495727539
+        "agendaSource": "m7k",
+        "alignDuration": 0.6751370429992676,
+        "nerDuration": 0.006040811538696289
       }
     },
     {
@@ -20315,11 +20456,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:27:31",
-        "dateEnd": "2026-05-08T15:34:13"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:27:31",
-      "dateEnd": "2026-05-08T15:34:13",
+      "dateStart": "2026-05-08T15:27:31+02:00",
+      "dateEnd": "2026-05-08T15:34:13+02:00",
       "speechIndex": 48,
       "originID": "34765",
       "originalLanguage": "de",
@@ -20383,16 +20524,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Sebastian Bonau",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "15:27:31",
         "endeClock": "15:34:13",
         "durationSeconds": 402,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 104,
         "proceedingTextID": "u20119_188",
         "confidence": 1.0,
-        "alignDuration": 0.5527267456054688,
-        "nerDuration": 0.0065882205963134766
+        "agendaSource": "m7k",
+        "alignDuration": 0.5986809730529785,
+        "nerDuration": 0.006540060043334961
       }
     },
     {
@@ -20402,11 +20546,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:34:13",
-        "dateEnd": "2026-05-08T15:39:42"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:34:13",
-      "dateEnd": "2026-05-08T15:39:42",
+      "dateStart": "2026-05-08T15:34:13+02:00",
+      "dateEnd": "2026-05-08T15:39:42+02:00",
       "speechIndex": 49,
       "originID": "34766",
       "originalLanguage": "de",
@@ -20526,16 +20670,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Thomas Hölck",
         "gruppeRaw": "SPD",
         "beginnClock": "15:34:13",
         "endeClock": "15:39:42",
         "durationSeconds": 329,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 108,
         "proceedingTextID": "u20119_195",
         "confidence": 1.0,
-        "alignDuration": 0.5372650623321533,
-        "nerDuration": 0.038023948669433594
+        "agendaSource": "m7k",
+        "alignDuration": 0.567720890045166,
+        "nerDuration": 0.033143043518066406
       }
     },
     {
@@ -20545,11 +20692,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:39:42",
-        "dateEnd": "2026-05-08T15:48:36"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:39:42",
-      "dateEnd": "2026-05-08T15:48:36",
+      "dateStart": "2026-05-08T15:39:42+02:00",
+      "dateEnd": "2026-05-08T15:48:36+02:00",
       "speechIndex": 50,
       "originID": "34767",
       "originalLanguage": "de",
@@ -20613,16 +20760,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "15:39:42",
         "endeClock": "15:48:36",
         "durationSeconds": 534,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 112,
         "proceedingTextID": "u20119_202",
         "confidence": 1.0,
-        "alignDuration": 0.6525969505310059,
-        "nerDuration": 0.008977890014648438
+        "agendaSource": "m7k",
+        "alignDuration": 0.6918389797210693,
+        "nerDuration": 0.006273031234741211
       }
     },
     {
@@ -20632,11 +20782,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:48:36",
-        "dateEnd": "2026-05-08T15:49:58"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:48:36",
-      "dateEnd": "2026-05-08T15:49:58",
+      "dateStart": "2026-05-08T15:48:36+02:00",
+      "dateEnd": "2026-05-08T15:49:58+02:00",
       "speechIndex": 51,
       "originID": "34768",
       "originalLanguage": "de",
@@ -20835,16 +20985,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Kianusch Stender",
         "gruppeRaw": "SPD",
         "beginnClock": "15:48:36",
         "endeClock": "15:49:58",
         "durationSeconds": 82,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 114,
         "proceedingTextID": "u20119_205",
         "confidence": 1.0,
-        "alignDuration": 0.44815516471862793,
-        "nerDuration": 0.12980318069458008
+        "agendaSource": "m7k",
+        "alignDuration": 0.48032093048095703,
+        "nerDuration": 0.12528610229492188
       }
     },
     {
@@ -20854,11 +21007,11 @@
       },
       "session": {
         "number": 119,
-        "dateStart": "2026-05-08T15:49:58",
-        "dateEnd": "2026-05-08T15:59:50"
+        "dateStart": "2026-05-08T09:41:19+02:00",
+        "dateEnd": "2026-05-08T15:59:50+02:00"
       },
-      "dateStart": "2026-05-08T15:49:58",
-      "dateEnd": "2026-05-08T15:59:50",
+      "dateStart": "2026-05-08T15:49:58+02:00",
+      "dateEnd": "2026-05-08T15:59:50+02:00",
       "speechIndex": 52,
       "originID": "34769",
       "originalLanguage": "de",
@@ -20919,16 +21072,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "3",
+        "themaRaw": "Ladenöffnungszeitengesetz",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "15:49:58",
         "endeClock": "15:59:50",
         "durationSeconds": 592,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 118,
         "proceedingTextID": "u20119_212",
         "confidence": 1.0,
-        "alignDuration": 0.6878118515014648,
-        "nerDuration": 0.006057024002075195
+        "agendaSource": "m7k",
+        "alignDuration": 0.7297649383544922,
+        "nerDuration": 0.006571054458618164
       }
     }
   ]

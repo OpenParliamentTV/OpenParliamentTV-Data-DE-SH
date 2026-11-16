@@ -2,16 +2,16 @@
   "meta": {
     "schemaVersion": "1.0",
     "session": "20118",
-    "dateStart": "2026-05-07T09:32:41",
-    "dateEnd": "2026-05-07T18:03:24",
+    "dateStart": "2026-05-07T09:32:41+02:00",
+    "dateEnd": "2026-05-07T18:03:24+02:00",
     "lastProcessing": "align",
-    "lastUpdate": "2026-11-16T17:48:13",
+    "lastUpdate": "2026-11-16T19:46:27",
     "processing": {
-      "parse_media": "2026-11-16T18:44:27",
-      "merge": "2026-11-16T17:44:32+00:00",
-      "nel": "2026-11-16T18:44:32",
-      "align": "2026-11-16T17:48:13",
-      "ner": "2026-11-16T18:55:05"
+      "parse_media": "2026-11-16T20:42:39",
+      "merge": "2026-11-16T19:42:44+00:00",
+      "nel": "2026-11-16T20:42:44",
+      "align": "2026-11-16T19:46:27",
+      "ner": "2026-11-16T20:48:48"
     },
     "tagung": 42,
     "sourceURI": "https://m7k.ltsh.de/"
@@ -24,11 +24,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T09:32:41",
-        "dateEnd": "2026-05-07T09:38:09"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T09:32:41",
-      "dateEnd": "2026-05-07T09:38:09",
+      "dateStart": "2026-05-07T09:32:41+02:00",
+      "dateEnd": "2026-05-07T09:38:09+02:00",
       "speechIndex": 1,
       "originID": "34617",
       "originalLanguage": "de",
@@ -993,16 +993,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "09:32:41",
         "endeClock": "09:38:09",
         "durationSeconds": 328,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 1,
         "proceedingTextID": "u20118_1",
         "confidence": 1.0,
-        "alignDuration": 1.262286901473999,
-        "nerDuration": 0.9208788871765137
+        "agendaSource": "m7k",
+        "alignDuration": 1.3116631507873535,
+        "nerDuration": 0.8407161235809326
       }
     },
     {
@@ -1012,11 +1015,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T09:38:09",
-        "dateEnd": "2026-05-07T09:43:50"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T09:38:09",
-      "dateEnd": "2026-05-07T09:43:50",
+      "dateStart": "2026-05-07T09:38:09+02:00",
+      "dateEnd": "2026-05-07T09:43:50+02:00",
       "speechIndex": 2,
       "originID": "34618",
       "originalLanguage": "de",
@@ -1938,16 +1941,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Lukas Kilian",
         "gruppeRaw": "CDU",
         "beginnClock": "09:38:09",
         "endeClock": "09:43:50",
         "durationSeconds": 341,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 2,
         "proceedingTextID": "u20118_4",
         "confidence": 1.0,
-        "alignDuration": 1.082441806793213,
-        "nerDuration": 0.7978000640869141
+        "agendaSource": "m7k",
+        "alignDuration": 1.1340200901031494,
+        "nerDuration": 0.7063260078430176
       }
     },
     {
@@ -1957,11 +1963,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T09:43:50",
-        "dateEnd": "2026-05-07T09:48:54"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T09:43:50",
-      "dateEnd": "2026-05-07T09:48:54",
+      "dateStart": "2026-05-07T09:43:50+02:00",
+      "dateEnd": "2026-05-07T09:48:54+02:00",
       "speechIndex": 3,
       "originID": "34619",
       "originalLanguage": "de",
@@ -2734,16 +2740,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Sebastian Bonau",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "09:43:50",
         "endeClock": "09:48:54",
         "durationSeconds": 304,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 3,
         "proceedingTextID": "u20118_6",
         "confidence": 1.0,
-        "alignDuration": 0.9861490726470947,
-        "nerDuration": 0.5782551765441895
+        "agendaSource": "m7k",
+        "alignDuration": 1.0477821826934814,
+        "nerDuration": 0.5736749172210693
       }
     },
     {
@@ -2753,11 +2762,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T09:48:54",
-        "dateEnd": "2026-05-07T09:55:08"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T09:48:54",
-      "dateEnd": "2026-05-07T09:55:08",
+      "dateStart": "2026-05-07T09:48:54+02:00",
+      "dateEnd": "2026-05-07T09:55:08+02:00",
       "speechIndex": 4,
       "originID": "34620",
       "originalLanguage": "de",
@@ -2821,16 +2830,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Kianusch Stender",
         "gruppeRaw": "SPD",
         "beginnClock": "09:48:54",
         "endeClock": "09:55:08",
         "durationSeconds": 374,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 5,
         "proceedingTextID": "u20118_10",
         "confidence": 1.0,
-        "alignDuration": 0.5577359199523926,
-        "nerDuration": 0.006209850311279297
+        "agendaSource": "m7k",
+        "alignDuration": 0.6015710830688477,
+        "nerDuration": 0.006710052490234375
       }
     },
     {
@@ -2840,11 +2852,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T09:55:08",
-        "dateEnd": "2026-05-07T10:00:23"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T09:55:08",
-      "dateEnd": "2026-05-07T10:00:23",
+      "dateStart": "2026-05-07T09:55:08+02:00",
+      "dateEnd": "2026-05-07T10:00:23+02:00",
       "speechIndex": 5,
       "originID": "34621",
       "originalLanguage": "de",
@@ -3427,16 +3439,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "09:55:08",
         "endeClock": "10:00:23",
         "durationSeconds": 315,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 7,
         "proceedingTextID": "u20118_13",
         "confidence": 1.0,
-        "alignDuration": 1.1101818084716797,
-        "nerDuration": 0.5976052284240723
+        "agendaSource": "m7k",
+        "alignDuration": 1.0370078086853027,
+        "nerDuration": 0.5550289154052734
       }
     },
     {
@@ -3446,11 +3461,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:00:23",
-        "dateEnd": "2026-05-07T10:08:59"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:00:23",
-      "dateEnd": "2026-05-07T10:08:59",
+      "dateStart": "2026-05-07T10:00:23+02:00",
+      "dateEnd": "2026-05-07T10:08:59+02:00",
       "speechIndex": 6,
       "originID": "34622",
       "originalLanguage": "de",
@@ -4682,16 +4697,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "30",
+        "themaRaw": "Echte Entlastungen für den Mittelstand",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "10:00:23",
         "endeClock": "10:08:59",
         "durationSeconds": 516,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 8,
         "proceedingTextID": "u20118_15",
         "confidence": 1.0,
-        "alignDuration": 1.586717128753662,
-        "nerDuration": 1.066648006439209
+        "agendaSource": "m7k",
+        "alignDuration": 1.5184450149536133,
+        "nerDuration": 1.0378000736236572
       }
     },
     {
@@ -4701,11 +4719,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:10:46",
-        "dateEnd": "2026-05-07T10:16:11"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:10:46",
-      "dateEnd": "2026-05-07T10:16:11",
+      "dateStart": "2026-05-07T10:10:46+02:00",
+      "dateEnd": "2026-05-07T10:16:11+02:00",
       "speechIndex": 7,
       "originID": "34625",
       "originalLanguage": "de",
@@ -5343,16 +5361,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "10:10:46",
         "endeClock": "10:16:11",
         "durationSeconds": 325,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 9,
         "proceedingTextID": "u20118_17",
         "confidence": 1.0,
-        "alignDuration": 1.0252048969268799,
-        "nerDuration": 0.5249683856964111
+        "agendaSource": "m7k",
+        "alignDuration": 1.0599091053009033,
+        "nerDuration": 0.5017437934875488
       }
     },
     {
@@ -5362,11 +5383,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:16:11",
-        "dateEnd": "2026-05-07T10:20:31"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:16:11",
-      "dateEnd": "2026-05-07T10:20:31",
+      "dateStart": "2026-05-07T10:16:11+02:00",
+      "dateEnd": "2026-05-07T10:20:31+02:00",
       "speechIndex": 8,
       "originID": "34626",
       "originalLanguage": "de",
@@ -6063,16 +6084,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Rixa Kleinschmit",
         "gruppeRaw": "CDU",
         "beginnClock": "10:16:11",
         "endeClock": "10:20:31",
         "durationSeconds": 260,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 10,
         "proceedingTextID": "u20118_19",
         "confidence": 1.0,
-        "alignDuration": 1.0574688911437988,
-        "nerDuration": 0.6983778476715088
+        "agendaSource": "m7k",
+        "alignDuration": 1.067500114440918,
+        "nerDuration": 0.6776638031005859
       }
     },
     {
@@ -6082,11 +6106,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:20:31",
-        "dateEnd": "2026-05-07T10:26:02"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:20:31",
-      "dateEnd": "2026-05-07T10:26:02",
+      "dateStart": "2026-05-07T10:20:31+02:00",
+      "dateEnd": "2026-05-07T10:26:02+02:00",
       "speechIndex": 9,
       "originID": "34627",
       "originalLanguage": "de",
@@ -6561,16 +6585,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Nelly Waldeck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "10:20:31",
         "endeClock": "10:26:02",
         "durationSeconds": 331,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 11,
         "proceedingTextID": "u20118_21",
         "confidence": 1.0,
-        "alignDuration": 0.8894929885864258,
-        "nerDuration": 0.356342077255249
+        "agendaSource": "m7k",
+        "alignDuration": 0.9024600982666016,
+        "nerDuration": 0.3601419925689697
       }
     },
     {
@@ -6580,11 +6607,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:26:02",
-        "dateEnd": "2026-05-07T10:29:42"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:26:02",
-      "dateEnd": "2026-05-07T10:29:42",
+      "dateStart": "2026-05-07T10:26:02+02:00",
+      "dateEnd": "2026-05-07T10:29:42+02:00",
       "speechIndex": 10,
       "originID": "34628",
       "originalLanguage": "de",
@@ -6995,16 +7022,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Marc Timmer",
         "gruppeRaw": "SPD",
         "beginnClock": "10:26:02",
         "endeClock": "10:29:42",
         "durationSeconds": 220,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 12,
         "proceedingTextID": "u20118_23",
         "confidence": 1.0,
-        "alignDuration": 0.7992801666259766,
-        "nerDuration": 0.3518707752227783
+        "agendaSource": "m7k",
+        "alignDuration": 0.8398840427398682,
+        "nerDuration": 0.35610389709472656
       }
     },
     {
@@ -7014,11 +7044,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:29:42",
-        "dateEnd": "2026-05-07T10:35:10"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:29:42",
-      "dateEnd": "2026-05-07T10:35:10",
+      "dateStart": "2026-05-07T10:29:42+02:00",
+      "dateEnd": "2026-05-07T10:35:10+02:00",
       "speechIndex": 11,
       "originID": "34629",
       "originalLanguage": "de",
@@ -7758,16 +7788,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "10:29:42",
         "endeClock": "10:35:10",
         "durationSeconds": 328,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 13,
         "proceedingTextID": "u20118_24",
         "confidence": 1.0,
-        "alignDuration": 1.1528072357177734,
-        "nerDuration": 0.7256710529327393
+        "agendaSource": "m7k",
+        "alignDuration": 1.1317079067230225,
+        "nerDuration": 0.6912157535552979
       }
     },
     {
@@ -7777,11 +7810,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:35:10",
-        "dateEnd": "2026-05-07T10:42:59"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:35:10",
-      "dateEnd": "2026-05-07T10:42:59",
+      "dateStart": "2026-05-07T10:35:10+02:00",
+      "dateEnd": "2026-05-07T10:42:59+02:00",
       "speechIndex": 12,
       "originID": "34630",
       "originalLanguage": "de",
@@ -8620,16 +8653,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Ministerin Aminata Touré",
         "gruppeRaw": "Regierung",
         "beginnClock": "10:35:10",
         "endeClock": "10:42:59",
         "durationSeconds": 469,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 14,
         "proceedingTextID": "u20118_26",
         "confidence": 1.0,
-        "alignDuration": 1.294184923171997,
-        "nerDuration": 0.7056198120117188
+        "agendaSource": "m7k",
+        "alignDuration": 1.323814868927002,
+        "nerDuration": 0.6582381725311279
       }
     },
     {
@@ -8639,11 +8675,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:43:39",
-        "dateEnd": "2026-05-07T10:46:26"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:43:39",
-      "dateEnd": "2026-05-07T10:46:26",
+      "dateStart": "2026-05-07T10:43:39+02:00",
+      "dateEnd": "2026-05-07T10:46:26+02:00",
       "speechIndex": 13,
       "originID": "34632",
       "originalLanguage": "de",
@@ -8986,16 +9022,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Annabell Krämer",
         "gruppeRaw": "FDP",
         "beginnClock": "10:43:39",
         "endeClock": "10:46:26",
         "durationSeconds": 167,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 16,
         "proceedingTextID": "u20118_30",
         "confidence": 1.0,
-        "alignDuration": 0.6416141986846924,
-        "nerDuration": 0.26895594596862793
+        "agendaSource": "m7k",
+        "alignDuration": 0.6809637546539307,
+        "nerDuration": 0.26391005516052246
       }
     },
     {
@@ -9005,11 +9044,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:46:26",
-        "dateEnd": "2026-05-07T10:51:46"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:46:26",
-      "dateEnd": "2026-05-07T10:51:46",
+      "dateStart": "2026-05-07T10:46:26+02:00",
+      "dateEnd": "2026-05-07T10:51:46+02:00",
       "speechIndex": 14,
       "originID": "34633",
       "originalLanguage": "de",
@@ -9075,16 +9114,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Lasse Petersdotter",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "10:46:26",
         "endeClock": "10:51:46",
         "durationSeconds": 320,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 18,
         "proceedingTextID": "u20118_34",
         "confidence": 1.0,
-        "alignDuration": 0.5084798336029053,
-        "nerDuration": 0.0072479248046875
+        "agendaSource": "m7k",
+        "alignDuration": 0.5178630352020264,
+        "nerDuration": 0.006348848342895508
       }
     },
     {
@@ -9094,11 +9136,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:51:46",
-        "dateEnd": "2026-05-07T10:57:18"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:51:46",
-      "dateEnd": "2026-05-07T10:57:18",
+      "dateStart": "2026-05-07T10:51:46+02:00",
+      "dateEnd": "2026-05-07T10:57:18+02:00",
       "speechIndex": 15,
       "originID": "34634",
       "originalLanguage": "de",
@@ -9228,16 +9270,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Andreas Hein",
         "gruppeRaw": "CDU",
         "beginnClock": "10:51:46",
         "endeClock": "10:57:18",
         "durationSeconds": 332,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 25,
         "proceedingTextID": "u20118_45",
         "confidence": 1.0,
-        "alignDuration": 0.5441527366638184,
-        "nerDuration": 0.035125017166137695
+        "agendaSource": "m7k",
+        "alignDuration": 0.5660316944122314,
+        "nerDuration": 0.037177085876464844
       }
     },
     {
@@ -9247,11 +9292,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:57:18",
-        "dateEnd": "2026-05-07T10:59:44"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:57:18",
-      "dateEnd": "2026-05-07T10:59:44",
+      "dateStart": "2026-05-07T10:57:18+02:00",
+      "dateEnd": "2026-05-07T10:59:44+02:00",
       "speechIndex": 16,
       "originID": "34635",
       "originalLanguage": "de",
@@ -9591,16 +9636,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Serpil Midyatli",
         "gruppeRaw": "SPD",
         "beginnClock": "10:57:18",
         "endeClock": "10:59:44",
         "durationSeconds": 146,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 26,
         "proceedingTextID": "u20118_47",
         "confidence": 1.0,
-        "alignDuration": 0.644733190536499,
-        "nerDuration": 0.2777688503265381
+        "agendaSource": "m7k",
+        "alignDuration": 0.623225212097168,
+        "nerDuration": 0.2581939697265625
       }
     },
     {
@@ -9610,11 +9658,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T10:59:44",
-        "dateEnd": "2026-05-07T11:05:48"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T10:59:44",
-      "dateEnd": "2026-05-07T11:05:48",
+      "dateStart": "2026-05-07T10:59:44+02:00",
+      "dateEnd": "2026-05-07T11:05:48+02:00",
       "speechIndex": 17,
       "originID": "34636",
       "originalLanguage": "de",
@@ -9922,16 +9970,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "27",
+        "themaRaw": "Klimageld jetzt einführen",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "10:59:44",
         "endeClock": "11:05:48",
         "durationSeconds": 364,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 33,
         "proceedingTextID": "u20118_59",
         "confidence": 1.0,
-        "alignDuration": 0.7784099578857422,
-        "nerDuration": 0.2396230697631836
+        "agendaSource": "m7k",
+        "alignDuration": 0.8036708831787109,
+        "nerDuration": 0.23343324661254883
       }
     },
     {
@@ -9941,11 +9992,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:06:55",
-        "dateEnd": "2026-05-07T11:12:23"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:06:55",
-      "dateEnd": "2026-05-07T11:12:23",
+      "dateStart": "2026-05-07T11:06:55+02:00",
+      "dateEnd": "2026-05-07T11:12:23+02:00",
       "speechIndex": 18,
       "originID": "34638",
       "originalLanguage": "de",
@@ -10564,16 +10615,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Aminata Touré",
         "gruppeRaw": "Regierung",
         "beginnClock": "11:06:55",
         "endeClock": "11:12:23",
         "durationSeconds": 328,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 34,
         "proceedingTextID": "u20118_61",
         "confidence": 1.0,
-        "alignDuration": 1.1298251152038574,
-        "nerDuration": 0.631770133972168
+        "agendaSource": "m7k",
+        "alignDuration": 1.1349997520446777,
+        "nerDuration": 0.5907399654388428
       }
     },
     {
@@ -10583,11 +10637,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:12:23",
-        "dateEnd": "2026-05-07T11:18:58"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:12:23",
-      "dateEnd": "2026-05-07T11:18:58",
+      "dateStart": "2026-05-07T11:12:23+02:00",
+      "dateEnd": "2026-05-07T11:18:58+02:00",
       "speechIndex": 19,
       "originID": "34639",
       "originalLanguage": "de",
@@ -10723,16 +10777,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Katja Rathje-Hoffmann",
         "gruppeRaw": "CDU",
         "beginnClock": "11:12:23",
         "endeClock": "11:18:58",
         "durationSeconds": 395,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 37,
         "proceedingTextID": "u20118_67",
         "confidence": 1.0,
-        "alignDuration": 0.6138010025024414,
-        "nerDuration": 0.03849601745605469
+        "agendaSource": "m7k",
+        "alignDuration": 0.6245288848876953,
+        "nerDuration": 0.0358431339263916
       }
     },
     {
@@ -10742,11 +10799,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:18:58",
-        "dateEnd": "2026-05-07T11:24:24"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:18:58",
-      "dateEnd": "2026-05-07T11:24:24",
+      "dateStart": "2026-05-07T11:18:58+02:00",
+      "dateEnd": "2026-05-07T11:24:24+02:00",
       "speechIndex": 20,
       "originID": "34640",
       "originalLanguage": "de",
@@ -11442,16 +11499,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Sophia Schiebe",
         "gruppeRaw": "SPD",
         "beginnClock": "11:18:58",
         "endeClock": "11:24:24",
         "durationSeconds": 326,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 38,
         "proceedingTextID": "u20118_69",
         "confidence": 1.0,
-        "alignDuration": 0.986746072769165,
-        "nerDuration": 0.5669288635253906
+        "agendaSource": "m7k",
+        "alignDuration": 1.0604610443115234,
+        "nerDuration": 0.5460720062255859
       }
     },
     {
@@ -11461,11 +11521,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:24:24",
-        "dateEnd": "2026-05-07T11:29:47"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:24:24",
-      "dateEnd": "2026-05-07T11:29:47",
+      "dateStart": "2026-05-07T11:24:24+02:00",
+      "dateEnd": "2026-05-07T11:29:47+02:00",
       "speechIndex": 21,
       "originID": "34641",
       "originalLanguage": "de",
@@ -11956,16 +12016,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Catharina Johanna Nies",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "11:24:24",
         "endeClock": "11:29:47",
         "durationSeconds": 323,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 39,
         "proceedingTextID": "u20118_71",
         "confidence": 1.0,
-        "alignDuration": 0.9924790859222412,
-        "nerDuration": 0.4411189556121826
+        "agendaSource": "m7k",
+        "alignDuration": 1.0295741558074951,
+        "nerDuration": 0.4215679168701172
       }
     },
     {
@@ -11975,11 +12038,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:29:47",
-        "dateEnd": "2026-05-07T11:35:37"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:29:47",
-      "dateEnd": "2026-05-07T11:35:37",
+      "dateStart": "2026-05-07T11:29:47+02:00",
+      "dateEnd": "2026-05-07T11:35:37+02:00",
       "speechIndex": 22,
       "originID": "34642",
       "originalLanguage": "de",
@@ -12111,16 +12174,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Dr. Heiner Garg",
         "gruppeRaw": "FDP",
         "beginnClock": "11:29:47",
         "endeClock": "11:35:37",
         "durationSeconds": 350,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 41,
         "proceedingTextID": "u20118_75",
         "confidence": 1.0,
-        "alignDuration": 0.5755422115325928,
-        "nerDuration": 0.0572359561920166
+        "agendaSource": "m7k",
+        "alignDuration": 0.6440446376800537,
+        "nerDuration": 0.04570722579956055
       }
     },
     {
@@ -12130,11 +12196,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:35:37",
-        "dateEnd": "2026-05-07T11:41:11"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:35:37",
-      "dateEnd": "2026-05-07T11:41:11",
+      "dateStart": "2026-05-07T11:35:37+02:00",
+      "dateEnd": "2026-05-07T11:41:11+02:00",
       "speechIndex": 23,
       "originID": "34643",
       "originalLanguage": "de",
@@ -12557,16 +12623,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "11:35:37",
         "endeClock": "11:41:11",
         "durationSeconds": 334,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 42,
         "proceedingTextID": "u20118_77",
         "confidence": 1.0,
-        "alignDuration": 0.9590210914611816,
-        "nerDuration": 0.3838632106781006
+        "agendaSource": "m7k",
+        "alignDuration": 0.9586291313171387,
+        "nerDuration": 0.3846762180328369
       }
     },
     {
@@ -12576,11 +12645,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:41:30",
-        "dateEnd": "2026-05-07T11:47:28"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:41:30",
-      "dateEnd": "2026-05-07T11:47:28",
+      "dateStart": "2026-05-07T11:41:30+02:00",
+      "dateEnd": "2026-05-07T11:47:28+02:00",
       "speechIndex": 24,
       "originID": "34645",
       "originalLanguage": "de",
@@ -12957,16 +13026,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "10+62",
+        "themaRaw": "Kindertagesförderungsgesetz u. KiTa-Situation",
         "rednerRaw": "Ministerin Aminata Touré",
         "gruppeRaw": "Regierung",
         "beginnClock": "11:41:30",
         "endeClock": "11:47:28",
         "durationSeconds": 358,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 43,
         "proceedingTextID": "u20118_79",
         "confidence": 1.0,
-        "alignDuration": 0.9786698818206787,
-        "nerDuration": 0.3128628730773926
+        "agendaSource": "m7k",
+        "alignDuration": 1.0077059268951416,
+        "nerDuration": 0.31931114196777344
       }
     },
     {
@@ -12976,11 +13048,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:49:12",
-        "dateEnd": "2026-05-07T11:57:17"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:49:12",
-      "dateEnd": "2026-05-07T11:57:17",
+      "dateStart": "2026-05-07T11:49:12+02:00",
+      "dateEnd": "2026-05-07T11:57:17+02:00",
       "speechIndex": 25,
       "originID": "34647",
       "originalLanguage": "de",
@@ -13018,12 +13090,15 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Ministerin Dr. Silke Schneider",
         "gruppeRaw": "Regierung",
         "beginnClock": "11:49:12",
         "endeClock": "11:57:17",
         "durationSeconds": 485,
-        "nerDuration": 0.0
+        "timesAreVideoRelative": false,
+        "agendaSource": "m7k",
+        "nerDuration": 7.152557373046875e-07
       }
     },
     {
@@ -13033,11 +13108,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T11:57:17",
-        "dateEnd": "2026-05-07T12:02:09"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T11:57:17",
-      "dateEnd": "2026-05-07T12:02:09",
+      "dateStart": "2026-05-07T11:57:17+02:00",
+      "dateEnd": "2026-05-07T12:02:09+02:00",
       "speechIndex": 26,
       "originID": "34648",
       "originalLanguage": "de",
@@ -13775,16 +13850,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Ole-Christopher Plambeck",
         "gruppeRaw": "CDU",
         "beginnClock": "11:57:17",
         "endeClock": "12:02:09",
         "durationSeconds": 292,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 48,
         "proceedingTextID": "u20118_92",
         "confidence": 1.0,
-        "alignDuration": 0.9374740123748779,
-        "nerDuration": 0.6149141788482666
+        "agendaSource": "m7k",
+        "alignDuration": 0.9435770511627197,
+        "nerDuration": 0.7538821697235107
       }
     },
     {
@@ -13794,11 +13872,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:02:09",
-        "dateEnd": "2026-05-07T12:07:45"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:02:09",
-      "dateEnd": "2026-05-07T12:07:45",
+      "dateStart": "2026-05-07T12:02:09+02:00",
+      "dateEnd": "2026-05-07T12:07:45+02:00",
       "speechIndex": 27,
       "originID": "34649",
       "originalLanguage": "de",
@@ -13862,16 +13940,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Oliver Brandt",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:02:09",
         "endeClock": "12:07:45",
         "durationSeconds": 336,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 50,
         "proceedingTextID": "u20118_96",
         "confidence": 1.0,
-        "alignDuration": 0.5200300216674805,
-        "nerDuration": 0.00640106201171875
+        "agendaSource": "m7k",
+        "alignDuration": 0.5360240936279297,
+        "nerDuration": 0.00928187370300293
       }
     },
     {
@@ -13881,11 +13962,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:07:45",
-        "dateEnd": "2026-05-07T12:14:15"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:07:45",
-      "dateEnd": "2026-05-07T12:14:15",
+      "dateStart": "2026-05-07T12:07:45+02:00",
+      "dateEnd": "2026-05-07T12:14:15+02:00",
       "speechIndex": 28,
       "originID": "34650",
       "originalLanguage": "de",
@@ -14607,16 +14688,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Beate Raudies",
         "gruppeRaw": "SPD",
         "beginnClock": "12:07:45",
         "endeClock": "12:14:15",
         "durationSeconds": 390,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 52,
         "proceedingTextID": "u20118_99",
         "confidence": 1.0,
-        "alignDuration": 1.2359211444854736,
-        "nerDuration": 0.6282081604003906
+        "agendaSource": "m7k",
+        "alignDuration": 1.1668322086334229,
+        "nerDuration": 0.68418288230896
       }
     },
     {
@@ -14626,11 +14710,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:14:15",
-        "dateEnd": "2026-05-07T12:21:12"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:14:15",
-      "dateEnd": "2026-05-07T12:21:12",
+      "dateStart": "2026-05-07T12:14:15+02:00",
+      "dateEnd": "2026-05-07T12:21:12+02:00",
       "speechIndex": 29,
       "originID": "34651",
       "originalLanguage": "de",
@@ -15220,16 +15304,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Annabell Krämer",
         "gruppeRaw": "FDP",
         "beginnClock": "12:14:15",
         "endeClock": "12:21:12",
         "durationSeconds": 417,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 53,
         "proceedingTextID": "u20118_101",
         "confidence": 1.0,
-        "alignDuration": 1.1893730163574219,
-        "nerDuration": 0.5634307861328125
+        "agendaSource": "m7k",
+        "alignDuration": 1.2057371139526367,
+        "nerDuration": 0.5840590000152588
       }
     },
     {
@@ -15239,11 +15326,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:21:12",
-        "dateEnd": "2026-05-07T12:26:48"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:21:12",
-      "dateEnd": "2026-05-07T12:26:48",
+      "dateStart": "2026-05-07T12:21:12+02:00",
+      "dateEnd": "2026-05-07T12:26:48+02:00",
       "speechIndex": 30,
       "originID": "34652",
       "originalLanguage": "de",
@@ -15853,16 +15940,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "12:21:12",
         "endeClock": "12:26:48",
         "durationSeconds": 336,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 54,
         "proceedingTextID": "u20118_103",
         "confidence": 1.0,
-        "alignDuration": 1.1148481369018555,
-        "nerDuration": 0.6251609325408936
+        "agendaSource": "m7k",
+        "alignDuration": 1.1418790817260742,
+        "nerDuration": 0.6650390625
       }
     },
     {
@@ -15872,11 +15962,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:26:48",
-        "dateEnd": "2026-05-07T12:30:16"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:26:48",
-      "dateEnd": "2026-05-07T12:30:16",
+      "dateStart": "2026-05-07T12:26:48+02:00",
+      "dateEnd": "2026-05-07T12:30:16+02:00",
       "speechIndex": 31,
       "originID": "34653",
       "originalLanguage": "de",
@@ -16209,16 +16299,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "12:26:48",
         "endeClock": "12:30:16",
         "durationSeconds": 208,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 55,
         "proceedingTextID": "u20118_105",
         "confidence": 1.0,
-        "alignDuration": 0.7804019451141357,
-        "nerDuration": 0.3249170780181885
+        "agendaSource": "m7k",
+        "alignDuration": 0.7876098155975342,
+        "nerDuration": 0.33431077003479004
       }
     },
     {
@@ -16228,11 +16321,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:30:16",
-        "dateEnd": "2026-05-07T12:36:27"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:30:16",
-      "dateEnd": "2026-05-07T12:36:27",
+      "dateStart": "2026-05-07T12:30:16+02:00",
+      "dateEnd": "2026-05-07T12:36:27+02:00",
       "speechIndex": 32,
       "originID": "34654",
       "originalLanguage": "de",
@@ -16296,16 +16389,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Oliver Brandt",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:30:16",
         "endeClock": "12:36:27",
         "durationSeconds": 371,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 61,
         "proceedingTextID": "u20118_115",
         "confidence": 1.0,
-        "alignDuration": 0.5478401184082031,
-        "nerDuration": 0.00622105598449707
+        "agendaSource": "m7k",
+        "alignDuration": 0.5586802959442139,
+        "nerDuration": 0.006370067596435547
       }
     },
     {
@@ -16315,11 +16411,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:36:27",
-        "dateEnd": "2026-05-07T12:38:42"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:36:27",
-      "dateEnd": "2026-05-07T12:38:42",
+      "dateStart": "2026-05-07T12:36:27+02:00",
+      "dateEnd": "2026-05-07T12:38:42+02:00",
       "speechIndex": 33,
       "originID": "34655",
       "originalLanguage": "de",
@@ -16692,16 +16788,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "5",
+        "themaRaw": "2. Nachtragshaushaltsgesetz 2026",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "12:36:27",
         "endeClock": "12:38:42",
         "durationSeconds": 135,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 63,
         "proceedingTextID": "u20118_118",
         "confidence": 1.0,
-        "alignDuration": 0.6534860134124756,
-        "nerDuration": 0.29845499992370605
+        "agendaSource": "m7k",
+        "alignDuration": 0.6415550708770752,
+        "nerDuration": 0.2951629161834717
       }
     },
     {
@@ -16711,11 +16810,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:39:34",
-        "dateEnd": "2026-05-07T12:45:50"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:39:34",
-      "dateEnd": "2026-05-07T12:45:50",
+      "dateStart": "2026-05-07T12:39:34+02:00",
+      "dateEnd": "2026-05-07T12:45:50+02:00",
       "speechIndex": 34,
       "originID": "34657",
       "originalLanguage": "de",
@@ -17367,16 +17466,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "12:39:34",
         "endeClock": "12:45:50",
         "durationSeconds": 376,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 64,
         "proceedingTextID": "u20118_120",
         "confidence": 1.0,
-        "alignDuration": 1.0877530574798584,
-        "nerDuration": 0.8186616897583008
+        "agendaSource": "m7k",
+        "alignDuration": 1.1919610500335693,
+        "nerDuration": 0.686211109161377
       }
     },
     {
@@ -17386,11 +17488,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:45:50",
-        "dateEnd": "2026-05-07T12:51:22"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:45:50",
-      "dateEnd": "2026-05-07T12:51:22",
+      "dateStart": "2026-05-07T12:45:50+02:00",
+      "dateEnd": "2026-05-07T12:51:22+02:00",
       "speechIndex": 35,
       "originID": "34658",
       "originalLanguage": "de",
@@ -18155,16 +18257,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "12:45:50",
         "endeClock": "12:51:22",
         "durationSeconds": 332,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 65,
         "proceedingTextID": "u20118_122",
         "confidence": 1.0,
-        "alignDuration": 0.9877991676330566,
-        "nerDuration": 0.7951240539550781
+        "agendaSource": "m7k",
+        "alignDuration": 1.0632340908050537,
+        "nerDuration": 0.5883548259735107
       }
     },
     {
@@ -18174,11 +18279,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:51:22",
-        "dateEnd": "2026-05-07T12:58:39"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:51:22",
-      "dateEnd": "2026-05-07T12:58:39",
+      "dateStart": "2026-05-07T12:51:22+02:00",
+      "dateEnd": "2026-05-07T12:58:39+02:00",
       "speechIndex": 36,
       "originID": "34659",
       "originalLanguage": "de",
@@ -18242,16 +18347,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Rasmus Vöge",
         "gruppeRaw": "CDU",
         "beginnClock": "12:51:22",
         "endeClock": "12:58:39",
         "durationSeconds": 437,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 69,
         "proceedingTextID": "u20118_130",
         "confidence": 1.0,
-        "alignDuration": 0.6012420654296875,
-        "nerDuration": 0.006426095962524414
+        "agendaSource": "m7k",
+        "alignDuration": 0.619049072265625,
+        "nerDuration": 0.006120204925537109
       }
     },
     {
@@ -18261,11 +18369,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T12:58:39",
-        "dateEnd": "2026-05-07T13:04:28"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T12:58:39",
-      "dateEnd": "2026-05-07T13:04:28",
+      "dateStart": "2026-05-07T12:58:39+02:00",
+      "dateEnd": "2026-05-07T13:04:28+02:00",
       "speechIndex": 37,
       "originID": "34660",
       "originalLanguage": "de",
@@ -19077,16 +19185,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Sebastian Bonau",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:58:39",
         "endeClock": "13:04:28",
         "durationSeconds": 349,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 71,
         "proceedingTextID": "u20118_133",
         "confidence": 1.0,
-        "alignDuration": 1.0434727668762207,
-        "nerDuration": 0.7531869411468506
+        "agendaSource": "m7k",
+        "alignDuration": 1.1318621635437012,
+        "nerDuration": 0.653425931930542
       }
     },
     {
@@ -19096,11 +19207,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T13:04:28",
-        "dateEnd": "2026-05-07T13:09:57"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T13:04:28",
-      "dateEnd": "2026-05-07T13:09:57",
+      "dateStart": "2026-05-07T13:04:28+02:00",
+      "dateEnd": "2026-05-07T13:09:57+02:00",
       "speechIndex": 38,
       "originID": "34661",
       "originalLanguage": "de",
@@ -19825,16 +19936,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Kianusch Stender",
         "gruppeRaw": "SPD",
         "beginnClock": "13:04:28",
         "endeClock": "13:09:57",
         "durationSeconds": 329,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 72,
         "proceedingTextID": "u20118_135",
         "confidence": 1.0,
-        "alignDuration": 0.997197151184082,
-        "nerDuration": 0.6066181659698486
+        "agendaSource": "m7k",
+        "alignDuration": 1.0077929496765137,
+        "nerDuration": 0.5850317478179932
       }
     },
     {
@@ -19844,11 +19958,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T13:09:57",
-        "dateEnd": "2026-05-07T13:16:39"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T13:09:57",
-      "dateEnd": "2026-05-07T13:16:39",
+      "dateStart": "2026-05-07T13:09:57+02:00",
+      "dateEnd": "2026-05-07T13:16:39+02:00",
       "speechIndex": 39,
       "originID": "34662",
       "originalLanguage": "de",
@@ -20290,16 +20404,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "16",
+        "themaRaw": "Bericht Wirtschaftliche Auswirkungen Naher Osten",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "13:09:57",
         "endeClock": "13:16:39",
         "durationSeconds": 402,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 74,
         "proceedingTextID": "u20118_139",
         "confidence": 1.0,
-        "alignDuration": 0.9708871841430664,
-        "nerDuration": 0.2964518070220947
+        "agendaSource": "m7k",
+        "alignDuration": 0.9284043312072754,
+        "nerDuration": 0.32602381706237793
       }
     },
     {
@@ -20309,11 +20426,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:02:43",
-        "dateEnd": "2026-05-07T15:07:57"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:02:43",
-      "dateEnd": "2026-05-07T15:07:57",
+      "dateStart": "2026-05-07T15:02:43+02:00",
+      "dateEnd": "2026-05-07T15:07:57+02:00",
       "speechIndex": 40,
       "originID": "34666",
       "originalLanguage": "de",
@@ -20600,16 +20717,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "15:02:43",
         "endeClock": "15:07:57",
         "durationSeconds": 314,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 76,
         "proceedingTextID": "u20118_144",
         "confidence": 1.0,
-        "alignDuration": 0.7867820262908936,
-        "nerDuration": 0.20195293426513672
+        "agendaSource": "m7k",
+        "alignDuration": 0.731255054473877,
+        "nerDuration": 0.18858122825622559
       }
     },
     {
@@ -20619,11 +20739,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:07:57",
-        "dateEnd": "2026-05-07T15:14:04"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:07:57",
-      "dateEnd": "2026-05-07T15:14:04",
+      "dateStart": "2026-05-07T15:07:57+02:00",
+      "dateEnd": "2026-05-07T15:14:04+02:00",
       "speechIndex": 41,
       "originID": "34667",
       "originalLanguage": "de",
@@ -21434,16 +21554,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Rasmus Vöge",
         "gruppeRaw": "CDU",
         "beginnClock": "15:07:57",
         "endeClock": "15:14:04",
         "durationSeconds": 367,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 80,
         "proceedingTextID": "u20118_151",
         "confidence": 1.0,
-        "alignDuration": 1.0068800449371338,
-        "nerDuration": 0.5560891628265381
+        "agendaSource": "m7k",
+        "alignDuration": 1.0571739673614502,
+        "nerDuration": 0.5353517532348633
       }
     },
     {
@@ -21453,11 +21576,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:14:04",
-        "dateEnd": "2026-05-07T15:23:01"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:14:04",
-      "dateEnd": "2026-05-07T15:23:01",
+      "dateStart": "2026-05-07T15:14:04+02:00",
+      "dateEnd": "2026-05-07T15:23:01+02:00",
       "speechIndex": 42,
       "originID": "34668",
       "originalLanguage": "de",
@@ -21521,16 +21644,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Nelly Waldeck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "15:14:04",
         "endeClock": "15:23:01",
         "durationSeconds": 537,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 84,
         "proceedingTextID": "u20118_158",
         "confidence": 1.0,
-        "alignDuration": 0.6626739501953125,
-        "nerDuration": 0.0059468746185302734
+        "agendaSource": "m7k",
+        "alignDuration": 0.6727099418640137,
+        "nerDuration": 0.005819082260131836
       }
     },
     {
@@ -21540,11 +21666,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:23:01",
-        "dateEnd": "2026-05-07T15:30:00"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:23:01",
-      "dateEnd": "2026-05-07T15:30:00",
+      "dateStart": "2026-05-07T15:23:01+02:00",
+      "dateEnd": "2026-05-07T15:30:00+02:00",
       "speechIndex": 43,
       "originID": "34669",
       "originalLanguage": "de",
@@ -22206,16 +22332,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Niclas Dürbrook",
         "gruppeRaw": "SPD",
         "beginnClock": "15:23:01",
         "endeClock": "15:30:00",
         "durationSeconds": 419,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 86,
         "proceedingTextID": "u20118_161",
         "confidence": 1.0,
-        "alignDuration": 1.2023530006408691,
-        "nerDuration": 0.6536481380462646
+        "agendaSource": "m7k",
+        "alignDuration": 1.1850690841674805,
+        "nerDuration": 0.6419069766998291
       }
     },
     {
@@ -22225,11 +22354,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:30:00",
-        "dateEnd": "2026-05-07T15:34:47"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:30:00",
-      "dateEnd": "2026-05-07T15:34:47",
+      "dateStart": "2026-05-07T15:30:00+02:00",
+      "dateEnd": "2026-05-07T15:34:47+02:00",
       "speechIndex": 44,
       "originID": "34670",
       "originalLanguage": "de",
@@ -22361,16 +22490,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "15:30:00",
         "endeClock": "15:34:47",
         "durationSeconds": 287,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 89,
         "proceedingTextID": "u20118_167",
         "confidence": 1.0,
-        "alignDuration": 0.5113320350646973,
-        "nerDuration": 0.028410911560058594
+        "agendaSource": "m7k",
+        "alignDuration": 0.5504648685455322,
+        "nerDuration": 0.02810811996459961
       }
     },
     {
@@ -22380,11 +22512,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:34:47",
-        "dateEnd": "2026-05-07T15:40:55"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:34:47",
-      "dateEnd": "2026-05-07T15:40:55",
+      "dateStart": "2026-05-07T15:34:47+02:00",
+      "dateEnd": "2026-05-07T15:40:55+02:00",
       "speechIndex": 45,
       "originID": "34671",
       "originalLanguage": "de",
@@ -22789,16 +22921,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "51+64",
+        "themaRaw": "Verkehrssicherheitsprogramm u. Radstrategie",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "15:34:47",
         "endeClock": "15:40:55",
         "durationSeconds": 368,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 91,
         "proceedingTextID": "u20118_171",
         "confidence": 1.0,
-        "alignDuration": 0.9014241695404053,
-        "nerDuration": 0.26840806007385254
+        "agendaSource": "m7k",
+        "alignDuration": 1.0044569969177246,
+        "nerDuration": 0.27457690238952637
       }
     },
     {
@@ -22808,11 +22943,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:42:41",
-        "dateEnd": "2026-05-07T15:47:08"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:42:41",
-      "dateEnd": "2026-05-07T15:47:08",
+      "dateStart": "2026-05-07T15:42:41+02:00",
+      "dateEnd": "2026-05-07T15:47:08+02:00",
       "speechIndex": 46,
       "originID": "34673",
       "originalLanguage": "de",
@@ -23344,16 +23479,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Serpil Midyatli",
         "gruppeRaw": "SPD",
         "beginnClock": "15:42:41",
         "endeClock": "15:47:08",
         "durationSeconds": 267,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 92,
         "proceedingTextID": "u20118_173",
         "confidence": 1.0,
-        "alignDuration": 0.8576998710632324,
-        "nerDuration": 0.44689106941223145
+        "agendaSource": "m7k",
+        "alignDuration": 0.8734471797943115,
+        "nerDuration": 0.4216580390930176
       }
     },
     {
@@ -23363,11 +23501,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:47:08",
-        "dateEnd": "2026-05-07T15:54:12"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:47:08",
-      "dateEnd": "2026-05-07T15:54:12",
+      "dateStart": "2026-05-07T15:47:08+02:00",
+      "dateEnd": "2026-05-07T15:54:12+02:00",
       "speechIndex": 47,
       "originID": "34674",
       "originalLanguage": "de",
@@ -23431,16 +23569,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Marion Schiefer",
         "gruppeRaw": "CDU",
         "beginnClock": "15:47:08",
         "endeClock": "15:54:12",
         "durationSeconds": 424,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 94,
         "proceedingTextID": "u20118_177",
         "confidence": 1.0,
-        "alignDuration": 0.596606969833374,
-        "nerDuration": 0.00837397575378418
+        "agendaSource": "m7k",
+        "alignDuration": 0.5880188941955566,
+        "nerDuration": 0.007179975509643555
       }
     },
     {
@@ -23450,11 +23591,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:54:12",
-        "dateEnd": "2026-05-07T15:59:56"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:54:12",
-      "dateEnd": "2026-05-07T15:59:56",
+      "dateStart": "2026-05-07T15:54:12+02:00",
+      "dateEnd": "2026-05-07T15:59:56+02:00",
       "speechIndex": 48,
       "originID": "34675",
       "originalLanguage": "de",
@@ -23597,16 +23738,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Jan Kürschner",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "15:54:12",
         "endeClock": "15:59:56",
         "durationSeconds": 344,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 97,
         "proceedingTextID": "u20118_182",
         "confidence": 1.0,
-        "alignDuration": 0.5794470310211182,
-        "nerDuration": 0.05161905288696289
+        "agendaSource": "m7k",
+        "alignDuration": 0.5720908641815186,
+        "nerDuration": 0.04631400108337402
       }
     },
     {
@@ -23616,11 +23760,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T15:59:56",
-        "dateEnd": "2026-05-07T16:04:58"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T15:59:56",
-      "dateEnd": "2026-05-07T16:04:58",
+      "dateStart": "2026-05-07T15:59:56+02:00",
+      "dateEnd": "2026-05-07T16:04:58+02:00",
       "speechIndex": 49,
       "originID": "34676",
       "originalLanguage": "de",
@@ -24169,16 +24313,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "15:59:56",
         "endeClock": "16:04:58",
         "durationSeconds": 302,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 98,
         "proceedingTextID": "u20118_184",
         "confidence": 1.0,
-        "alignDuration": 0.9144148826599121,
-        "nerDuration": 0.5257327556610107
+        "agendaSource": "m7k",
+        "alignDuration": 1.00398588180542,
+        "nerDuration": 0.458514928817749
       }
     },
     {
@@ -24188,11 +24335,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:04:58",
-        "dateEnd": "2026-05-07T16:12:24"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:04:58",
-      "dateEnd": "2026-05-07T16:12:24",
+      "dateStart": "2026-05-07T16:04:58+02:00",
+      "dateEnd": "2026-05-07T16:12:24+02:00",
       "speechIndex": 50,
       "originID": "34677",
       "originalLanguage": "de",
@@ -24256,16 +24403,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "16:04:58",
         "endeClock": "16:12:24",
         "durationSeconds": 446,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 100,
         "proceedingTextID": "u20118_188",
         "confidence": 1.0,
-        "alignDuration": 0.5966908931732178,
-        "nerDuration": 0.00658416748046875
+        "agendaSource": "m7k",
+        "alignDuration": 0.6250128746032715,
+        "nerDuration": 0.0066759586334228516
       }
     },
     {
@@ -24275,11 +24425,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:14:03",
-        "dateEnd": "2026-05-07T16:15:28"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:14:03",
-      "dateEnd": "2026-05-07T16:15:28",
+      "dateStart": "2026-05-07T16:14:03+02:00",
+      "dateEnd": "2026-05-07T16:15:28+02:00",
       "speechIndex": 51,
       "originID": "34679",
       "originalLanguage": "de",
@@ -24664,16 +24814,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "16:14:03",
         "endeClock": "16:15:28",
         "durationSeconds": 85,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 102,
         "proceedingTextID": "u20118_191",
         "confidence": 1.0,
-        "alignDuration": 0.5926940441131592,
-        "nerDuration": 0.3081400394439697
+        "agendaSource": "m7k",
+        "alignDuration": 0.6276040077209473,
+        "nerDuration": 0.31083226203918457
       }
     },
     {
@@ -24683,11 +24836,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:15:28",
-        "dateEnd": "2026-05-07T16:22:08"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:15:28",
-      "dateEnd": "2026-05-07T16:22:08",
+      "dateStart": "2026-05-07T16:15:28+02:00",
+      "dateEnd": "2026-05-07T16:22:08+02:00",
       "speechIndex": 52,
       "originID": "34680",
       "originalLanguage": "de",
@@ -25455,16 +25608,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "40",
+        "themaRaw": "Das Programm „Demokratie leben!“ stärken",
         "rednerRaw": "Ministerin Magdalena Finke",
         "gruppeRaw": "Regierung",
         "beginnClock": "16:15:28",
         "endeClock": "16:22:08",
         "durationSeconds": 400,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 103,
         "proceedingTextID": "u20118_193",
         "confidence": 1.0,
-        "alignDuration": 1.2769300937652588,
-        "nerDuration": 0.7370851039886475
+        "agendaSource": "m7k",
+        "alignDuration": 1.3128077983856201,
+        "nerDuration": 0.6892569065093994
       }
     },
     {
@@ -25474,11 +25630,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:23:23",
-        "dateEnd": "2026-05-07T16:29:32"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:23:23",
-      "dateEnd": "2026-05-07T16:29:32",
+      "dateStart": "2026-05-07T16:23:23+02:00",
+      "dateEnd": "2026-05-07T16:29:32+02:00",
       "speechIndex": 53,
       "originID": "34682",
       "originalLanguage": "de",
@@ -26105,16 +26261,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Thomas Hölck",
         "gruppeRaw": "SPD",
         "beginnClock": "16:23:23",
         "endeClock": "16:29:32",
         "durationSeconds": 369,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 104,
         "proceedingTextID": "u20118_195",
         "confidence": 1.0,
-        "alignDuration": 1.1123566627502441,
-        "nerDuration": 0.5450201034545898
+        "agendaSource": "m7k",
+        "alignDuration": 1.0900189876556396,
+        "nerDuration": 0.5484097003936768
       }
     },
     {
@@ -26124,11 +26283,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:29:32",
-        "dateEnd": "2026-05-07T16:34:18"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:29:32",
-      "dateEnd": "2026-05-07T16:34:18",
+      "dateStart": "2026-05-07T16:29:32+02:00",
+      "dateEnd": "2026-05-07T16:34:18+02:00",
       "speechIndex": 54,
       "originID": "34683",
       "originalLanguage": "de",
@@ -26616,16 +26775,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Peer Knöfler",
         "gruppeRaw": "CDU",
         "beginnClock": "16:29:32",
         "endeClock": "16:34:18",
         "durationSeconds": 286,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 105,
         "proceedingTextID": "u20118_197",
         "confidence": 1.0,
-        "alignDuration": 0.887955904006958,
-        "nerDuration": 0.5189182758331299
+        "agendaSource": "m7k",
+        "alignDuration": 0.9650840759277344,
+        "nerDuration": 0.44704413414001465
       }
     },
     {
@@ -26635,11 +26797,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:34:18",
-        "dateEnd": "2026-05-07T16:38:06"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:34:18",
-      "dateEnd": "2026-05-07T16:38:06",
+      "dateStart": "2026-05-07T16:34:18+02:00",
+      "dateEnd": "2026-05-07T16:38:06+02:00",
       "speechIndex": 55,
       "originID": "34684",
       "originalLanguage": "de",
@@ -27241,16 +27403,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Malte-Jannik Krüger",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "16:34:18",
         "endeClock": "16:38:06",
         "durationSeconds": 228,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 106,
         "proceedingTextID": "u20118_199",
         "confidence": 1.0,
-        "alignDuration": 0.7786502838134766,
-        "nerDuration": 0.508232831954956
+        "agendaSource": "m7k",
+        "alignDuration": 0.7888588905334473,
+        "nerDuration": 0.43042421340942383
       }
     },
     {
@@ -27260,11 +27425,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:38:06",
-        "dateEnd": "2026-05-07T16:43:31"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:38:06",
-      "dateEnd": "2026-05-07T16:43:31",
+      "dateStart": "2026-05-07T16:38:06+02:00",
+      "dateEnd": "2026-05-07T16:43:31+02:00",
       "speechIndex": 56,
       "originID": "34685",
       "originalLanguage": "de",
@@ -28036,16 +28201,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "16:38:06",
         "endeClock": "16:43:31",
         "durationSeconds": 325,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 107,
         "proceedingTextID": "u20118_201",
         "confidence": 1.0,
-        "alignDuration": 0.9828248023986816,
-        "nerDuration": 0.6233437061309814
+        "agendaSource": "m7k",
+        "alignDuration": 1.0039849281311035,
+        "nerDuration": 0.5657589435577393
       }
     },
     {
@@ -28055,11 +28223,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:43:31",
-        "dateEnd": "2026-05-07T16:49:09"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:43:31",
-      "dateEnd": "2026-05-07T16:49:09",
+      "dateStart": "2026-05-07T16:43:31+02:00",
+      "dateEnd": "2026-05-07T16:49:09+02:00",
       "speechIndex": 57,
       "originID": "34686",
       "originalLanguage": "de",
@@ -28620,16 +28788,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "16:43:31",
         "endeClock": "16:49:09",
         "durationSeconds": 338,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 108,
         "proceedingTextID": "u20118_203",
         "confidence": 1.0,
-        "alignDuration": 0.9227392673492432,
-        "nerDuration": 0.4736659526824951
+        "agendaSource": "m7k",
+        "alignDuration": 0.9367210865020752,
+        "nerDuration": 0.48265600204467773
       }
     },
     {
@@ -28639,11 +28810,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:49:09",
-        "dateEnd": "2026-05-07T16:51:12"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:49:09",
-      "dateEnd": "2026-05-07T16:51:12",
+      "dateStart": "2026-05-07T16:49:09+02:00",
+      "dateEnd": "2026-05-07T16:51:12+02:00",
       "speechIndex": 58,
       "originID": "34687",
       "originalLanguage": "de",
@@ -28994,16 +29165,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Thomas Hölck",
         "gruppeRaw": "SPD",
         "beginnClock": "16:49:09",
         "endeClock": "16:51:12",
         "durationSeconds": 123,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 109,
         "proceedingTextID": "u20118_205",
         "confidence": 1.0,
-        "alignDuration": 0.5743279457092285,
-        "nerDuration": 0.26396894454956055
+        "agendaSource": "m7k",
+        "alignDuration": 0.5465900897979736,
+        "nerDuration": 0.22377991676330566
       }
     },
     {
@@ -29013,11 +29187,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T16:51:12",
-        "dateEnd": "2026-05-07T16:58:48"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T16:51:12",
-      "dateEnd": "2026-05-07T16:58:48",
+      "dateStart": "2026-05-07T16:51:12+02:00",
+      "dateEnd": "2026-05-07T16:58:48+02:00",
       "speechIndex": 59,
       "originID": "34688",
       "originalLanguage": "de",
@@ -30052,16 +30226,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "17",
+        "themaRaw": "Einführung eines Aufstiegsbonus",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "16:51:12",
         "endeClock": "16:58:48",
         "durationSeconds": 456,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 116,
         "proceedingTextID": "u20118_217",
         "confidence": 1.0,
-        "alignDuration": 1.3885550498962402,
-        "nerDuration": 0.8180947303771973
+        "agendaSource": "m7k",
+        "alignDuration": 1.3546788692474365,
+        "nerDuration": 0.8336312770843506
       }
     },
     {
@@ -30071,11 +30248,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:03:47",
-        "dateEnd": "2026-05-07T17:13:37"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:03:47",
-      "dateEnd": "2026-05-07T17:13:37",
+      "dateStart": "2026-05-07T17:03:47+02:00",
+      "dateEnd": "2026-05-07T17:13:37+02:00",
       "speechIndex": 60,
       "originID": "34694",
       "originalLanguage": "de",
@@ -30762,16 +30939,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Ministerin Dr. Dorit Stenke",
         "gruppeRaw": "Regierung",
         "beginnClock": "17:03:47",
         "endeClock": "17:13:37",
         "durationSeconds": 590,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 118,
         "proceedingTextID": "u20118_221",
         "confidence": 1.0,
-        "alignDuration": 1.599043846130371,
-        "nerDuration": 0.7362391948699951
+        "agendaSource": "m7k",
+        "alignDuration": 1.678311824798584,
+        "nerDuration": 0.7340500354766846
       }
     },
     {
@@ -30781,11 +30961,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:13:37",
-        "dateEnd": "2026-05-07T17:18:53"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:13:37",
-      "dateEnd": "2026-05-07T17:18:53",
+      "dateStart": "2026-05-07T17:13:37+02:00",
+      "dateEnd": "2026-05-07T17:18:53+02:00",
       "speechIndex": 61,
       "originID": "34695",
       "originalLanguage": "de",
@@ -31027,16 +31207,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Martin Balasus",
         "gruppeRaw": "CDU",
         "beginnClock": "17:13:37",
         "endeClock": "17:18:53",
         "durationSeconds": 316,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 129,
         "proceedingTextID": "u20118_240",
         "confidence": 1.0,
-        "alignDuration": 0.6983559131622314,
-        "nerDuration": 0.14071297645568848
+        "agendaSource": "m7k",
+        "alignDuration": 0.6917428970336914,
+        "nerDuration": 0.14400410652160645
       }
     },
     {
@@ -31046,11 +31229,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:18:53",
-        "dateEnd": "2026-05-07T17:24:06"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:18:53",
-      "dateEnd": "2026-05-07T17:24:06",
+      "dateStart": "2026-05-07T17:18:53+02:00",
+      "dateEnd": "2026-05-07T17:24:06+02:00",
       "speechIndex": 62,
       "originID": "34696",
       "originalLanguage": "de",
@@ -31183,16 +31366,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Malte-Jannik Krüger",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "17:18:53",
         "endeClock": "17:24:06",
         "durationSeconds": 313,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 134,
         "proceedingTextID": "u20118_248",
         "confidence": 1.0,
-        "alignDuration": 0.6278283596038818,
-        "nerDuration": 0.08415484428405762
+        "agendaSource": "m7k",
+        "alignDuration": 0.6685090065002441,
+        "nerDuration": 0.09482502937316895
       }
     },
     {
@@ -31202,11 +31388,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:24:06",
-        "dateEnd": "2026-05-07T17:42:19"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:24:06",
-      "dateEnd": "2026-05-07T17:42:19",
+      "dateStart": "2026-05-07T17:24:06+02:00",
+      "dateEnd": "2026-05-07T17:42:19+02:00",
       "speechIndex": 63,
       "originID": "34697",
       "originalLanguage": "de",
@@ -31272,16 +31458,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "17:24:06",
         "endeClock": "17:42:19",
         "durationSeconds": 1093,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 136,
         "proceedingTextID": "u20118_252",
         "confidence": 1.0,
-        "alignDuration": 1.0629162788391113,
-        "nerDuration": 0.006078958511352539
+        "agendaSource": "m7k",
+        "alignDuration": 1.041438341140747,
+        "nerDuration": 0.006703853607177734
       }
     },
     {
@@ -31291,11 +31480,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:42:19",
-        "dateEnd": "2026-05-07T17:51:37"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:42:19",
-      "dateEnd": "2026-05-07T17:51:37",
+      "dateStart": "2026-05-07T17:42:19+02:00",
+      "dateEnd": "2026-05-07T17:51:37+02:00",
       "speechIndex": 64,
       "originID": "34698",
       "originalLanguage": "de",
@@ -32271,16 +32460,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "17:42:19",
         "endeClock": "17:51:37",
         "durationSeconds": 558,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 138,
         "proceedingTextID": "u20118_255",
         "confidence": 1.0,
-        "alignDuration": 1.395509958267212,
-        "nerDuration": 0.903939962387085
+        "agendaSource": "m7k",
+        "alignDuration": 1.5256812572479248,
+        "nerDuration": 0.9211218357086182
       }
     },
     {
@@ -32290,11 +32482,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T17:51:37",
-        "dateEnd": "2026-05-07T18:01:07"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T17:51:37",
-      "dateEnd": "2026-05-07T18:01:07",
+      "dateStart": "2026-05-07T17:51:37+02:00",
+      "dateEnd": "2026-05-07T18:01:07+02:00",
       "speechIndex": 65,
       "originID": "34699",
       "originalLanguage": "de",
@@ -32522,16 +32714,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "17:51:37",
         "endeClock": "18:01:07",
         "durationSeconds": 570,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 145,
         "proceedingTextID": "u20118_267",
         "confidence": 1.0,
-        "alignDuration": 0.9452002048492432,
-        "nerDuration": 0.14342975616455078
+        "agendaSource": "m7k",
+        "alignDuration": 0.978550910949707,
+        "nerDuration": 0.14033985137939453
       }
     },
     {
@@ -32541,11 +32736,11 @@
       },
       "session": {
         "number": 118,
-        "dateStart": "2026-05-07T18:01:07",
-        "dateEnd": "2026-05-07T18:03:24"
+        "dateStart": "2026-05-07T09:32:41+02:00",
+        "dateEnd": "2026-05-07T18:03:24+02:00"
       },
-      "dateStart": "2026-05-07T18:01:07",
-      "dateEnd": "2026-05-07T18:03:24",
+      "dateStart": "2026-05-07T18:01:07+02:00",
+      "dateEnd": "2026-05-07T18:03:24+02:00",
       "speechIndex": 66,
       "originID": "34700",
       "originalLanguage": "de",
@@ -33287,16 +33482,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "4",
+        "themaRaw": "Änderung des Lehrkräftebildungsgesetz",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "18:01:07",
         "endeClock": "18:03:24",
         "durationSeconds": 137,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 146,
         "proceedingTextID": "u20118_269",
         "confidence": 1.0,
-        "alignDuration": 0.7673869132995605,
-        "nerDuration": 0.5641231536865234
+        "agendaSource": "m7k",
+        "alignDuration": 0.7379791736602783,
+        "nerDuration": 0.5916709899902344
       }
     }
   ]

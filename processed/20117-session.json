@@ -2,16 +2,16 @@
   "meta": {
     "schemaVersion": "1.0",
     "session": "20117",
-    "dateStart": "2026-05-06T09:41:18",
-    "dateEnd": "2026-05-06T17:55:09",
+    "dateStart": "2026-05-06T09:41:18+02:00",
+    "dateEnd": "2026-05-06T17:55:09+02:00",
     "lastProcessing": "align",
-    "lastUpdate": "2026-11-16T17:46:16",
+    "lastUpdate": "2026-11-16T19:44:29",
     "processing": {
-      "parse_media": "2026-11-16T18:44:27",
-      "merge": "2026-11-16T17:44:32+00:00",
-      "nel": "2026-11-16T18:44:32",
-      "align": "2026-11-16T17:46:16",
-      "ner": "2026-11-16T18:54:37"
+      "parse_media": "2026-11-16T20:42:39",
+      "merge": "2026-11-16T19:42:43+00:00",
+      "nel": "2026-11-16T20:42:44",
+      "align": "2026-11-16T19:44:29",
+      "ner": "2026-11-16T20:48:21"
     },
     "tagung": 42,
     "sourceURI": "https://m7k.ltsh.de/"
@@ -24,11 +24,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T09:41:18",
-        "dateEnd": "2026-05-06T09:50:38"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T09:41:18",
-      "dateEnd": "2026-05-06T09:50:38",
+      "dateStart": "2026-05-06T09:41:18+02:00",
+      "dateEnd": "2026-05-06T09:50:38+02:00",
       "speechIndex": 1,
       "originID": "34544",
       "originalLanguage": "de",
@@ -2313,16 +2313,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Niclas Dürbrook",
         "gruppeRaw": "SPD",
         "beginnClock": "09:41:18",
         "endeClock": "09:50:38",
         "durationSeconds": 560,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 1,
         "proceedingTextID": "u20117_1",
         "confidence": 1.0,
-        "alignDuration": 2.2184669971466064,
-        "nerDuration": 2.7812728881835938
+        "agendaSource": "m7k",
+        "alignDuration": 2.42507004737854,
+        "nerDuration": 2.01711368560791
       }
     },
     {
@@ -2332,11 +2335,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T09:50:38",
-        "dateEnd": "2026-05-06T10:00:19"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T09:50:38",
-      "dateEnd": "2026-05-06T10:00:19",
+      "dateStart": "2026-05-06T09:50:38+02:00",
+      "dateEnd": "2026-05-06T10:00:19+02:00",
       "speechIndex": 2,
       "originID": "34545",
       "originalLanguage": "de",
@@ -3885,16 +3888,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Tobias Koch",
         "gruppeRaw": "CDU",
         "beginnClock": "09:50:38",
         "endeClock": "10:00:19",
         "durationSeconds": 581,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 2,
         "proceedingTextID": "u20117_4",
         "confidence": 1.0,
-        "alignDuration": 1.8179640769958496,
-        "nerDuration": 1.2150580883026123
+        "agendaSource": "m7k",
+        "alignDuration": 1.5751187801361084,
+        "nerDuration": 1.1520109176635742
       }
     },
     {
@@ -3904,11 +3910,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:00:19",
-        "dateEnd": "2026-05-06T10:09:07"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:00:19",
-      "dateEnd": "2026-05-06T10:09:07",
+      "dateStart": "2026-05-06T10:00:19+02:00",
+      "dateEnd": "2026-05-06T10:09:07+02:00",
       "speechIndex": 3,
       "originID": "34546",
       "originalLanguage": "de",
@@ -5283,16 +5289,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Lasse Petersdotter",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "10:00:19",
         "endeClock": "10:09:07",
         "durationSeconds": 528,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 3,
         "proceedingTextID": "u20117_6",
         "confidence": 1.0,
-        "alignDuration": 1.4884049892425537,
-        "nerDuration": 1.1018898487091064
+        "agendaSource": "m7k",
+        "alignDuration": 1.5066118240356445,
+        "nerDuration": 1.091284990310669
       }
     },
     {
@@ -5302,11 +5311,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:09:07",
-        "dateEnd": "2026-05-06T10:20:16"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:09:07",
-      "dateEnd": "2026-05-06T10:20:16",
+      "dateStart": "2026-05-06T10:09:07+02:00",
+      "dateEnd": "2026-05-06T10:20:16+02:00",
       "speechIndex": 4,
       "originID": "34547",
       "originalLanguage": "de",
@@ -5373,16 +5382,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "10:09:07",
         "endeClock": "10:20:16",
         "durationSeconds": 669,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 8,
         "proceedingTextID": "u20117_15",
         "confidence": 1.0,
-        "alignDuration": 0.7557833194732666,
-        "nerDuration": 0.006044149398803711
+        "agendaSource": "m7k",
+        "alignDuration": 0.7719900608062744,
+        "nerDuration": 0.006356000900268555
       }
     },
     {
@@ -5392,11 +5404,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:20:16",
-        "dateEnd": "2026-05-06T10:34:25"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:20:16",
-      "dateEnd": "2026-05-06T10:34:25",
+      "dateStart": "2026-05-06T10:20:16+02:00",
+      "dateEnd": "2026-05-06T10:34:25+02:00",
       "speechIndex": 5,
       "originID": "34548",
       "originalLanguage": "de",
@@ -5461,16 +5473,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "10:20:16",
         "endeClock": "10:34:25",
         "durationSeconds": 849,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 14,
         "proceedingTextID": "u20117_25",
         "confidence": 1.0,
-        "alignDuration": 0.8977668285369873,
-        "nerDuration": 0.007215976715087891
+        "agendaSource": "m7k",
+        "alignDuration": 0.889171838760376,
+        "nerDuration": 0.007399797439575195
       }
     },
     {
@@ -5480,11 +5495,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:34:25",
-        "dateEnd": "2026-05-06T10:42:08"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:34:25",
-      "dateEnd": "2026-05-06T10:42:08",
+      "dateStart": "2026-05-06T10:34:25+02:00",
+      "dateEnd": "2026-05-06T10:42:08+02:00",
       "speechIndex": 6,
       "originID": "34549",
       "originalLanguage": "de",
@@ -6238,16 +6253,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "1",
+        "themaRaw": "Aktuelle Stunde",
         "rednerRaw": "Minister Claus Ruhe Madsen",
         "gruppeRaw": "Regierung",
         "beginnClock": "10:34:25",
         "endeClock": "10:42:08",
         "durationSeconds": 463,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 16,
         "proceedingTextID": "u20117_28",
         "confidence": 1.0,
-        "alignDuration": 1.3583950996398926,
-        "nerDuration": 0.8804590702056885
+        "agendaSource": "m7k",
+        "alignDuration": 1.324803113937378,
+        "nerDuration": 0.8121230602264404
       }
     },
     {
@@ -6257,11 +6275,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:42:52",
-        "dateEnd": "2026-05-06T10:48:16"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:42:52",
-      "dateEnd": "2026-05-06T10:48:16",
+      "dateStart": "2026-05-06T10:42:52+02:00",
+      "dateEnd": "2026-05-06T10:48:16+02:00",
       "speechIndex": 7,
       "originID": "34551",
       "originalLanguage": "de",
@@ -6908,16 +6926,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Ministerin Magdalena Finke",
         "gruppeRaw": "Regierung",
         "beginnClock": "10:42:52",
         "endeClock": "10:48:16",
         "durationSeconds": 324,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 17,
         "proceedingTextID": "u20117_30",
         "confidence": 1.0,
-        "alignDuration": 1.0571956634521484,
-        "nerDuration": 0.7076499462127686
+        "agendaSource": "m7k",
+        "alignDuration": 1.0093131065368652,
+        "nerDuration": 0.543828010559082
       }
     },
     {
@@ -6927,11 +6948,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:48:16",
-        "dateEnd": "2026-05-06T10:53:59"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:48:16",
-      "dateEnd": "2026-05-06T10:53:59",
+      "dateStart": "2026-05-06T10:48:16+02:00",
+      "dateEnd": "2026-05-06T10:53:59+02:00",
       "speechIndex": 8,
       "originID": "34552",
       "originalLanguage": "de",
@@ -7429,16 +7450,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Birte Glißmann",
         "gruppeRaw": "CDU",
         "beginnClock": "10:48:16",
         "endeClock": "10:53:59",
         "durationSeconds": 343,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 18,
         "proceedingTextID": "u20117_32",
         "confidence": 1.0,
-        "alignDuration": 1.034883737564087,
-        "nerDuration": 0.45745158195495605
+        "agendaSource": "m7k",
+        "alignDuration": 1.062384843826294,
+        "nerDuration": 0.43141984939575195
       }
     },
     {
@@ -7448,11 +7472,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:53:59",
-        "dateEnd": "2026-05-06T10:59:45"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:53:59",
-      "dateEnd": "2026-05-06T10:59:45",
+      "dateStart": "2026-05-06T10:53:59+02:00",
+      "dateEnd": "2026-05-06T10:59:45+02:00",
       "speechIndex": 9,
       "originID": "34553",
       "originalLanguage": "de",
@@ -7986,16 +8010,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Jan Kürschner",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "10:53:59",
         "endeClock": "10:59:45",
         "durationSeconds": 346,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 19,
         "proceedingTextID": "u20117_34",
         "confidence": 1.0,
-        "alignDuration": 0.972088098526001,
-        "nerDuration": 0.5139291286468506
+        "agendaSource": "m7k",
+        "alignDuration": 1.0477309226989746,
+        "nerDuration": 0.48923611640930176
       }
     },
     {
@@ -8005,11 +8032,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T10:59:45",
-        "dateEnd": "2026-05-06T11:04:51"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T10:59:45",
-      "dateEnd": "2026-05-06T11:04:51",
+      "dateStart": "2026-05-06T10:59:45+02:00",
+      "dateEnd": "2026-05-06T11:04:51+02:00",
       "speechIndex": 10,
       "originID": "34554",
       "originalLanguage": "de",
@@ -8445,16 +8472,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Niclas Dürbrook",
         "gruppeRaw": "SPD",
         "beginnClock": "10:59:45",
         "endeClock": "11:04:51",
         "durationSeconds": 306,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 20,
         "proceedingTextID": "u20117_36",
         "confidence": 1.0,
-        "alignDuration": 0.9690501689910889,
-        "nerDuration": 0.45384907722473145
+        "agendaSource": "m7k",
+        "alignDuration": 1.1253530979156494,
+        "nerDuration": 0.44536614418029785
       }
     },
     {
@@ -8464,11 +8494,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:04:51",
-        "dateEnd": "2026-05-06T11:10:42"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:04:51",
-      "dateEnd": "2026-05-06T11:10:42",
+      "dateStart": "2026-05-06T11:04:51+02:00",
+      "dateEnd": "2026-05-06T11:10:42+02:00",
       "speechIndex": 11,
       "originID": "34555",
       "originalLanguage": "de",
@@ -8622,16 +8652,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "11:04:51",
         "endeClock": "11:10:42",
         "durationSeconds": 351,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 22,
         "proceedingTextID": "u20117_40",
         "confidence": 1.0,
-        "alignDuration": 0.5683491230010986,
-        "nerDuration": 0.05401802062988281
+        "agendaSource": "m7k",
+        "alignDuration": 0.5870528221130371,
+        "nerDuration": 0.05312299728393555
       }
     },
     {
@@ -8641,11 +8674,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:10:42",
-        "dateEnd": "2026-05-06T11:16:52"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:10:42",
-      "dateEnd": "2026-05-06T11:16:52",
+      "dateStart": "2026-05-06T11:10:42+02:00",
+      "dateEnd": "2026-05-06T11:16:52+02:00",
       "speechIndex": 12,
       "originID": "34556",
       "originalLanguage": "de",
@@ -8854,16 +8887,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "6",
+        "themaRaw": "Fortentwicklung polizeirechtlicher Maßnahmen",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "11:10:42",
         "endeClock": "11:16:52",
         "durationSeconds": 370,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 25,
         "proceedingTextID": "u20117_46",
         "confidence": 1.0,
-        "alignDuration": 0.7124011516571045,
-        "nerDuration": 0.13863492012023926
+        "agendaSource": "m7k",
+        "alignDuration": 0.7238647937774658,
+        "nerDuration": 0.12676191329956055
       }
     },
     {
@@ -8873,11 +8909,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:17:39",
-        "dateEnd": "2026-05-06T11:22:53"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:17:39",
-      "dateEnd": "2026-05-06T11:22:53",
+      "dateStart": "2026-05-06T11:17:39+02:00",
+      "dateEnd": "2026-05-06T11:22:53+02:00",
       "speechIndex": 13,
       "originID": "34559",
       "originalLanguage": "de",
@@ -9643,16 +9679,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "11:17:39",
         "endeClock": "11:22:53",
         "durationSeconds": 314,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 26,
         "proceedingTextID": "u20117_48",
         "confidence": 1.0,
-        "alignDuration": 0.9856069087982178,
-        "nerDuration": 0.6835668087005615
+        "agendaSource": "m7k",
+        "alignDuration": 1.0204482078552246,
+        "nerDuration": 0.5932927131652832
       }
     },
     {
@@ -9662,11 +9701,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:22:53",
-        "dateEnd": "2026-05-06T11:24:58"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:22:53",
-      "dateEnd": "2026-05-06T11:24:58",
+      "dateStart": "2026-05-06T11:22:53+02:00",
+      "dateEnd": "2026-05-06T11:24:58+02:00",
       "speechIndex": 14,
       "originID": "34560",
       "originalLanguage": "de",
@@ -9916,16 +9955,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Marion Schiefer",
         "gruppeRaw": "CDU",
         "beginnClock": "11:22:53",
         "endeClock": "11:24:58",
         "durationSeconds": 125,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 27,
         "proceedingTextID": "u20117_50",
         "confidence": 1.0,
-        "alignDuration": 0.5058660507202148,
-        "nerDuration": 0.2020249366760254
+        "agendaSource": "m7k",
+        "alignDuration": 0.5027110576629639,
+        "nerDuration": 0.1465620994567871
       }
     },
     {
@@ -9935,11 +9977,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:24:58",
-        "dateEnd": "2026-05-06T11:31:31"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:24:58",
-      "dateEnd": "2026-05-06T11:31:31",
+      "dateStart": "2026-05-06T11:24:58+02:00",
+      "dateEnd": "2026-05-06T11:31:31+02:00",
       "speechIndex": 15,
       "originID": "34561",
       "originalLanguage": "de",
@@ -10003,16 +10045,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Nelly Waldeck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "11:24:58",
         "endeClock": "11:31:31",
         "durationSeconds": 393,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 29,
         "proceedingTextID": "u20117_54",
         "confidence": 1.0,
-        "alignDuration": 0.5648658275604248,
-        "nerDuration": 0.006065845489501953
+        "agendaSource": "m7k",
+        "alignDuration": 0.5588352680206299,
+        "nerDuration": 0.006080150604248047
       }
     },
     {
@@ -10022,11 +10067,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:31:31",
-        "dateEnd": "2026-05-06T11:37:15"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:31:31",
-      "dateEnd": "2026-05-06T11:37:15",
+      "dateStart": "2026-05-06T11:31:31+02:00",
+      "dateEnd": "2026-05-06T11:37:15+02:00",
       "speechIndex": 16,
       "originID": "34562",
       "originalLanguage": "de",
@@ -10638,16 +10683,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Beate Raudies",
         "gruppeRaw": "SPD",
         "beginnClock": "11:31:31",
         "endeClock": "11:37:15",
         "durationSeconds": 344,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 31,
         "proceedingTextID": "u20117_57",
         "confidence": 1.0,
-        "alignDuration": 0.9632308483123779,
-        "nerDuration": 0.49266719818115234
+        "agendaSource": "m7k",
+        "alignDuration": 0.9853730201721191,
+        "nerDuration": 0.4889950752258301
       }
     },
     {
@@ -10657,11 +10705,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:37:15",
-        "dateEnd": "2026-05-06T11:42:37"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:37:15",
-      "dateEnd": "2026-05-06T11:42:37",
+      "dateStart": "2026-05-06T11:37:15+02:00",
+      "dateEnd": "2026-05-06T11:42:37+02:00",
       "speechIndex": 17,
       "originID": "34563",
       "originalLanguage": "de",
@@ -11154,16 +11202,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "11:37:15",
         "endeClock": "11:42:37",
         "durationSeconds": 322,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 32,
         "proceedingTextID": "u20117_59",
         "confidence": 1.0,
-        "alignDuration": 1.077436923980713,
-        "nerDuration": 0.5341880321502686
+        "agendaSource": "m7k",
+        "alignDuration": 1.0721189975738525,
+        "nerDuration": 0.4961071014404297
       }
     },
     {
@@ -11173,11 +11224,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T11:42:37",
-        "dateEnd": "2026-05-06T11:50:52"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T11:42:37",
-      "dateEnd": "2026-05-06T11:50:52",
+      "dateStart": "2026-05-06T11:42:37+02:00",
+      "dateEnd": "2026-05-06T11:50:52+02:00",
       "speechIndex": 18,
       "originID": "34564",
       "originalLanguage": "de",
@@ -11240,16 +11291,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "48",
+        "themaRaw": "Rückendeckung für den öffentlichen Dienst",
         "rednerRaw": "Ministerin Aminata Touré",
         "gruppeRaw": "Regierung",
         "beginnClock": "11:42:37",
         "endeClock": "11:50:52",
         "durationSeconds": 495,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 34,
         "proceedingTextID": "u20117_63",
         "confidence": 1.0,
-        "alignDuration": 0.6090669631958008,
-        "nerDuration": 0.006220102310180664
+        "agendaSource": "m7k",
+        "alignDuration": 0.6321229934692383,
+        "nerDuration": 0.0065038204193115234
       }
     },
     {
@@ -11259,11 +11313,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:01:16",
-        "dateEnd": "2026-05-06T12:05:58"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:01:16",
-      "dateEnd": "2026-05-06T12:05:58",
+      "dateStart": "2026-05-06T12:01:16+02:00",
+      "dateEnd": "2026-05-06T12:05:58+02:00",
       "speechIndex": 19,
       "originID": "34568",
       "originalLanguage": "de",
@@ -11834,16 +11888,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "12:01:16",
         "endeClock": "12:05:58",
         "durationSeconds": 282,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 40,
         "proceedingTextID": "u20117_74",
         "confidence": 1.0,
-        "alignDuration": 0.9398460388183594,
-        "nerDuration": 0.48529815673828125
+        "agendaSource": "m7k",
+        "alignDuration": 0.9338960647583008,
+        "nerDuration": 0.45560383796691895
       }
     },
     {
@@ -11853,11 +11910,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:05:58",
-        "dateEnd": "2026-05-06T12:11:24"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:05:58",
-      "dateEnd": "2026-05-06T12:11:24",
+      "dateStart": "2026-05-06T12:05:58+02:00",
+      "dateEnd": "2026-05-06T12:11:24+02:00",
       "speechIndex": 20,
       "originID": "34569",
       "originalLanguage": "de",
@@ -12559,16 +12616,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Rasmus Vöge",
         "gruppeRaw": "CDU",
         "beginnClock": "12:05:58",
         "endeClock": "12:11:24",
         "durationSeconds": 326,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 41,
         "proceedingTextID": "u20117_76",
         "confidence": 1.0,
-        "alignDuration": 1.0173859596252441,
-        "nerDuration": 0.693016767501831
+        "agendaSource": "m7k",
+        "alignDuration": 1.0335407257080078,
+        "nerDuration": 0.5526280403137207
       }
     },
     {
@@ -12578,11 +12638,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:11:24",
-        "dateEnd": "2026-05-06T12:15:50"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:11:24",
-      "dateEnd": "2026-05-06T12:15:50",
+      "dateStart": "2026-05-06T12:11:24+02:00",
+      "dateEnd": "2026-05-06T12:15:50+02:00",
       "speechIndex": 21,
       "originID": "34570",
       "originalLanguage": "de",
@@ -13049,16 +13109,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Sebastian Bonau",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:11:24",
         "endeClock": "12:15:50",
         "durationSeconds": 266,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 42,
         "proceedingTextID": "u20117_78",
         "confidence": 1.0,
-        "alignDuration": 0.8822400569915771,
-        "nerDuration": 0.487591028213501
+        "agendaSource": "m7k",
+        "alignDuration": 0.9123029708862305,
+        "nerDuration": 0.44844698905944824
       }
     },
     {
@@ -13068,11 +13131,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:15:50",
-        "dateEnd": "2026-05-06T12:20:19"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:15:50",
-      "dateEnd": "2026-05-06T12:20:19",
+      "dateStart": "2026-05-06T12:15:50+02:00",
+      "dateEnd": "2026-05-06T12:20:19+02:00",
       "speechIndex": 22,
       "originID": "34571",
       "originalLanguage": "de",
@@ -13564,16 +13627,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Dr. Kai Dolgner",
         "gruppeRaw": "SPD",
         "beginnClock": "12:15:50",
         "endeClock": "12:20:19",
         "durationSeconds": 269,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 43,
         "proceedingTextID": "u20117_80",
         "confidence": 1.0,
-        "alignDuration": 0.8753852844238281,
-        "nerDuration": 0.4063248634338379
+        "agendaSource": "m7k",
+        "alignDuration": 0.8990640640258789,
+        "nerDuration": 0.384570837020874
       }
     },
     {
@@ -13583,11 +13649,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:20:19",
-        "dateEnd": "2026-05-06T12:27:20"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:20:19",
-      "dateEnd": "2026-05-06T12:27:20",
+      "dateStart": "2026-05-06T12:20:19+02:00",
+      "dateEnd": "2026-05-06T12:27:20+02:00",
       "speechIndex": 23,
       "originID": "34572",
       "originalLanguage": "de",
@@ -13651,16 +13717,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Sybilla Nitsch",
         "gruppeRaw": "SSW",
         "beginnClock": "12:20:19",
         "endeClock": "12:27:20",
         "durationSeconds": 421,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 45,
         "proceedingTextID": "u20117_84",
         "confidence": 1.0,
-        "alignDuration": 0.570930004119873,
-        "nerDuration": 0.005976200103759766
+        "agendaSource": "m7k",
+        "alignDuration": 0.5887229442596436,
+        "nerDuration": 0.005995035171508789
       }
     },
     {
@@ -13670,11 +13739,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:27:20",
-        "dateEnd": "2026-05-06T12:33:51"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:27:20",
-      "dateEnd": "2026-05-06T12:33:51",
+      "dateStart": "2026-05-06T12:27:20+02:00",
+      "dateEnd": "2026-05-06T12:33:51+02:00",
       "speechIndex": 24,
       "originID": "34573",
       "originalLanguage": "de",
@@ -14500,16 +14569,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "29",
+        "themaRaw": "Nationaler Veteranentag in Schleswig-Holstein",
         "rednerRaw": "Ministerpräsident Daniel Günther",
         "gruppeRaw": "Regierung",
         "beginnClock": "12:27:20",
         "endeClock": "12:33:51",
         "durationSeconds": 391,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 47,
         "proceedingTextID": "u20117_87",
         "confidence": 1.0,
-        "alignDuration": 1.1242811679840088,
-        "nerDuration": 0.7615392208099365
+        "agendaSource": "m7k",
+        "alignDuration": 1.1647417545318604,
+        "nerDuration": 0.6452481746673584
       }
     },
     {
@@ -14519,11 +14591,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:35:01",
-        "dateEnd": "2026-05-06T12:40:33"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:35:01",
-      "dateEnd": "2026-05-06T12:40:33",
+      "dateStart": "2026-05-06T12:35:01+02:00",
+      "dateEnd": "2026-05-06T12:40:33+02:00",
       "speechIndex": 25,
       "originID": "34577",
       "originalLanguage": "de",
@@ -15161,16 +15233,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Marc Timmer",
         "gruppeRaw": "SPD",
         "beginnClock": "12:35:01",
         "endeClock": "12:40:33",
         "durationSeconds": 332,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 48,
         "proceedingTextID": "u20117_89",
         "confidence": 1.0,
-        "alignDuration": 0.9882490634918213,
-        "nerDuration": 0.5703260898590088
+        "agendaSource": "m7k",
+        "alignDuration": 1.008946180343628,
+        "nerDuration": 0.5338318347930908
       }
     },
     {
@@ -15180,11 +15255,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:40:33",
-        "dateEnd": "2026-05-06T12:47:05"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:40:33",
-      "dateEnd": "2026-05-06T12:47:05",
+      "dateStart": "2026-05-06T12:40:33+02:00",
+      "dateEnd": "2026-05-06T12:47:05+02:00",
       "speechIndex": 26,
       "originID": "34578",
       "originalLanguage": "de",
@@ -15250,16 +15325,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Andreas Hein",
         "gruppeRaw": "CDU",
         "beginnClock": "12:40:33",
         "endeClock": "12:47:05",
         "durationSeconds": 392,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 50,
         "proceedingTextID": "u20117_93",
         "confidence": 1.0,
-        "alignDuration": 0.5455338954925537,
-        "nerDuration": 0.006323814392089844
+        "agendaSource": "m7k",
+        "alignDuration": 0.5881900787353516,
+        "nerDuration": 0.007241964340209961
       }
     },
     {
@@ -15269,11 +15347,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:47:05",
-        "dateEnd": "2026-05-06T12:56:58"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:47:05",
-      "dateEnd": "2026-05-06T12:56:58",
+      "dateStart": "2026-05-06T12:47:05+02:00",
+      "dateEnd": "2026-05-06T12:56:58+02:00",
       "speechIndex": 27,
       "originID": "34579",
       "originalLanguage": "de",
@@ -15489,16 +15567,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Dr. Ulrike Täck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "12:47:05",
         "endeClock": "12:56:58",
         "durationSeconds": 593,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 57,
         "proceedingTextID": "u20117_104",
         "confidence": 1.0,
-        "alignDuration": 0.9357481002807617,
-        "nerDuration": 0.12402582168579102
+        "agendaSource": "m7k",
+        "alignDuration": 0.9498281478881836,
+        "nerDuration": 0.1444861888885498
       }
     },
     {
@@ -15508,11 +15589,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T12:56:58",
-        "dateEnd": "2026-05-06T13:05:40"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T12:56:58",
-      "dateEnd": "2026-05-06T13:05:40",
+      "dateStart": "2026-05-06T12:56:58+02:00",
+      "dateEnd": "2026-05-06T13:05:40+02:00",
       "speechIndex": 28,
       "originID": "34580",
       "originalLanguage": "de",
@@ -15724,16 +15805,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Christopher Vogt",
         "gruppeRaw": "FDP",
         "beginnClock": "12:56:58",
         "endeClock": "13:05:40",
         "durationSeconds": 522,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 64,
         "proceedingTextID": "u20117_116",
         "confidence": 1.0,
-        "alignDuration": 0.8542249202728271,
-        "nerDuration": 0.18194985389709473
+        "agendaSource": "m7k",
+        "alignDuration": 0.8759799003601074,
+        "nerDuration": 0.16386723518371582
       }
     },
     {
@@ -15743,11 +15827,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T13:05:40",
-        "dateEnd": "2026-05-06T13:09:35"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T13:05:40",
-      "dateEnd": "2026-05-06T13:09:35",
+      "dateStart": "2026-05-06T13:05:40+02:00",
+      "dateEnd": "2026-05-06T13:09:35+02:00",
       "speechIndex": 29,
       "originID": "34581",
       "originalLanguage": "de",
@@ -16182,16 +16266,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Dr. Michael Schunck",
         "gruppeRaw": "SSW",
         "beginnClock": "13:05:40",
         "endeClock": "13:09:35",
         "durationSeconds": 235,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 65,
         "proceedingTextID": "u20117_118",
         "confidence": 1.0,
-        "alignDuration": 0.8479890823364258,
-        "nerDuration": 0.4544188976287842
+        "agendaSource": "m7k",
+        "alignDuration": 0.8384909629821777,
+        "nerDuration": 0.4250369071960449
       }
     },
     {
@@ -16201,11 +16288,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T13:09:35",
-        "dateEnd": "2026-05-06T13:15:06"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T13:09:35",
-      "dateEnd": "2026-05-06T13:15:06",
+      "dateStart": "2026-05-06T13:09:35+02:00",
+      "dateEnd": "2026-05-06T13:15:06+02:00",
       "speechIndex": 30,
       "originID": "34582",
       "originalLanguage": "de",
@@ -17092,16 +17179,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "36",
+        "themaRaw": "Fortführung der Förderung von kleinen Solaranlagen",
         "rednerRaw": "Minister Tobias Goldschmidt",
         "gruppeRaw": "Regierung",
         "beginnClock": "13:09:35",
         "endeClock": "13:15:06",
         "durationSeconds": 331,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 66,
         "proceedingTextID": "u20117_120",
         "confidence": 1.0,
-        "alignDuration": 1.096250057220459,
-        "nerDuration": 0.7709190845489502
+        "agendaSource": "m7k",
+        "alignDuration": 1.1707689762115479,
+        "nerDuration": 0.7984628677368164
       }
     },
     {
@@ -17111,11 +17201,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T15:03:39",
-        "dateEnd": "2026-05-06T15:15:11"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T15:03:39",
-      "dateEnd": "2026-05-06T15:15:11",
+      "dateStart": "2026-05-06T15:03:39+02:00",
+      "dateEnd": "2026-05-06T15:15:11+02:00",
       "speechIndex": 31,
       "originID": "34587",
       "originalLanguage": "de",
@@ -17963,16 +18053,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Ministerin Dr. Dorit Stenke",
         "gruppeRaw": "Regierung",
         "beginnClock": "15:03:39",
         "endeClock": "15:15:11",
         "durationSeconds": 692,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 67,
         "proceedingTextID": "u20117_123",
         "confidence": 1.0,
-        "alignDuration": 1.902435064315796,
-        "nerDuration": 0.8935298919677734
+        "agendaSource": "m7k",
+        "alignDuration": 2.031313896179199,
+        "nerDuration": 0.8707051277160645
       }
     },
     {
@@ -17982,11 +18075,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T15:15:11",
-        "dateEnd": "2026-05-06T15:34:38"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T15:15:11",
-      "dateEnd": "2026-05-06T15:34:38",
+      "dateStart": "2026-05-06T15:15:11+02:00",
+      "dateEnd": "2026-05-06T15:34:38+02:00",
       "speechIndex": 32,
       "originID": "34588",
       "originalLanguage": "de",
@@ -18839,16 +18932,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Martin Habersaat",
         "gruppeRaw": "SPD",
         "beginnClock": "15:15:11",
         "endeClock": "15:34:38",
         "durationSeconds": 1167,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 73,
         "proceedingTextID": "u20117_133",
         "confidence": 1.0,
-        "alignDuration": 2.2665488719940186,
-        "nerDuration": 0.8312849998474121
+        "agendaSource": "m7k",
+        "alignDuration": 2.4510719776153564,
+        "nerDuration": 0.798569917678833
       }
     },
     {
@@ -18858,11 +18954,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T15:34:38",
-        "dateEnd": "2026-05-06T15:43:59"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T15:34:38",
-      "dateEnd": "2026-05-06T15:43:59",
+      "dateStart": "2026-05-06T15:34:38+02:00",
+      "dateEnd": "2026-05-06T15:43:59+02:00",
       "speechIndex": 33,
       "originID": "34589",
       "originalLanguage": "de",
@@ -19796,16 +19892,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Martin Balasus",
         "gruppeRaw": "CDU",
         "beginnClock": "15:34:38",
         "endeClock": "15:43:59",
         "durationSeconds": 561,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 75,
         "proceedingTextID": "u20117_137",
         "confidence": 1.0,
-        "alignDuration": 1.503661870956421,
-        "nerDuration": 0.9176449775695801
+        "agendaSource": "m7k",
+        "alignDuration": 1.5005929470062256,
+        "nerDuration": 0.89599609375
       }
     },
     {
@@ -19815,11 +19914,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T15:43:59",
-        "dateEnd": "2026-05-06T15:53:41"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T15:43:59",
-      "dateEnd": "2026-05-06T15:53:41",
+      "dateStart": "2026-05-06T15:43:59+02:00",
+      "dateEnd": "2026-05-06T15:53:41+02:00",
       "speechIndex": 34,
       "originID": "34590",
       "originalLanguage": "de",
@@ -20690,16 +20789,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Malte-Jannik Krüger",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "15:43:59",
         "endeClock": "15:53:41",
         "durationSeconds": 582,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 76,
         "proceedingTextID": "u20117_139",
         "confidence": 1.0,
-        "alignDuration": 1.7287559509277344,
-        "nerDuration": 0.9077460765838623
+        "agendaSource": "m7k",
+        "alignDuration": 1.6011757850646973,
+        "nerDuration": 0.917168140411377
       }
     },
     {
@@ -20709,11 +20811,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T15:53:41",
-        "dateEnd": "2026-05-06T16:01:43"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T15:53:41",
-      "dateEnd": "2026-05-06T16:01:43",
+      "dateStart": "2026-05-06T15:53:41+02:00",
+      "dateEnd": "2026-05-06T16:01:43+02:00",
       "speechIndex": 35,
       "originID": "34591",
       "originalLanguage": "de",
@@ -21382,16 +21484,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Anne Riecke",
         "gruppeRaw": "FDP",
         "beginnClock": "15:53:41",
         "endeClock": "16:01:43",
         "durationSeconds": 482,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 77,
         "proceedingTextID": "u20117_141",
         "confidence": 1.0,
-        "alignDuration": 1.2994558811187744,
-        "nerDuration": 0.6224639415740967
+        "agendaSource": "m7k",
+        "alignDuration": 1.3034579753875732,
+        "nerDuration": 0.5957241058349609
       }
     },
     {
@@ -21401,11 +21506,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:01:43",
-        "dateEnd": "2026-05-06T16:11:09"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:01:43",
-      "dateEnd": "2026-05-06T16:11:09",
+      "dateStart": "2026-05-06T16:01:43+02:00",
+      "dateEnd": "2026-05-06T16:11:09+02:00",
       "speechIndex": 36,
       "originID": "34592",
       "originalLanguage": "de",
@@ -22341,16 +22446,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "15",
+        "themaRaw": "Gemeinschaftsschulen ohne Oberstufe",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "16:01:43",
         "endeClock": "16:11:09",
         "durationSeconds": 566,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 78,
         "proceedingTextID": "u20117_143",
         "confidence": 1.0,
-        "alignDuration": 1.4983327388763428,
-        "nerDuration": 0.8775527477264404
+        "agendaSource": "m7k",
+        "alignDuration": 1.4755852222442627,
+        "nerDuration": 0.7851920127868652
       }
     },
     {
@@ -22360,11 +22468,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:12:14",
-        "dateEnd": "2026-05-06T16:17:58"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:12:14",
-      "dateEnd": "2026-05-06T16:17:58",
+      "dateStart": "2026-05-06T16:12:14+02:00",
+      "dateEnd": "2026-05-06T16:17:58+02:00",
       "speechIndex": 37,
       "originID": "34595",
       "originalLanguage": "de",
@@ -23069,16 +23177,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Sophia Schiebe",
         "gruppeRaw": "SPD",
         "beginnClock": "16:12:14",
         "endeClock": "16:17:58",
         "durationSeconds": 344,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 79,
         "proceedingTextID": "u20117_145",
         "confidence": 1.0,
-        "alignDuration": 1.0152709484100342,
-        "nerDuration": 0.5822927951812744
+        "agendaSource": "m7k",
+        "alignDuration": 0.9986321926116943,
+        "nerDuration": 0.565047025680542
       }
     },
     {
@@ -23088,11 +23199,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:17:58",
-        "dateEnd": "2026-05-06T16:27:01"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:17:58",
-      "dateEnd": "2026-05-06T16:27:01",
+      "dateStart": "2026-05-06T16:17:58+02:00",
+      "dateEnd": "2026-05-06T16:27:01+02:00",
       "speechIndex": 38,
       "originID": "34596",
       "originalLanguage": "de",
@@ -23273,16 +23384,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Birte Glißmann",
         "gruppeRaw": "CDU",
         "beginnClock": "16:17:58",
         "endeClock": "16:27:01",
         "durationSeconds": 543,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 87,
         "proceedingTextID": "u20117_158",
         "confidence": 1.0,
-        "alignDuration": 0.7919747829437256,
-        "nerDuration": 0.10743379592895508
+        "agendaSource": "m7k",
+        "alignDuration": 0.7939150333404541,
+        "nerDuration": 0.08698201179504395
       }
     },
     {
@@ -23292,11 +23406,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:27:01",
-        "dateEnd": "2026-05-06T16:37:54"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:27:01",
-      "dateEnd": "2026-05-06T16:37:54",
+      "dateStart": "2026-05-06T16:27:01+02:00",
+      "dateEnd": "2026-05-06T16:37:54+02:00",
       "speechIndex": 39,
       "originID": "34597",
       "originalLanguage": "de",
@@ -23808,16 +23922,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Catharina Johanna Nies",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "16:27:01",
         "endeClock": "16:37:54",
         "durationSeconds": 653,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 88,
         "proceedingTextID": "u20117_160",
         "confidence": 1.0,
-        "alignDuration": 1.4331121444702148,
-        "nerDuration": 0.4802989959716797
+        "agendaSource": "m7k",
+        "alignDuration": 1.4597721099853516,
+        "nerDuration": 0.4544961452484131
       }
     },
     {
@@ -23827,11 +23944,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:37:54",
-        "dateEnd": "2026-05-06T16:39:09"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:37:54",
-      "dateEnd": "2026-05-06T16:39:09",
+      "dateStart": "2026-05-06T16:37:54+02:00",
+      "dateEnd": "2026-05-06T16:39:09+02:00",
       "speechIndex": 40,
       "originID": "34598",
       "originalLanguage": "de",
@@ -23957,16 +24074,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Dr. Bernd Buchholz",
         "gruppeRaw": "FDP",
         "beginnClock": "16:37:54",
         "endeClock": "16:39:09",
         "durationSeconds": 75,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 90,
         "proceedingTextID": "u20117_164",
         "confidence": 1.0,
-        "alignDuration": 0.3790769577026367,
-        "nerDuration": 0.031477928161621094
+        "agendaSource": "m7k",
+        "alignDuration": 0.37831616401672363,
+        "nerDuration": 0.03220200538635254
       }
     },
     {
@@ -23976,11 +24096,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:39:09",
-        "dateEnd": "2026-05-06T16:44:31"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:39:09",
-      "dateEnd": "2026-05-06T16:44:31",
+      "dateStart": "2026-05-06T16:39:09+02:00",
+      "dateEnd": "2026-05-06T16:44:31+02:00",
       "speechIndex": 41,
       "originID": "34599",
       "originalLanguage": "de",
@@ -24400,16 +24520,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Jette Waldinger-Thiering",
         "gruppeRaw": "SSW",
         "beginnClock": "16:39:09",
         "endeClock": "16:44:31",
         "durationSeconds": 322,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 91,
         "proceedingTextID": "u20117_166",
         "confidence": 1.0,
-        "alignDuration": 0.9698209762573242,
-        "nerDuration": 0.49897027015686035
+        "agendaSource": "m7k",
+        "alignDuration": 0.9787693023681641,
+        "nerDuration": 0.4704163074493408
       }
     },
     {
@@ -24419,11 +24542,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:46:45",
-        "dateEnd": "2026-05-06T16:56:49"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:46:45",
-      "dateEnd": "2026-05-06T16:56:49",
+      "dateStart": "2026-05-06T16:46:45+02:00",
+      "dateEnd": "2026-05-06T16:56:49+02:00",
       "speechIndex": 42,
       "originID": "34601",
       "originalLanguage": "de",
@@ -25580,16 +25703,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "25",
+        "themaRaw": "Bundesratsinitiative - Schutz vor Deepfakes",
         "rednerRaw": "Ministerin Aminata Touré",
         "gruppeRaw": "Regierung",
         "beginnClock": "16:46:45",
         "endeClock": "16:56:49",
         "durationSeconds": 604,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 93,
         "proceedingTextID": "u20117_170",
         "confidence": 1.0,
-        "alignDuration": 1.813642978668213,
-        "nerDuration": 1.1603248119354248
+        "agendaSource": "m7k",
+        "alignDuration": 1.9359030723571777,
+        "nerDuration": 1.149183988571167
       }
     },
     {
@@ -25599,11 +25725,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T16:58:59",
-        "dateEnd": "2026-05-06T17:06:10"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T16:58:59",
-      "dateEnd": "2026-05-06T17:06:10",
+      "dateStart": "2026-05-06T16:58:59+02:00",
+      "dateEnd": "2026-05-06T17:06:10+02:00",
       "speechIndex": 43,
       "originID": "34605",
       "originalLanguage": "de",
@@ -25669,16 +25795,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Dr. Heiner Garg",
         "gruppeRaw": "FDP",
         "beginnClock": "16:58:59",
         "endeClock": "17:06:10",
         "durationSeconds": 431,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 95,
         "proceedingTextID": "u20117_174",
         "confidence": 1.0,
-        "alignDuration": 0.5921609401702881,
-        "nerDuration": 0.005936861038208008
+        "agendaSource": "m7k",
+        "alignDuration": 0.6342709064483643,
+        "nerDuration": 0.00680994987487793
       }
     },
     {
@@ -25688,11 +25817,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T17:06:10",
-        "dateEnd": "2026-05-06T17:11:10"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T17:06:10",
-      "dateEnd": "2026-05-06T17:11:10",
+      "dateStart": "2026-05-06T17:06:10+02:00",
+      "dateEnd": "2026-05-06T17:11:10+02:00",
       "speechIndex": 44,
       "originID": "34606",
       "originalLanguage": "de",
@@ -25977,16 +26106,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Beate Nielsen",
         "gruppeRaw": "CDU",
         "beginnClock": "17:06:10",
         "endeClock": "17:11:10",
         "durationSeconds": 300,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 99,
         "proceedingTextID": "u20117_181",
         "confidence": 1.0,
-        "alignDuration": 0.7927272319793701,
-        "nerDuration": 0.2084050178527832
+        "agendaSource": "m7k",
+        "alignDuration": 0.8711287975311279,
+        "nerDuration": 0.19650816917419434
       }
     },
     {
@@ -25996,11 +26128,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T17:11:10",
-        "dateEnd": "2026-05-06T17:17:24"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T17:11:10",
-      "dateEnd": "2026-05-06T17:17:24",
+      "dateStart": "2026-05-06T17:11:10+02:00",
+      "dateEnd": "2026-05-06T17:17:24+02:00",
       "speechIndex": 45,
       "originID": "34607",
       "originalLanguage": "de",
@@ -26856,16 +26988,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Nelly Waldeck",
         "gruppeRaw": "BÜNDNIS 90/DIE GRÜNEN",
         "beginnClock": "17:11:10",
         "endeClock": "17:17:24",
         "durationSeconds": 374,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 100,
         "proceedingTextID": "u20117_183",
         "confidence": 1.0,
-        "alignDuration": 1.148705005645752,
-        "nerDuration": 0.709334135055542
+        "agendaSource": "m7k",
+        "alignDuration": 1.2537949085235596,
+        "nerDuration": 0.6954731941223145
       }
     },
     {
@@ -26875,11 +27010,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T17:17:24",
-        "dateEnd": "2026-05-06T17:22:35"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T17:17:24",
-      "dateEnd": "2026-05-06T17:22:35",
+      "dateStart": "2026-05-06T17:17:24+02:00",
+      "dateEnd": "2026-05-06T17:22:35+02:00",
       "speechIndex": 46,
       "originID": "34608",
       "originalLanguage": "de",
@@ -27577,16 +27712,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Kianusch Stender",
         "gruppeRaw": "SPD",
         "beginnClock": "17:17:24",
         "endeClock": "17:22:35",
         "durationSeconds": 311,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 101,
         "proceedingTextID": "u20117_185",
         "confidence": 1.0,
-        "alignDuration": 1.015845775604248,
-        "nerDuration": 0.6486530303955078
+        "agendaSource": "m7k",
+        "alignDuration": 1.0089871883392334,
+        "nerDuration": 0.568903923034668
       }
     },
     {
@@ -27596,11 +27734,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T17:22:35",
-        "dateEnd": "2026-05-06T17:28:16"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T17:22:35",
-      "dateEnd": "2026-05-06T17:28:16",
+      "dateStart": "2026-05-06T17:22:35+02:00",
+      "dateEnd": "2026-05-06T17:28:16+02:00",
       "speechIndex": 47,
       "originID": "34609",
       "originalLanguage": "de",
@@ -28188,16 +28326,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Christian Dirschauer",
         "gruppeRaw": "SSW",
         "beginnClock": "17:22:35",
         "endeClock": "17:28:16",
         "durationSeconds": 341,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 102,
         "proceedingTextID": "u20117_187",
         "confidence": 1.0,
-        "alignDuration": 1.104327917098999,
-        "nerDuration": 0.6495969295501709
+        "agendaSource": "m7k",
+        "alignDuration": 1.0311260223388672,
+        "nerDuration": 0.5770001411437988
       }
     },
     {
@@ -28207,11 +28348,11 @@
       },
       "session": {
         "number": 117,
-        "dateStart": "2026-05-06T17:46:27",
-        "dateEnd": "2026-05-06T17:55:09"
+        "dateStart": "2026-05-06T09:41:18+02:00",
+        "dateEnd": "2026-05-06T17:55:09+02:00"
       },
-      "dateStart": "2026-05-06T17:46:27",
-      "dateEnd": "2026-05-06T17:55:09",
+      "dateStart": "2026-05-06T17:46:27+02:00",
+      "dateEnd": "2026-05-06T17:55:09+02:00",
       "speechIndex": 48,
       "originID": "34611",
       "originalLanguage": "de",
@@ -29224,16 +29365,19 @@
         "source": "m7k",
         "tagung": 42,
         "topNo": "43",
+        "themaRaw": "Umgang mit sozialen Medien",
         "rednerRaw": "Ministerpräsident Daniel Günther",
         "gruppeRaw": "Regierung",
         "beginnClock": "17:46:27",
         "endeClock": "17:55:09",
         "durationSeconds": 522,
+        "timesAreVideoRelative": false,
         "proceedingIndex": 112,
         "proceedingTextID": "u20117_205",
         "confidence": 1.0,
-        "alignDuration": 1.4671528339385986,
-        "nerDuration": 0.8104488849639893
+        "agendaSource": "m7k",
+        "alignDuration": 1.332170009613037,
+        "nerDuration": 0.7640419006347656
       }
     }
   ]
